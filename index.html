@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#3d405b">
+    <title>被讨厌的勇气 - 双语学习</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        :root {
+            --bg-color: #f8f9fa;
+            --card-bg: #ffffff;
+            --text-primary: #1a1a2e;
+            --text-secondary: #5a5a6e;
+            --accent-youth: #e85d4c;
+            --accent-philosopher: #3d405b;
+            --border-color: #e8e8ec;
+            --shadow: 0 2px 12px rgba(0,0,0,0.06);
+            --shadow-hover: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        
+        html {
+            font-size: 16px;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            line-height: 1.7;
+            min-height: 100vh;
+            padding-bottom: 80px;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, var(--accent-philosopher) 0%, #5a5d7a 100%);
+            color: white;
+            padding: 20px 16px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        header h1 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 4px;
+            letter-spacing: 0.5px;
+        }
+        
+        header p {
+            font-size: 0.85rem;
+            opacity: 0.9;
+        }
+        
+        /* Progress Bar */
+        .progress-container {
+            position: sticky;
+            top: 73px;
+            z-index: 99;
+            background: white;
+            padding: 8px 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .progress-bar {
+            height: 3px;
+            background: var(--border-color);
+            border-radius: 2px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-youth), var(--accent-philosopher));
+            transition: width 0.3s ease;
+        }
+        
+        .progress-text {
+            font-size: 0.7rem;
+            color: var(--text-secondary);
+            text-align: center;
+            margin-top: 4px;
+        }
+        
+        /* Chapter Info */
+        .chapter-info {
+            padding: 20px 16px 16px;
+            text-align: center;
+            background: white;
+            margin-bottom: 12px;
+        }
+        
+        .chapter-info h2 {
+            font-size: 1.1rem;
+            color: var(--accent-philosopher);
+            margin-bottom: 6px;
+            font-weight: 600;
+        }
+        
+        .chapter-info .chinese-title {
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+        }
+        
+        /* Hint */
+        .hint {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            padding: 12px 16px;
+            background: rgba(61, 64, 91, 0.05);
+            margin: 0 16px 12px;
+            border-radius: 8px;
+        }
+        
+        /* Dialogues */
+        .dialogue-container {
+            padding: 0 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .dialogue-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 16px;
+            box-shadow: var(--shadow);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border-left: 3px solid transparent;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .dialogue-card:active {
+            transform: scale(0.98);
+        }
+        
+        .dialogue-card.youth {
+            border-left-color: var(--accent-youth);
+        }
+        
+        .dialogue-card.philosopher {
+            border-left-color: var(--accent-philosopher);
+        }
+        
+        .speaker {
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .speaker.youth {
+            color: var(--accent-youth);
+        }
+        
+        .speaker.philosopher {
+            color: var(--accent-philosopher);
+        }
+        
+        .speaker-icon {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+        }
+        
+        .speaker.youth .speaker-icon {
+            background: var(--accent-youth);
+        }
+        
+        .speaker.philosopher .speaker-icon {
+            background: var(--accent-philosopher);
+        }
+        
+        .english-text {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: var(--text-primary);
+        }
+        
+        .chinese-text {
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px dashed var(--border-color);
+            font-size: 0.95rem;
+            line-height: 1.9;
+            color: var(--text-secondary);
+            display: none;
+        }
+        
+        .dialogue-card.revealed .chinese-text {
+            display: block;
+            animation: fadeIn 0.25s ease;
+        }
+        
+        .reveal-indicator {
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 0.7rem;
+            color: var(--border-color);
+            transition: all 0.2s;
+        }
+        
+        .dialogue-card.revealed .reveal-indicator {
+            color: var(--accent-philosopher);
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-3px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* Bottom Navigation */
+        .bottom-nav {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            border-top: 1px solid var(--border-color);
+            padding: 8px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.05);
+        }
+        
+        .nav-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 2px;
+            padding: 6px 12px;
+            border: none;
+            background: transparent;
+            color: var(--text-secondary);
+            font-size: 0.65rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            min-width: 60px;
+        }
+        
+        .nav-btn.active {
+            color: var(--accent-philosopher);
+        }
+        
+        .nav-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+        
+        .nav-btn svg {
+            width: 24px;
+            height: 24px;
+        }
+        
+        .chapter-select-container {
+            flex: 1;
+            padding: 0 8px;
+        }
+        
+        .chapter-select {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            font-size: 0.85rem;
+            background: var(--bg-color);
+            color: var(--text-primary);
+            cursor: pointer;
+            appearance: none;
+            -webkit-appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 10px center;
+            padding-right: 30px;
+        }
+        
+        .toggle-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 2px;
+            padding: 6px 12px;
+            border: none;
+            background: transparent;
+            color: var(--text-secondary);
+            font-size: 0.65rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            min-width: 60px;
+        }
+        
+        .toggle-btn.active {
+            color: var(--accent-youth);
+        }
+        
+        .toggle-btn svg {
+            width: 24px;
+            height: 24px;
+        }
+        
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--text-secondary);
+        }
+        
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--border-color);
+            border-top-color: var(--accent-philosopher);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .error {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--accent-youth);
+        }
+        
+        /* Desktop styles */
+        @media (min-width: 768px) {
+            body {
+                max-width: 800px;
+                margin: 0 auto;
+                padding-bottom: 0;
+            }
+            
+            .bottom-nav {
+                position: relative;
+                border-top: none;
+                border-bottom: 1px solid var(--border-color);
+                margin-bottom: 20px;
+                box-shadow: none;
+            }
+            
+            .dialogue-container {
+                padding: 0 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📚 The Courage to Be Disliked</h1>
+        <p>被讨厌的勇气 — 点击英文查看中文翻译</p>
+    </header>
+    
+    <div class="progress-container">
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+        </div>
+        <div class="progress-text" id="progressText">Chapter 1 / 23</div>
+    </div>
+    
+    <div class="chapter-info" id="chapterInfo">
+        <h2>Loading...</h2>
+        <div class="chinese-title">加载中...</div>
+    </div>
+    
+    <div class="hint">💡 点击任意段落查看中文翻译</div>
+    
+    <div id="content">
+        <div class="loading">
+            <div class="loading-spinner"></div>
+            <p>加载中...</p>
+        </div>
+    </div>
+    
+    <nav class="bottom-nav">
+        <button class="nav-btn" id="prevBtn" onclick="prevChapter()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M15 18l-6-6 6-6"/>
+            </svg>
+            <span>上一章</span>
+        </button>
+        
+        <div class="chapter-select-container">
+            <select id="chapterSelect" class="chapter-select" onchange="jumpToChapter(this.value)">
+                <option value="">选择章节...</option>
+            </select>
+        </div>
+        
+        <button class="toggle-btn" id="showAllBtn" onclick="toggleAllTranslations()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 20h9M12 20V4m0 16l-9 0M12 4V20m0-16l9 0M4 9l4-4m0 0l4 4M4 15l4 4m0 0l4-4"/>
+            </svg>
+            <span>全显示</span>
+        </button>
+        
+        <button class="nav-btn" id="nextBtn" onclick="nextChapter()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M9 18l6-6-6-6"/>
+            </svg>
+            <span>下一章</span>
+        </button>
+    </nav>
+    
+    <script>
+        let chapters = [];
+        let currentChapter = 0;
+        let allRevealed = false;
+        let touchStartX = 0;
+        let touchEndX = 0;
+        
+        // 检测是否为移动设备
+        const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+        
+        // 加载数据
+        async function loadContent() {
+            try {
+                // 尝试多个路径
+                let response;
+                const paths = ['content.json', './content.json', '/content.json'];
+                
+                for (const path of paths) {
+                    try {
+                        response = await fetch(path);
+                        if (response.ok) break;
+                    } catch (e) {}
+                }
+                
+                if (!response || !response.ok) {
+                    // 如果 fetch 失败，尝试嵌入的数据
+                    throw new Error('无法加载数据');
+                }
+                
+                chapters = await response.json();
+                init();
+            } catch (error) {
+                document.getElementById('content').innerHTML = `
+                    <div class="error">
+                        <h3>⚠️ 加载失败</h3>
+                        <p>请确保 content.json 文件与 index.html 在同一目录</p>
+                        <p style="font-size: 0.8rem; margin-top: 10px;">${error.message}</p>
+                    </div>
+                `;
+            }
+        }
+        
+        function init() {
+            populateChapterSelect();
+            if (chapters.length > 0) {
+                // 尝试从 URL 参数恢复章节
+                const urlParams = new URLSearchParams(window.location.search);
+                const chapterParam = parseInt(urlParams.get('chapter'));
+                if (chapterParam && chapterParam > 0 && chapterParam <= chapters.length) {
+                    renderChapter(chapterParam - 1);
+                } else {
+                    renderChapter(0);
+                }
+            }
+            
+            // 添加触摸手势支持
+            setupTouchGestures();
+        }
+        
+        function populateChapterSelect() {
+            const select = document.getElementById('chapterSelect');
+            select.innerHTML = '<option value="">选择章节...</option>' + 
+                chapters.map((ch, idx) => 
+                    `<option value="${idx}">第 ${ch.id} 章: ${ch.title.chinese || ch.title.english}</option>`
+                ).join('');
+        }
+        
+        function renderChapter(index) {
+            currentChapter = index;
+            const chapter = chapters[index];
+            const contentDiv = document.getElementById('content');
+            
+            // 更新导航按钮状态
+            document.getElementById('prevBtn').disabled = index === 0;
+            document.getElementById('nextBtn').disabled = index === chapters.length - 1;
+            document.getElementById('chapterSelect').value = index;
+            
+            // 更新进度
+            const progress = ((index + 1) / chapters.length) * 100;
+            document.getElementById('progressFill').style.width = `${progress}%`;
+            document.getElementById('progressText').textContent = `第 ${index + 1} / ${chapters.length} 章`;
+            
+            // 更新章节标题
+            document.getElementById('chapterInfo').innerHTML = `
+                <h2>${chapter.title.english}</h2>
+                <div class="chinese-title">${chapter.title.chinese}</div>
+            `;
+            
+            // 渲染对话
+            contentDiv.innerHTML = `
+                <div class="dialogue-container">
+                    ${chapter.dialogues.map((d, i) => `
+                        <div class="dialogue-card ${d.speaker.toLowerCase()} ${allRevealed ? 'revealed' : ''}" 
+                             onclick="toggleTranslation(this)"
+                             data-index="${i}">
+                            <div class="speaker ${d.speaker.toLowerCase()}">
+                                <span class="speaker-icon"></span>
+                                ${d.speaker === 'YOUTH' ? '青年' : '哲人'}
+                            </div>
+                            <div class="english-text">${escapeHtml(d.english)}</div>
+                            <div class="chinese-text">${escapeHtml(d.chinese)}</div>
+                            <span class="reveal-indicator">${allRevealed ? '✓' : '···'}</span>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+            
+            // 更新 URL（便于分享）
+            if (history.replaceState) {
+                history.replaceState({}, '', `?chapter=${index + 1}`);
+            }
+            
+            // 滚动到顶部
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        function toggleTranslation(card) {
+            card.classList.toggle('revealed');
+            const indicator = card.querySelector('.reveal-indicator');
+            indicator.textContent = card.classList.contains('revealed') ? '✓' : '···';
+        }
+        
+        function toggleAllTranslations() {
+            allRevealed = !allRevealed;
+            const btn = document.getElementById('showAllBtn');
+            const cards = document.querySelectorAll('.dialogue-card');
+            
+            btn.classList.toggle('active', allRevealed);
+            
+            cards.forEach(card => {
+                card.classList.toggle('revealed', allRevealed);
+                const indicator = card.querySelector('.reveal-indicator');
+                indicator.textContent = allRevealed ? '✓' : '···';
+            });
+        }
+        
+        function prevChapter() {
+            if (currentChapter > 0) {
+                renderChapter(currentChapter - 1);
+            }
+        }
+        
+        function nextChapter() {
+            if (currentChapter < chapters.length - 1) {
+                renderChapter(currentChapter + 1);
+            }
+        }
+        
+        function jumpToChapter(index) {
+            if (index !== '') {
+                renderChapter(parseInt(index));
+            }
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // 触摸手势支持
+        function setupTouchGestures() {
+            document.addEventListener('touchstart', (e) => {
+                touchStartX = e.changedTouches[0].screenX;
+            }, { passive: true });
+            
+            document.addEventListener('touchend', (e) => {
+                touchEndX = e.changedTouches[0].screenX;
+                handleSwipe();
+            }, { passive: true });
+        }
+        
+        function handleSwipe() {
+            const threshold = 80;
+            const diff = touchStartX - touchEndX;
+            
+            if (Math.abs(diff) > threshold) {
+                if (diff > 0) {
+                    // 向左滑 - 下一章
+                    nextChapter();
+                } else {
+                    // 向右滑 - 上一章
+                    prevChapter();
+                }
+            }
+        }
+        
+        // 键盘导航（桌面端）
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') prevChapter();
+            if (e.key === 'ArrowRight') nextChapter();
+        });
+        
+        // 加载内容
+        loadContent();
+        
+        // 防止双击缩放
+        let lastTouchEnd = 0;
+        document.addEventListener('touchend', (e) => {
+            const now = Date.now();
+            if (now - lastTouchEnd <= 300) {
+                e.preventDefault();
+            }
+            lastTouchEnd = now;
+        }, { passive: false });
+    </script>
+</body>
+</html>
