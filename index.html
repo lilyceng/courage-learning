@@ -158,6 +158,11 @@
             border-left-color: var(--accent-philosopher);
         }
         
+        .dialogue-card.narration {
+            border-left-color: #888;
+            background: #fafafa;
+        }
+        
         .speaker {
             font-weight: 600;
             font-size: 0.75rem;
@@ -177,6 +182,10 @@
             color: var(--accent-philosopher);
         }
         
+        .speaker.narration {
+            color: #888;
+        }
+        
         .speaker-icon {
             width: 6px;
             height: 6px;
@@ -189,6 +198,10 @@
         
         .speaker.philosopher .speaker-icon {
             background: var(--accent-philosopher);
+        }
+        
+        .speaker.narration .speaker-icon {
+            background: #888;
         }
         
         .english-text {
@@ -518,19 +531,25 @@
             // 渲染对话
             contentDiv.innerHTML = `
                 <div class="dialogue-container">
-                    ${chapter.dialogues.map((d, i) => `
-                        <div class="dialogue-card ${d.speaker.toLowerCase()} ${allRevealed ? 'revealed' : ''}" 
+                    ${chapter.dialogues.map((d, i) => {
+                        const speakerClass = d.speaker.toLowerCase();
+                        const speakerLabel = d.speaker === 'YOUTH' ? '青年' : 
+                                            d.speaker === 'PHILOSOPHER' ? '哲人' : '旁白';
+                        const showSpeaker = d.speaker !== 'NARRATION';
+                        return `
+                        <div class="dialogue-card ${speakerClass} ${allRevealed ? 'revealed' : ''}" 
                              onclick="toggleTranslation(this)"
                              data-index="${i}">
-                            <div class="speaker ${d.speaker.toLowerCase()}">
+                            ${showSpeaker ? `
+                            <div class="speaker ${speakerClass}">
                                 <span class="speaker-icon"></span>
-                                ${d.speaker === 'YOUTH' ? '青年' : '哲人'}
-                            </div>
+                                ${speakerLabel}
+                            </div>` : ''}
                             <div class="english-text">${escapeHtml(d.english)}</div>
                             <div class="chinese-text">${escapeHtml(d.chinese)}</div>
                             <span class="reveal-indicator">${allRevealed ? '✓' : '···'}</span>
                         </div>
-                    `).join('')}
+                    `}).join('')}
                 </div>
             `;
             

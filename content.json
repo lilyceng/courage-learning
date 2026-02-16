@@ -7,6 +7,11 @@
     },
     "dialogues": [
       {
+        "speaker": "NARRATION",
+        "english": "Once, in the ancient capital known for a thousand years, there lived a philosopher on its outskirts. This philosopher held that the world is extremely simple, and that people can obtain happiness at any time. There was a youth who could not accept this view, so he went to visit this philosopher to find out for himself. In the eyes of this youth, who was entangled in many troubles, the world was a chaotic mass of contradictions, and there was no happiness to speak of.",
+        "chinese": "从前，在被誉为千年之都的古都郊外住着一位哲人，他主张：世界极其简单，人们随时可以获得幸福。有一位青年无法接受这种观点，于是他去拜访这位哲人一探究竟。在这位被诸多烦恼缠绕的青年眼里，世界是矛盾丛生的一片混沌，根本无幸福可言。"
+      },
+      {
         "speaker": "YOUTH",
         "english": "I want to ask you once again; you do believe that the world is, in all ways, a simple place?",
         "chinese": "那么，我就重新向您发问了。先生主张世界极其简单，对吧？"
