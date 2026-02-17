@@ -394,7 +394,7 @@
         <div class="progress-bar">
             <div class="progress-fill" id="progressFill" style="width: 0%"></div>
         </div>
-        <div class="progress-text" id="progressText">Chapter 1 / 23</div>
+        <div class="progress-text" id="progressText">第 1 章</div>
     </div>
     
     <div class="chapter-info" id="chapterInfo">
@@ -503,7 +503,7 @@
             const select = document.getElementById('chapterSelect');
             select.innerHTML = '<option value="">选择章节...</option>' + 
                 chapters.map((ch, idx) => 
-                    `<option value="${idx}">第 ${ch.id} 章: ${ch.title.chinese || ch.title.english}</option>`
+                    `<option value="${idx}">第 ${ch.id} 章: ${ch.title}</option>`
                 ).join('');
         }
         
@@ -524,8 +524,8 @@
             
             // 更新章节标题
             document.getElementById('chapterInfo').innerHTML = `
-                <h2>${chapter.title.english}</h2>
-                <div class="chinese-title">${chapter.title.chinese}</div>
+                <h2>${chapter.title_en || chapter.title}</h2>
+                <div class="chinese-title">${chapter.title}</div>
             `;
             
             // 渲染对话

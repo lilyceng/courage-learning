@@ -1,10 +1,8 @@
 [
   {
     "id": 0,
-    "title": {
-      "en": "Introduction",
-      "zh": "引言"
-    },
+    "title": "引言",
+    "title_en": "Introduction",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -110,10 +108,8 @@
   },
   {
     "id": 1,
-    "title": {
-      "en": "Chapter 1",
-      "zh": "第1章"
-    },
+    "title": "第1章",
+    "title_en": "Chapter 1",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -219,10 +215,8 @@
   },
   {
     "id": 2,
-    "title": {
-      "en": "Chapter 2",
-      "zh": "第2章"
-    },
+    "title": "第2章",
+    "title_en": "Chapter 2",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -328,10 +322,8 @@
   },
   {
     "id": 3,
-    "title": {
-      "en": "Chapter 3",
-      "zh": "第3章"
-    },
+    "title": "第3章",
+    "title_en": "Chapter 3",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -437,10 +429,8 @@
   },
   {
     "id": 4,
-    "title": {
-      "en": "Chapter 4",
-      "zh": "第4章"
-    },
+    "title": "第4章",
+    "title_en": "Chapter 4",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -546,10 +536,8 @@
   },
   {
     "id": 5,
-    "title": {
-      "en": "Chapter 5",
-      "zh": "第5章"
-    },
+    "title": "第5章",
+    "title_en": "Chapter 5",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -655,10 +643,8 @@
   },
   {
     "id": 6,
-    "title": {
-      "en": "Chapter 6",
-      "zh": "第6章"
-    },
+    "title": "第6章",
+    "title_en": "Chapter 6",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -764,10 +750,8 @@
   },
   {
     "id": 7,
-    "title": {
-      "en": "Chapter 7",
-      "zh": "第7章"
-    },
+    "title": "第7章",
+    "title_en": "Chapter 7",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -873,10 +857,8 @@
   },
   {
     "id": 8,
-    "title": {
-      "en": "Chapter 8",
-      "zh": "第8章"
-    },
+    "title": "第8章",
+    "title_en": "Chapter 8",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -982,10 +964,8 @@
   },
   {
     "id": 9,
-    "title": {
-      "en": "Chapter 9",
-      "zh": "第9章"
-    },
+    "title": "第9章",
+    "title_en": "Chapter 9",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -1091,10 +1071,8 @@
   },
   {
     "id": 10,
-    "title": {
-      "en": "Chapter 10",
-      "zh": "第10章"
-    },
+    "title": "第10章",
+    "title_en": "Chapter 10",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -1200,10 +1178,8 @@
   },
   {
     "id": 11,
-    "title": {
-      "en": "Chapter 11",
-      "zh": "第11章"
-    },
+    "title": "第11章",
+    "title_en": "Chapter 11",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1309,10 +1285,8 @@
   },
   {
     "id": 12,
-    "title": {
-      "en": "Chapter 12",
-      "zh": "第12章"
-    },
+    "title": "第12章",
+    "title_en": "Chapter 12",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1418,10 +1392,8 @@
   },
   {
     "id": 13,
-    "title": {
-      "en": "Chapter 13",
-      "zh": "第13章"
-    },
+    "title": "第13章",
+    "title_en": "Chapter 13",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1527,10 +1499,8 @@
   },
   {
     "id": 14,
-    "title": {
-      "en": "Chapter 14",
-      "zh": "第14章"
-    },
+    "title": "第14章",
+    "title_en": "Chapter 14",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1636,10 +1606,8 @@
   },
   {
     "id": 15,
-    "title": {
-      "en": "Chapter 15",
-      "zh": "第15章"
-    },
+    "title": "第15章",
+    "title_en": "Chapter 15",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1745,10 +1713,8 @@
   },
   {
     "id": 16,
-    "title": {
-      "en": "Chapter 16",
-      "zh": "第16章"
-    },
+    "title": "第16章",
+    "title_en": "Chapter 16",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -1854,10 +1820,8 @@
   },
   {
     "id": 17,
-    "title": {
-      "en": "Chapter 17",
-      "zh": "第17章"
-    },
+    "title": "第17章",
+    "title_en": "Chapter 17",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1963,10 +1927,8 @@
   },
   {
     "id": 18,
-    "title": {
-      "en": "Chapter 18",
-      "zh": "第18章"
-    },
+    "title": "第18章",
+    "title_en": "Chapter 18",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -2072,10 +2034,8 @@
   },
   {
     "id": 19,
-    "title": {
-      "en": "Chapter 19",
-      "zh": "第19章"
-    },
+    "title": "第19章",
+    "title_en": "Chapter 19",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -2181,10 +2141,8 @@
   },
   {
     "id": 20,
-    "title": {
-      "en": "Chapter 20",
-      "zh": "第20章"
-    },
+    "title": "第20章",
+    "title_en": "Chapter 20",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -2290,10 +2248,8 @@
   },
   {
     "id": 21,
-    "title": {
-      "en": "Chapter 21",
-      "zh": "第21章"
-    },
+    "title": "第21章",
+    "title_en": "Chapter 21",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -2399,10 +2355,8 @@
   },
   {
     "id": 22,
-    "title": {
-      "en": "Chapter 22",
-      "zh": "第22章"
-    },
+    "title": "第22章",
+    "title_en": "Chapter 22",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -2508,10 +2462,8 @@
   },
   {
     "id": 23,
-    "title": {
-      "en": "Chapter 23",
-      "zh": "第23章"
-    },
+    "title": "第23章",
+    "title_en": "Chapter 23",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -2617,10 +2569,8 @@
   },
   {
     "id": 24,
-    "title": {
-      "en": "Chapter 24",
-      "zh": "第24章"
-    },
+    "title": "第24章",
+    "title_en": "Chapter 24",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -2726,10 +2676,8 @@
   },
   {
     "id": 25,
-    "title": {
-      "en": "Chapter 25",
-      "zh": "第25章"
-    },
+    "title": "第25章",
+    "title_en": "Chapter 25",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -2835,10 +2783,8 @@
   },
   {
     "id": 26,
-    "title": {
-      "en": "Chapter 26",
-      "zh": "第26章"
-    },
+    "title": "第26章",
+    "title_en": "Chapter 26",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -2944,10 +2890,8 @@
   },
   {
     "id": 27,
-    "title": {
-      "en": "Chapter 27",
-      "zh": "第27章"
-    },
+    "title": "第27章",
+    "title_en": "Chapter 27",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3053,10 +2997,8 @@
   },
   {
     "id": 28,
-    "title": {
-      "en": "Chapter 28",
-      "zh": "第28章"
-    },
+    "title": "第28章",
+    "title_en": "Chapter 28",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3162,10 +3104,8 @@
   },
   {
     "id": 29,
-    "title": {
-      "en": "Chapter 29",
-      "zh": "第29章"
-    },
+    "title": "第29章",
+    "title_en": "Chapter 29",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3271,10 +3211,8 @@
   },
   {
     "id": 30,
-    "title": {
-      "en": "Chapter 30",
-      "zh": "第30章"
-    },
+    "title": "第30章",
+    "title_en": "Chapter 30",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3380,10 +3318,8 @@
   },
   {
     "id": 31,
-    "title": {
-      "en": "Chapter 31",
-      "zh": "第31章"
-    },
+    "title": "第31章",
+    "title_en": "Chapter 31",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3489,10 +3425,8 @@
   },
   {
     "id": 32,
-    "title": {
-      "en": "Chapter 32",
-      "zh": "第32章"
-    },
+    "title": "第32章",
+    "title_en": "Chapter 32",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3598,10 +3532,8 @@
   },
   {
     "id": 33,
-    "title": {
-      "en": "Chapter 33",
-      "zh": "第33章"
-    },
+    "title": "第33章",
+    "title_en": "Chapter 33",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3707,10 +3639,8 @@
   },
   {
     "id": 34,
-    "title": {
-      "en": "Chapter 34",
-      "zh": "第34章"
-    },
+    "title": "第34章",
+    "title_en": "Chapter 34",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3816,10 +3746,8 @@
   },
   {
     "id": 35,
-    "title": {
-      "en": "Chapter 35",
-      "zh": "第35章"
-    },
+    "title": "第35章",
+    "title_en": "Chapter 35",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3925,10 +3853,8 @@
   },
   {
     "id": 36,
-    "title": {
-      "en": "Chapter 36",
-      "zh": "第36章"
-    },
+    "title": "第36章",
+    "title_en": "Chapter 36",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4034,10 +3960,8 @@
   },
   {
     "id": 37,
-    "title": {
-      "en": "Chapter 37",
-      "zh": "第37章"
-    },
+    "title": "第37章",
+    "title_en": "Chapter 37",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4143,10 +4067,8 @@
   },
   {
     "id": 38,
-    "title": {
-      "en": "Chapter 38",
-      "zh": "第38章"
-    },
+    "title": "第38章",
+    "title_en": "Chapter 38",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -4252,10 +4174,8 @@
   },
   {
     "id": 39,
-    "title": {
-      "en": "Chapter 39",
-      "zh": "第39章"
-    },
+    "title": "第39章",
+    "title_en": "Chapter 39",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -4361,10 +4281,8 @@
   },
   {
     "id": 40,
-    "title": {
-      "en": "Chapter 40",
-      "zh": "第40章"
-    },
+    "title": "第40章",
+    "title_en": "Chapter 40",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -4470,10 +4388,8 @@
   },
   {
     "id": 41,
-    "title": {
-      "en": "Chapter 41",
-      "zh": "第41章"
-    },
+    "title": "第41章",
+    "title_en": "Chapter 41",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -4579,10 +4495,8 @@
   },
   {
     "id": 42,
-    "title": {
-      "en": "Chapter 42",
-      "zh": "第42章"
-    },
+    "title": "第42章",
+    "title_en": "Chapter 42",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4688,10 +4602,8 @@
   },
   {
     "id": 43,
-    "title": {
-      "en": "Chapter 43",
-      "zh": "第43章"
-    },
+    "title": "第43章",
+    "title_en": "Chapter 43",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4797,10 +4709,8 @@
   },
   {
     "id": 44,
-    "title": {
-      "en": "Chapter 44",
-      "zh": "第44章"
-    },
+    "title": "第44章",
+    "title_en": "Chapter 44",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4906,10 +4816,8 @@
   },
   {
     "id": 45,
-    "title": {
-      "en": "Chapter 45",
-      "zh": "第45章"
-    },
+    "title": "第45章",
+    "title_en": "Chapter 45",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5015,10 +4923,8 @@
   },
   {
     "id": 46,
-    "title": {
-      "en": "Chapter 46",
-      "zh": "第46章"
-    },
+    "title": "第46章",
+    "title_en": "Chapter 46",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5124,10 +5030,8 @@
   },
   {
     "id": 47,
-    "title": {
-      "en": "Chapter 47",
-      "zh": "第47章"
-    },
+    "title": "第47章",
+    "title_en": "Chapter 47",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5233,10 +5137,8 @@
   },
   {
     "id": 48,
-    "title": {
-      "en": "Chapter 48",
-      "zh": "第48章"
-    },
+    "title": "第48章",
+    "title_en": "Chapter 48",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -5342,10 +5244,8 @@
   },
   {
     "id": 49,
-    "title": {
-      "en": "Chapter 49",
-      "zh": "第49章"
-    },
+    "title": "第49章",
+    "title_en": "Chapter 49",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -5451,10 +5351,8 @@
   },
   {
     "id": 50,
-    "title": {
-      "en": "Chapter 50",
-      "zh": "第50章"
-    },
+    "title": "第50章",
+    "title_en": "Chapter 50",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -5560,10 +5458,8 @@
   },
   {
     "id": 51,
-    "title": {
-      "en": "Chapter 51",
-      "zh": "第51章"
-    },
+    "title": "第51章",
+    "title_en": "Chapter 51",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5669,10 +5565,8 @@
   },
   {
     "id": 52,
-    "title": {
-      "en": "Chapter 52",
-      "zh": "第52章"
-    },
+    "title": "第52章",
+    "title_en": "Chapter 52",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5778,10 +5672,8 @@
   },
   {
     "id": 53,
-    "title": {
-      "en": "Chapter 53",
-      "zh": "第53章"
-    },
+    "title": "第53章",
+    "title_en": "Chapter 53",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -5887,10 +5779,8 @@
   },
   {
     "id": 54,
-    "title": {
-      "en": "Chapter 54",
-      "zh": "第54章"
-    },
+    "title": "第54章",
+    "title_en": "Chapter 54",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5996,10 +5886,8 @@
   },
   {
     "id": 55,
-    "title": {
-      "en": "Chapter 55",
-      "zh": "第55章"
-    },
+    "title": "第55章",
+    "title_en": "Chapter 55",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -6105,10 +5993,8 @@
   },
   {
     "id": 56,
-    "title": {
-      "en": "Chapter 56",
-      "zh": "第56章"
-    },
+    "title": "第56章",
+    "title_en": "Chapter 56",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6214,10 +6100,8 @@
   },
   {
     "id": 57,
-    "title": {
-      "en": "Chapter 57",
-      "zh": "第57章"
-    },
+    "title": "第57章",
+    "title_en": "Chapter 57",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6323,10 +6207,8 @@
   },
   {
     "id": 58,
-    "title": {
-      "en": "Chapter 58",
-      "zh": "第58章"
-    },
+    "title": "第58章",
+    "title_en": "Chapter 58",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6432,10 +6314,8 @@
   },
   {
     "id": 59,
-    "title": {
-      "en": "Chapter 59",
-      "zh": "第59章"
-    },
+    "title": "第59章",
+    "title_en": "Chapter 59",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6541,10 +6421,8 @@
   },
   {
     "id": 60,
-    "title": {
-      "en": "Chapter 60",
-      "zh": "第60章"
-    },
+    "title": "第60章",
+    "title_en": "Chapter 60",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -6650,10 +6528,8 @@
   },
   {
     "id": 61,
-    "title": {
-      "en": "Chapter 61",
-      "zh": "第61章"
-    },
+    "title": "第61章",
+    "title_en": "Chapter 61",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -6759,10 +6635,8 @@
   },
   {
     "id": 62,
-    "title": {
-      "en": "Chapter 62",
-      "zh": "第62章"
-    },
+    "title": "第62章",
+    "title_en": "Chapter 62",
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6868,10 +6742,8 @@
   },
   {
     "id": 63,
-    "title": {
-      "en": "Chapter 63",
-      "zh": "第63章"
-    },
+    "title": "第63章",
+    "title_en": "Chapter 63",
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -6977,10 +6849,8 @@
   },
   {
     "id": 64,
-    "title": {
-      "en": "Chapter 64",
-      "zh": "第64章"
-    },
+    "title": "第64章",
+    "title_en": "Chapter 64",
     "dialogues": [
       {
         "speaker": "YOUTH",
