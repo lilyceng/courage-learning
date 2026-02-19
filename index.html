@@ -115,6 +115,16 @@
             color: var(--text-secondary);
         }
         
+        .chapter-info .part-label {
+            font-size: 0.75rem;
+            color: var(--accent-youth);
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            margin-bottom: 6px;
+            opacity: 0.85;
+        }
+        
         /* Hint */
         .hint {
             text-align: center;
@@ -503,7 +513,7 @@
             const select = document.getElementById('chapterSelect');
             select.innerHTML = '<option value="">选择章节...</option>' + 
                 chapters.map((ch, idx) => 
-                    `<option value="${idx}">第 ${ch.id} 章: ${ch.title}</option>`
+                    `<option value="${idx}">${idx + 1}. ${ch.title_cn} / ${ch.title_en}</option>`
                 ).join('');
         }
         
@@ -524,8 +534,9 @@
             
             // 更新章节标题
             document.getElementById('chapterInfo').innerHTML = `
-                <h2>${chapter.title_en || chapter.title}</h2>
-                <div class="chinese-title">${chapter.title}</div>
+                ${chapter.part_title_en ? `<div class="part-label">${chapter.part_title_cn}</div>` : ''}
+                <h2>${chapter.title_en}</h2>
+                <div class="chinese-title">${chapter.title_cn}</div>
             `;
             
             // 渲染对话
