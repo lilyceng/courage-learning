@@ -6,7 +6,13 @@
     "part_title_cn": "",
     "title_en": "Introduction",
     "title_cn": "引言",
+    "narrationOnly": false,
     "dialogues": [
+      {
+        "speaker": "NARRATION",
+        "english": "On the outskirts of the thousand-year-old city lived a philosopher who taught that the world was simple and that happiness was within the reach of every man, instantly. Ayoung man who was dissatisfied with life went to visit this philosopher to get to the heart of the matter. This youth found the world a chaotic mass of contradictions and, in his anxious eyes, any notion of happiness was completely absurd.",
+        "chinese": "从前，在被誉为千年之都的古都郊外住着一位哲人，他主张：世界极其简单，人们随时可以获得幸福。有一位青年无法接受这种观点，于是他去拜访这位哲人一探究竟。在这位被诸多烦恼缠绕的青年眼里，世界是矛盾丛生的一片混沌，根本无幸福可言。"
+      },
       {
         "speaker": "YOUTH",
         "english": "I want to ask you once again; you do believe that the world is, in all ways, a simple place?",
@@ -25,7 +31,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes, of course.",
-        "chinese": ""
+        "chinese": "当然"
       },
       {
         "speaker": "YOUTH",
@@ -40,7 +46,7 @@
       {
         "speaker": "YOUTH",
         "english": "Because I have heard all about your reputation. The word is that there is an eccentric philosopher living here whose teachings and arguments are hard to ignore, namely, that people can change, that the world is simple and that everyone can be happy. That is the sort of thing I have heard, but I find that view totally unacceptable, so I wanted to confirm things for myself. If I find anything you say completely off, I will point it out and then correct you . . . But will you find that annoying?",
-        "chinese": "久闻先生大名。据说此地住着一位与众不同的哲人，提倡不容小觑的理想论——人可以改变、世界极其简单、人人能获得幸福。对我来说，先生的这些论调我都无法接受。"
+        "chinese": "久闻先生大名。据说此地住着一位与众不同的哲人，提倡不容小觑的理想论——人可以改变、世界极其简单、人人能获得幸福。对我来说，先生的这些论调我都无法接受。所以，我想用自己的眼睛去确认，哪怕是微小的不当之处也要给您纠正过来。不知是否打搅您了？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -50,7 +56,7 @@
       {
         "speaker": "YOUTH",
         "english": "Thanks. I do not intend to dismiss you out of hand. I will take your views into consideration and then look at the possibilities that present themselves. ‘The world is simple and life is simple, too’—if there is anything in this thesis that might contain truth, it would be life from a child’s point of view. Children do not have any obvious duties, like paying taxes or going to work. They are protected by their parents and society, and can spend days free from care. They can imagine a future that goes on forever and do whatever they want. They don’t have to see grim reality—they are blindfolded. So, to them the world must have a simple form. However, as a child matures to adulthood the world reveals its true nature. Very shortly, the child will know how things really are and what he is really allowed to do. His opinion will alter and all he will see is impossibility. His romantic view will end and be replaced by cruel realism.",
-        "chinese": "非常感谢。其实我也并非是想要不分青红皂白地否定先生。首先，假定先生的说法成立，我们从这种可能性开始思考。"
+        "chinese": "非常感谢。其实我也并非是想要不分青红皂白地否定先生。首先，假定先生的说法成立，我们从这种可能性开始思考。世界是简单的，人生也是如此。假若这种命题中含有几分真理，那也是对于孩子的世界而言。孩子的世界没有劳动或纳税之类的现实义务，他们每天都在父母或社会的呵护下自由自在地生活，未来充满无限希望，自己也似乎无所不能。孩子们的眼睛被遮盖了，不必去面对丑恶的现实。的确，孩子眼中的世界呈现出简单的姿态。但是，随着年龄的增长，世界便逐渐露出真面目。人们不得不接受“我只不过如此”之类的现实，原以为等候在人生路上的一切“可能”都会变成“不可能‘幸福的浪漫主义季节转瞬即逝，残酷的现实主义时代终将到来。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -70,7 +76,7 @@
       {
         "speaker": "YOUTH",
         "english": "Well, if we were still living at a time when religion held sway, salvation might be an option because the teachings of the divine were everything to us. All we had to do was obey them and consequently have little to think about. But religion has lost its power and now there is no real belief in God. With nothing to rely on, everyone is filled with anxiety and doubt. Everyone is living for themselves. That is how society is today, so please tell me—given these realities and in the light of what I have said—can you still say the world is simple?",
-        "chinese": "如果是在宗教盛行的时代，人们也还有救。那时，神的旨意就是真理、就是世界、就是一切，只要遵从神的旨意，需要思考的课题也就很少。但现在宗教失去了力量，人们对神的信仰也趋于形式化。没有任何可以信赖的东西，人人都充满了不安和猜忌，大家都只为自己而活，这就是所谓的现代社会。"
+        "chinese": "如果是在宗教盛行的时代，人们也还有救。那时，神的旨意就是真理、就是世界、就是一切，只要遵从神的旨意，需要思考的课题也就很少。但现在宗教失去了力量，人们对神的信仰也趋于形式化。没有任何可以信赖的东西，人人都充满了不安和猜忌，大家都只为自己而活，这就是所谓的现代社会。那么，请先生冋答我。在这样的现实面前，您依然要说世界是简单的吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -90,7 +96,7 @@
       {
         "speaker": "YOUTH",
         "english": "I am?",
-        "chinese": ""
+        "chinese": "我？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -125,7 +131,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "No, it’s not an illusion. You see, to you, in that moment, the coolness or warmth of the well water is an undeniable fact. That’s what it means to live in your subjective world. There is no escape from your own subjectivity. At present, the world seems complicated and mysterious to you, but if you change, the world will appear more simple. The issue is not about how the world is, but about how you are.",
-        "chinese": "不，这并不是错觉。对那时的”你“来说，井水的冷暖是不容否定的事实。所谓住在主观的世界中就是这个道理。”如何看待“这一主观就是全部，并且我们无法摆脱自己的主观。"
+        "chinese": "不，这并不是错觉。对那时的”你“来说，井水的冷暖是不容否定的事实。所谓住在主观的世界中就是这个道理。”如何看待“这一主观就是全部，并且我们无法摆脱自己的主观。现在，你眼中的世界呈现出复杂怪异的一片混沌。但是，如果你自身发生了变化，世界就会恢复其简单姿态。因为，问题不在于世界如何，而在于你自己怎样。"
       },
       {
         "speaker": "YOUTH",
@@ -135,12 +141,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Right . . . It’s as if you see the world through dark glasses, so naturally everything seems dark. But if that is the case, instead of lamenting about the world’s darkness, you could just remove the glasses. Perhaps the world will appear terribly bright to you then and you will involuntarily shut your eyes. Maybe you’ll want the glasses back on, but can you even take them off in the first place? Can you look directly at the world? Do you have the courage?",
-        "chinese": "是的。也许你是在透过墨镜看世界，这样看到的世界理所当然就会变暗。如果真是如此，你需要做的是摘掉墨镜，而不是感叹世界的黑暗。"
+        "chinese": "是的。也许你是在透过墨镜看世界，这样看到的世界理所当然就会变暗。如果真是如此，你需要做的是摘掉墨镜，而不是感叹世界的黑暗。摘掉墨镜之后看到的世界也许会太过耀眼，而使你禁不住闭上眼睛。或许你又会想念墨镜。即便如此，你依然能够摘掉墨镜吗？你能正视这个世界吗？你有这种”勇气“吗？问题就在这里。"
       },
       {
         "speaker": "YOUTH",
         "english": "Courage?",
-        "chinese": ""
+        "chinese": "勇气？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -224,78 +230,85 @@
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
+    "title_en": "THE FIRST NIGHT: Deny Trauma",
+    "title_cn": "第一夜 我们的不幸是谁的错？",
+    "narrationOnly": true,
+    "dialogues": [
+      {
+        "speaker": "NARRATION",
+        "english": "The young man entered the study and sat slouched in a chair. Why was he so determined to reject the philosopher’s theories? His reasons were abundantly clear. He lacked self-confidence and, ever since childhood, this had been compounded by deep-seated feelings of inferiority with regard to his personal and academic backgrounds, as well as his physical appearance. Perhaps, as a result, he tended to be excessively self-conscious when people looked at him. Mostly, he seemed incapable of truly appreciating other people’s happiness and was constantly pitying himself. To him, the philosopher’s claims were nothing more than the stuff of fantasy.",
+        "chinese": "一进入书房，青年便弓腰驼背地坐在屋里的一张椅子上。他为什么会如此激烈地反对哲人的主张呢？原因已经不言而喻。青年自幼就缺乏自信，他对自己的出身、学历甚至容貌都抱有强烈的自卑感。也许是因为这样，他往往过于在意他人的目光；而且，他无法衷心地去祝福别人的幸福，从而常常陷入自我嫌恶的痛苦境地。对青年而言，哲人的主张只不过是乌托邦式的空想而已。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "part_title_en": "THE FIRST NIGHT: Deny Trauma",
+    "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "The Unknown Third Giant",
     "title_cn": "不为人知的心理学\"第三巨头\"",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
-        "english": "",
+        "english": "A moment ago, you used the words “another philosophy,” but I’ve heard that your specialty is in Greek philosophy.",
         "chinese": "刚才您提到”另一种哲学“。但我听闻先生的专长好像是希腊哲学吧？"
       },
       {
         "speaker": "PHILOSOPHER",
-        "english": "",
+        "english": "Yes, Greek philosophy has been central to my life ever since I was a teenager. The great intellectual figures: Socrates, Plato, Aristotle. I am translating a work by Plato at the moment, and I expect to spend the rest of my life studying classical Greek thought.",
         "chinese": "是啊，从十几岁开始就一直和希腊哲学为伴。从苏格拉底到柏拉图、亚里士多德等，知识巨人们一直都陪伴着我。现在我也在翻译柏拉图的著作，对古希腊的探究也许终生都不会停止。"
       },
       {
         "speaker": "YOUTH",
-        "english": "A moment ago, you used the words “another philosophy,” but I’ve heard that your specialty is in Greek philosophy.",
+        "english": "Well, then what is this “other philosophy”?",
         "chinese": "那么，”另一种哲学“又是指什么呢？"
       },
       {
         "speaker": "PHILOSOPHER",
-        "english": "Yes, Greek philosophy has been central to my life ever since I was a teenager. The great intellectual figures: Socrates, Plato, Aristotle. I am translating a work by Plato at the moment, and I expect to spend the rest of my life studying classical Greek thought.",
+        "english": "It is a completely new school of psychology that was established by the Austrian psychiatrist Alfred Adler at the beginning of the twentieth century. It is generally referred to as Adlerian psychology.",
         "chinese": "它是由奥地利出身的精神科医生阿尔弗雷德？阿德勒于20世纪初创立的全新心理学。我们现在一般根据创立者的名字而称其为”阿德勒心理学'"
-      },
+      },  
       {
         "speaker": "YOUTH",
-        "english": "Well, then what is this “other philosophy”?",
+        "english": "Huh. I never would have imagined that a specialist in Greek philosophy would be interested in psychology.",
         "chinese": "这倒是让我有些意外。希腊哲学的专家还研究心理学吗？"
       },
       {
         "speaker": "PHILOSOPHER",
-        "english": "It is a completely new school of psychology that was established by the Austrian psychiatrist Alfred Adler at the beginning of the twentieth century. It is generally referred to as Adlerian psychology.",
+        "english": "I’m not very familiar with paths taken by other schools of psychology. However, I think it is fair to say that Adlerian psychology is clearly in line with Greek philosophy, and that it is a proper field of study.",
         "chinese": "我不清楚其他的心理学是什么情况。但是，阿德勒心理学可以说是与希腊哲学一脉相承的思想，是一门很深奥的学问。"
       },
       {
         "speaker": "YOUTH",
-        "english": "Huh. I never would have imagined that a specialist in Greek philosophy would be interested in psychology.",
+        "english": "I have a passing knowledge of the psychology of Freud and Jung. A fascinating field.",
         "chinese": "如果是弗洛伊德或荣格的心理学，我也多少有些心得体会。的确是非常有趣的研究领域。"
       },
       {
         "speaker": "PHILOSOPHER",
-        "english": "I’m not very familiar with paths taken by other schools of psychology. However, I think it is fair to say that Adlerian psychology is clearly in line with Greek philosophy, and that it is a proper field of study.",
+        "english": "Yes, Freud and Jung are both renowned. Adler was one of the original core members of the Vienna Psychoanalytic Society, which was led by Freud. His ideas were counter to Freud’s, and he split from the group and proposed an “individual psychology” based on his own original theories.",
         "chinese": "是的，弗洛伊德和荣格也非常有名。阿德勒原本是弗洛伊德主持的维也纳精神分析协会的核心成员。但是，两人后来因观点对立而导致关系破裂，于是阿德勒根据自己的理论开创了“个体心理学”。"
       },
       {
         "speaker": "YOUTH",
-        "english": "I have a passing knowledge of the psychology of Freud and Jung. A fascinating field.",
+        "english": "Individual psychology? Another odd term. So Adler was a disciple of Freud’s?",
         "chinese": "个体心理学？可真是一个奇怪的名字。总之，这个叫阿德勒的人是弗洛伊德的弟子吧？"
       },
       {
         "speaker": "PHILOSOPHER",
-        "english": "Yes, Freud and Jung are both renowned. Adler was one of the original core members of the Vienna Psychoanalytic Society, which was led by Freud. His ideas were counter to Freud’s, and he split from the group and proposed an “individual psychology” based on his own original theories.",
+        "english": "No, he was not. That misconception is common; we must dispel it. For one thing, Adler and Freud were relatively close in age, and the relationship they formed as researchers was founded upon equal footing. In this respect, Adler was very different from Jung, who revered Freud as a father figure. Though psychology primarily tends to be associated with Freud and Jung, Adler is recognized throughout the rest of the world, along with Freud and Jung, as one of the three giants in this field.",
         "chinese": "不，不是弟子。这一点常常被人误解，在这里必须对此作出明确否定。阿德勒和弗洛伊德年龄相仿，是平等的研究者关系，这一点完全不同于把弗洛伊德视若父亲一样仰慕的荣格。而且一提到心理学，人们往往只想到弗洛伊德或荣格的名字，但在世界上，阿德勒是与弗洛伊德、荣格并列的三大巨头之一。"
       },
       {
         "speaker": "YOUTH",
-        "english": "Individual psychology? Another odd term. So Adler was a disciple of Freud’s?",
+        "english": "I see. I should have studied it more.",
         "chinese": "是啊。我这方面的知识的确还有所欠缺。"
       },
       {
         "speaker": "PHILOSOPHER",
-        "english": "No, he was not. That misconception is common; we must dispel it. For one thing, Adler and Freud were relatively close in age, and the relationship they formed as researchers was founded upon equal footing. In this respect, Adler was very different from Jung, who revered Freud as a father figure. Though psychology primarily tends to be associated with Freud and Jung, Adler is recognized throughout the rest of the world, along with Freud and Jung, as one of the three giants in this field.",
-        "chinese": "你不知道阿德勒也很自然。阿德勒自己就曾说：“将来也许没人会想起我的名字。甚至人们会忘记阿德勒派。”但是，他说即使如此也没有关系。因为他认为阿德勒派本身被遗忘就意味着他的思想己经由一门学问蜕变成了人们的共同感觉。"
-      },
-      {
-        "speaker": "YOUTH",
-        "english": "I see. I should have studied it more.",
-        "chinese": "也就是说，它是一门不单纯为了做学问的学问？"
-      },
-      {
-        "speaker": "PHILOSOPHER",
         "english": "I suppose it’s only natural you haven’t heard of Adler. As he himself said, “There might come a time when one will not remember my name; one might even have forgotten that our school ever existed.” Then he went on to say that it didn’t matter. The implication being that if his school were forgotten, it would be because his ideas had outgrown the bounds of a single area of scholarship, and become commonplace, and a feeling shared by everyone. For example, Dale Carnegie, who wrote the international bestsellers How to Win Friends and Influence People and How to Stop Worrying and Start Living , referred to Adler as “a great psychologist who devoted his life to researching humans and their latent abilities.” The influence of Adler’s thinking is clearly present throughout his writings. And in Stephen Covey’s The 7 Habits of Highly Effective People , much of the content closely resembles Adler’s ideas. In other words, rather than being a strict area of scholarship, Adlerian psychology is accepted as a realization, a culmination of truths and of human understanding. Yet Adler’s ideas are said to have been a hundred years ahead of their time, and even today we have not managed to fully comprehend them. That is how truly groundbreaking they were.",
-        "chinese": "是的。例如，因全球畅销书《人性的弱点》和《美好的人生》而闻名的戴尔？卡耐基也曾评价阿德勒为“终其一生研究人及人的潜力的伟大心理学家”，而且其著作中也体现了很多阿德勒的思想。同样，史蒂芬？柯维所著的《高效能人士的7个习惯》中的许多内容也与阿德勒的思想非常相近。"
+        "chinese": "你没听说过阿德勒，其实也很正常。正如阿德勒自己所说：“或许将来有一天，没人会记得我的名字，甚至会忘记我所创立的这一学说曾经存在过。”但他接着说，这也没关系。言下之意是，如果他的学说被遗忘，那恰恰是因为他的思想早已超越了单一学术领域的界限，变成了人人皆知的常识，变成了所有人共通的感受。比如说，写出了全球畅销书《人性的弱点》与《美好的人生》的戴尔·卡耐基，就曾称阿德勒是“一位毕生致力于研究人类及其潜在能力的伟大心理学家”。卡耐基的著作中，随处可见阿德勒思想的影响。而在史蒂芬·柯维的《高效能人士的7个习惯》里，许多内容也与阿德勒的思想高度相近。也就是说，阿德勒心理学并非一门刻板的学问，而是被视作一种生命实相，是真理与人类认知的结晶。可即便如此，阿德勒的思想仍被认为超前了时代整整一百年，即便到今天，我们也还没能完全理解它。这足以见得，他的思想有多么具有开创性。"
       },
       {
         "speaker": "YOUTH",
@@ -325,12 +338,13 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "Why People Can Change",
     "title_cn": "再怎么\"找原因\"，也没法改变一个人",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -345,7 +359,7 @@
       {
         "speaker": "YOUTH",
         "english": "Let’s save the discussion about happiness for later and address change first. Everyone wishes they could change. I know I do, and I’m sure anyone you might stop and ask on the street would agree. But why does everyone feel they want to change? There’s only one answer: because they cannot change. If it were easy for people to change, they wouldn’t spend so much time wishing they could. No matter how much they wish it, people cannot change. And that’s why there are always so many people getting taken in by new religions and dubious self-help seminars and any preaching on how everyone can change. Am I wrong?",
-        "chinese": "关于幸福的议题稍后再说，首先我要问问您“改变”一事。人的确都期待改变，我是如此，随便问—个路人恐怕也会得到相同的答案。但是，为什么人家都“期待改变”呢？答案只有一个，那就是因为人家都无法改变。假若轻易就可以改变，那么人们就不会特意“期待改变”了。"
+        "chinese": "关于幸福的议题稍后再说，首先我要问问您“改变”一事。人的确都期待改变，我是如此，随便问—个路人恐怕也会得到相同的答案。但是，为什么人家都“期待改变”呢？答案只有一个，那就是因为人家都无法改变。假若轻易就可以改变，那么人们就不会特意“期待改变”了。人即使想要改变也无法改变。正因为如此，才会不断有人被宣扬可以改变人的新兴宗教或怪异的自我启发课程所蒙骗。难道不是这样吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -395,12 +409,12 @@
       {
         "speaker": "YOUTH",
         "english": "You do.",
-        "chinese": ""
+        "chinese": "是的"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "So if the here and now of everyone in the world is due to their past incidents, according to you, wouldn’t things turn out very strangely? Don’t you see? Everyone who has grown up abused by his or her parents would have to suffer the same effects as your friend and become a recluse, or the whole idea just doesn’t hold water. That is, if the past actually determines the present, and the causes control the effects.",
-        "chinese": "假若如你所言，如果所有人的“现在”都由“过去”所决定，那岂不是很奇怪吗？"
+        "chinese": "假若如你所言，如果所有人的“现在”都由“过去”所决定，那岂不是很奇怪吗？同时，如果不是所有在父母虐待中长大的人都和你朋友一样闭门不出，那么事情就讲不通了。所谓过去决定现在、原因支配结果应该就是这样吧？"
       },
       {
         "speaker": "YOUTH",
@@ -445,7 +459,7 @@
       {
         "speaker": "YOUTH",
         "english": "Huh?",
-        "chinese": ""
+        "chinese": "啊哈？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -475,12 +489,13 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "Trauma Does Not Exist",
     "title_cn": "心理创伤并不存在",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -520,7 +535,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "In Adlerian psychology, trauma is definitively denied. This was a very new and revolutionary point. Certainly, the Freudian view of trauma is fascinating. Freud’s idea is that a person’s psychic wounds (traumas) cause his or her present unhappiness. When you treat a person’s life as a vast narrative, there is an easily understandable causality and sense of dramatic development that creates strong impressions and is extremely attractive. But Adler, in denial of the trauma argument, states the following: “No experience is in itself a cause of our success or failure. We do not suffer from the shock of our experiences—the so-called trauma—but instead we make out of them whatever suits our purposes. We are not determined by our experiences, but the meaning we give them is self-determining.”",
-        "chinese": "阿德勒心理学明确否定心理创伤，这一点具有划时代的创新意义。弗洛伊德的心理创伤学说的确很有趣。他认为心灵过去所受的伤害（心理创伤）是引起目前不幸的罪魁祸首。当我们把人中看作一幕人大型戏剧的时候，它那因果规律的简单逻辑和戏剧性的发展进程自然而然地就会散发出摄人心魄的魅力。"
+        "chinese": "阿德勒心理学明确否定心理创伤，这一点具有划时代的创新意义。弗洛伊德的心理创伤学说的确很有趣。他认为心灵过去所受的伤害（心理创伤）是引起目前不幸的罪魁祸首。当我们把人中看作一幕人大型戏剧的时候，它那因果规律的简单逻辑和戏剧性的发展进程自然而然地就会散发出摄人心魄的魅力。但是，阿德勒在否定心理创伤学说的时候说了下面这段话：“任何经历本身并不是成功或者失败的原因。我们并非因为自身经历中的刺激——所谓的心理创伤——而痛苦，事实上我们会从经历中发现符合自己目的的因素。决定我们自身的不是过去的经历，而是我们自己赋予经历的意义。”"
       },
       {
         "speaker": "YOUTH",
@@ -575,12 +590,12 @@
       {
         "speaker": "YOUTH",
         "english": "Where?",
-        "chinese": ""
+        "chinese": "哪？"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "If I stay in my room all the time, without ever going out, my parents will worry. I can get all of my parents’ attention focused on me. They’ll be extremely careful around me and always handle me with kid gloves. On the other hand, if I take even one step out of the house, I’ll just become part of a faceless mass whom no one pays attention to. I’ll be surrounded by people I don’t know and just end up average, or less than average. And no one will take special care of me any longer . . . Such stories about reclusive people are not uncommon.",
-        "chinese": "如果闭门不出一直憋在自己房间里的话，父母会非常担心。这就可以把父母的关注集于一身，而且还可以得到父母小心翼翼的照顾。"
+        "chinese": "如果闭门不出一直憋在自己房间里的话，父母会非常担心。这就可以把父母的关注集于一身，而且还可以得到父母小心翼翼的照顾。另一方面，哪怕踏出家门一步，都会沦为无人关注的“大多数”，都会成为茫茫人海中非常平凡的一员，其至成为逊色于人的平庸之辈；而且，没人会重视自己。这些都是闭居者常有的心理。"
       },
       {
         "speaker": "YOUTH",
@@ -615,12 +630,13 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "People Fabricate Anger",
     "title_cn": "愤怒都是捏造出来的",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -690,7 +706,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "No. You could have explained matters without raising your voice, and the waiter would most likely have given you a sincere apology, wiped your jacket with a clean cloth, and taken other appropriate measures. He might have even arranged for it to be dry-cleaned. And somewhere in your mind, you were anticipating that he might do these things but, even so, you shouted. The procedure of explaining things in normal words felt like too much trouble, and you tried to get out of that and make this unresisting person submit to you. The tool you used to do this was the emotion of anger.",
-        "chinese": "不对！即使你不大声呵斥而是讲道理的话，服务员也应该会诚恳地向你道歉或者是用干净的抹布为你擦拭。总之，他应该也会采取一些应有的措施，甚至还有可能为你洗衣服。而且，你心里多少也预料了到他可能会那样做。"
+        "chinese": "不对！即使你不大声呵斥而是讲道理的话，服务员也应该会诚恳地向你道歉或者是用干净的抹布为你擦拭。总之，他应该也会采取一些应有的措施，甚至还有可能为你洗衣服。而且，你心里多少也预料了到他可能会那样做。尽管如此，你还是大声呵斥了他。你感觉讲道理太麻烦，所以想用更加快捷的方式使并不抵抗的对方屈服。作为相应的手段，你采用了“愤怒”这种感情。"
       },
       {
         "speaker": "YOUTH",
@@ -730,12 +746,13 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "How to Live Without Being Controlled by the Past",
     "title_cn": "弗洛伊德说错了",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -800,17 +817,18 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Of course. And please understand, it is Freudian etiology that denies our free will and treats humans like machines.",
-        "chinese": "当然。否定我们人类的自由意志、把人看作机器一样的存在，这是弗洛伊德式的原因论。"
+        "chinese": "当然。否定我们人类的自由意志、把人看作机器一样的存在，这是弗洛伊德式的原因论。青年环视了一下哲人的书房。墙壁全部做成了书架，木制的小书桌上放着未完成的书稿和钢笔。人并不受过去的原因所左右，而是朝着自己定下的目标前进，这就是哲人的主张。哲人所倡导的“目的论”是一种彻底颠覆正统心理学中的因果论的思想，这对青年来说根本无法接受。那么，该从何处破论呢？青年深吸了一口气。"
       }
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "Socrates and Adler",
     "title_cn": "苏格拉底和阿德勒",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -850,7 +868,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Why are you rushing for answers? You should arrive at answers on your own, not rely upon what you get from someone else. Answers from others are nothing more than stopgap measures; they’re of no value. Take Socrates, who left not one book actually written by himself. He spent his days having public debates with the citizens of Athens, especially the young, and it was his disciple, Plato, who put his philosophy into writing for future generations. Adler, too, showed little interest in literary activities, preferring to engage in personal dialogue at cafés in Vienna, and hold small discussion groups. He was definitely not an armchair intellectual.",
-        "chinese": "为什么那么急于得到答案呢？答案不应该是从别人那里得"
+        "chinese": "为什么那么急于得到答案呢？答案不应该是从别人那里得到，而应该是自己亲自找出来。从别人那里得到的答案只不过是对症疗法而己，没有什么价值。例如，苏格拉底就没有留下一部自己亲手写的著作。将他与雅典的人们，特别是与年轻人的辩论进行整理，然后把其哲学主张写成著作留存后世的是其弟子柏拉图。而阿德勒也是一位毫不关心著述活动，而是热衷于在维也纳的咖啡馆里与人交谈或者是在讨论小组里与人辩论的人物。他们都不是那种只知道闭门造车的知识分子。"
       },
       {
         "speaker": "YOUTH",
@@ -875,17 +893,18 @@
       {
         "speaker": "YOUTH",
         "english": "That’s what I’m hoping to find out! So let’s take it as far as we can, until either you retract your theory or I bow before you.",
-        "chinese": ""
+        "chinese": "这正是我希望弄清楚的！所以我们要尽可能深入地探讨下去，直到要么你撤回你的理论，要么我向你认输为止。"
       }
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "Are You Okay Just As You Are?",
     "title_cn": "你想\"变成别人\"吗？",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -910,12 +929,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Hmm.",
-        "chinese": ""
+        "chinese": "嗯。"
       },
       {
         "speaker": "YOUTH",
         "english": "You, for instance, live surrounded by all these books. You read a new book and gain new knowledge. Basically, you keep accumulating knowledge. The more you read, the more your knowledge increases. You find new concepts of value, and it seems to you that they change you. Look, I hate to break it to you, but no matter how much knowledge you gain, your disposition or personality isn’t going to basically change. If your base gets skewed, all you’ve learned will be useless. Yes, all the knowledge you’ve acquired will come crashing down around you, and then the next thing you know, you’ll be back to where you started! And the same goes for Adler’s ideas. No matter how many facts I may try to accumulate about him, they’re not going to have any effect on my personality. Knowledge just gets piled up as knowledge, until sooner or later it’s discarded.",
-        "chinese": "例如，先生您与如此多的书相伴，不断地阅读新书，不断地接受新知识，可以说知识也就会不断地积累。书读得越多，知识量也就越大。掌握了新的价值观就会感觉自己有所改变。"
+        "chinese": "例如，先生您与如此多的书相伴，不断地阅读新书，不断地接受新知识，可以说知识也就会不断地积累。书读得越多，知识量也就越大。掌握了新的价值观就会感觉自己有所改变。但是，先生，很遗憾的是，无论积累多少知识，作为根基的秉性或性格绝不会变！如果根基发生了倾斜，那么任何知识都不起作用。原本积累的知识也会随之崩塌，等回过神来已经又变回了原来的自己！阿德勒的思想也是一样。无论积累多少关于他学说的知识，我的性格都不会改变。知识只是作为知识被积累的，很快就会失去效用！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -970,7 +989,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Look, no matter how much you want to be Y, you cannot be reborn as him. You are not Y. It’s okay for you to be you. However, I am not saying it’s fine to be “just as you are.” If you are unable to really feel happy, then it’s clear that things aren’t right just as they are. You’ve got to put one foot in front of the other, and not stop.",
-        "chinese": "不是吗？即使你再想变成Y,也不可能成为Y,你不是Y。你是“你”就可以了。"
+        "chinese": "不是吗？即使你再想变成Y,也不可能成为Y,你不是Y。你是“你”就可以了。但是，这并不是说你要一直这样下去。如果不能感到幸福的话，就不可以“一直这样”，不可以止步不前，必须不断向前迈进。"
       },
       {
         "speaker": "YOUTH",
@@ -980,17 +999,18 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "To quote Adler again: “The important thing is not what one is born with but what use one makes of that equipment.” You want to be Y or someone else because you are utterly focused on what you were born with. Instead, you’ve got to focus on what you can make of your equipment.",
-        "chinese": "我还要再次引用阿德勒的话。他这么说：“重要的不是被给予了什么，而是如何去利用被给子的东西。”你之所以想要变成Y或者"
+        "chinese": "我还要再次引用阿德勒的话。他这么说：“重要的不是被给予了什么，而是如何去利用被给子的东西。”你之所以想要变成Y或者其他什么人，就是因为你只一味关注着“被给予了什么”。其实，你不应该这样，而是应该把注意力放在“如何利用被给予的东西”这一点上。"
       }
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "Unhappiness Is Something You Choose for Yourself",
     "title_cn": "你的不幸，皆是自己\"选择\"的",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1030,7 +1050,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "For one thing, right now you are unable to feel real happiness. You find living hard, and even wish you could be reborn as a different person. But you are unhappy now because you yourself chose being unhappy. Not because you were born under an unlucky star.",
-        "chinese": "比如现在你感觉不到幸福。有时还会觉得活得很痛苦，甚至想要变成别人。但是，现在的你之所以不幸正是因为你自己亲手选择了"
+        "chinese": "比如现在你感觉不到幸福。有时还会觉得活得很痛苦，甚至想要变成别人。但是，现在的你之所以不幸正是因为你自己亲手选择了“不幸”，而不是因为生来就不幸。。"
       },
       {
         "speaker": "YOUTH",
@@ -1085,17 +1105,18 @@
       {
         "speaker": "YOUTH",
         "english": "You are really trying to make a fool of me. You think this passes for philosophy? I do not accept this at all.",
-        "chinese": "……先生，您是想要骗我吧！您还不承认吗？这种哲学我绝对不会认可！"
+        "chinese": "……先生，您是想要骗我吧！您还不承认吗？这种哲学我绝对不会认可！青年忍不住从椅子上站了起来，对眼前的哲人怒目而视。你竞然说这种不幸的人生是我自己选择的？还说那是对我而言的“善”？这是什么谬论啊！你为什么要如此愚弄我呢？我究竟做什么了？我一定要驳倒你。让你拜服在我的脚下。青年的脸眼看着红了起来。"
       }
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "People Always Choose Not to Change",
     "title_cn": "人们常常下定决心\"不改变\"",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -1170,7 +1191,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Absolutely.",
-        "chinese": ""
+        "chinese": "当然"
       },
       {
         "speaker": "YOUTH",
@@ -1210,7 +1231,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Maybe you haven’t been aware of your lifestyle until now, and maybe you haven’t been aware of the concept of lifestyle either. Of course, no one can choose his or her own birth. Being born in this country, in this era, and with these parents are things you did not choose. And all these things have a great deal of influence. You’ll probably face disappointment and start looking at other people and feeling, I wish I’d been born in their circumstances. But you can’t let it end there. The issue is not the past, but here, in the present. And now you’ve learned about lifestyle. But what you do with it from here on is your responsibility. Whether you go on choosing the lifestyle you’ve had up till now, or you choose a new lifestyle altogether, it’s entirely up to you.",
-        "chinese": "也许你之前并不了解自己的生活方式。而且，也许你连生活方式这个概念都不知道。当然，谁都无法选择自己的出身。出生在什么样的国家、什么样的时代，有什么样的父母，这一切都不是自己的选择。"
+        "chinese": "也许你之前并不了解自己的生活方式。而且，也许你连生活方式这个概念都不知道。当然，谁都无法选择自己的出身。出生在什么样的国家、什么样的时代，有什么样的父母，这一切都不是自己的选择。而且，这些都具有极大的影响力，你也许会有不满，也许会对别人的出身心生羡慕。但是，事情不可以仅止于此。问题不在于过去而在于现在。现在你了解了生活方式。如果是这样的话，接下来的行为就是你自己的责任了。无论是继续选择与之前一样的生活方式还是重新选择新的生活方式，那都在于你自己。"
       },
       {
         "speaker": "YOUTH",
@@ -1240,7 +1261,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Although there are some small inconveniences and limitations, you probably think that the lifestyle you have now is the most practical one, and that it’s easier to leave things as they are. If you stay just like this, experience enables you to respond properly to events as they occur, while guessing the results of one’s actions. You could say it’s like driving your old, familiar car. It might rattle a bit, but one can take that into account and maneuver easily. On the other hand, if one chooses a new lifestyle, no one can predict what might happen to the new self, or have any idea how to deal with events as they arise. It will be hard to see ahead to the future, and life will be filled with anxiety. A more painful and unhappy life might lie ahead. Simply put, people have various complaints about things, but it’s easier and more secure to be just the way one is.",
-        "chinese": "尽管有些不方便、不自由，但你还是感觉现在的生活方式更好，大概是觉得一直这样不做改变比较轻松吧。"
+        "chinese": "尽管有些不方便、不自由，但你还是感觉现在的生活方式更好，大概是觉得一直这样不做改变比较轻松吧。如果一直保持“现在的我”，那么如何应对眼前的事情以及其结果会怎样等问题都可以根据经验进行推测，可谓是轻车熟路般的状态。即使遇到点状况也能够想办法对付过去。另一方面，如果选择新的生活方式，那就既不知道新的自己会遇到什么问题，也不知道应该如何应对眼前的事情。未来难以预测，生活就会充满不安，也可能有更加痛苦、更加不幸的生活在等着自己。也就是说，即使人们有各种不满，但还是认为保持现状更加轻松、更能安心。"
       },
       {
         "speaker": "YOUTH",
@@ -1265,12 +1286,13 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "part": 1,
     "part_title_en": "THE FIRST NIGHT: Deny Trauma",
     "part_title_cn": "第一夜 我们的不幸是谁的错？",
     "title_en": "Your Life Is Decided Here and Now",
     "title_cn": "你的人生取决于\"当下\"",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1285,12 +1307,12 @@
       {
         "speaker": "YOUTH",
         "english": "No, hold on. This is getting confusing. First, you tell me that the world is a simple place. That it seems complicated only because of me, and that my subjective view is making it that way. And also, that life seems complicated just because I make it complicated, all of which is what makes it difficult for me to live happily. Then you say that one should take the stance of teleology, as opposed to Freudian etiology—that one must not search for causes in one’s past, and should deny trauma. You say that people act to achieve some goal or other, instead of being creatures who are driven by causes in their past. Right?",
-        "chinese": "不，请等一等。我好像有点儿乱了。首先，先生您说世界很简单，它之所以看上去复杂是因为“我”的主观作用。人生本来并不复杂，是“我”把人生弄得复杂化了，故而很难获得幸福，您是这个意思吗？"
+        "chinese": "不，请等一等。我好像有点儿乱了。首先，先生您说世界很简单，它之所以看上去复杂是因为“我”的主观作用。人生本来并不复杂，是“我”把人生弄得复杂化了，故而很难获得幸福，您是这个意思吗？而且，您还说应该立足于目的论而不是弗洛伊德的原因论；不可以从过去中找原因；要否定精神创伤：人不是受过去原因支配的存在，人是为了达成某种目的而采取行动的。这些都是您的主张吧？"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes.",
-        "chinese": ""
+        "chinese": "是的"
       },
       {
         "speaker": "YOUTH",
@@ -1310,7 +1332,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "No, you haven’t.",
-        "chinese": ""
+        "chinese": "对，没错。"
       },
       {
         "speaker": "YOUTH",
@@ -1320,7 +1342,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "You are right. What you should do now is make a decision to stop your current lifestyle. For instance, earlier you said, “If only I could be someone like Y, I’d be happy.” As long as you live that way, in the realm of the possibility of “If only such and such were the case,” you will never be able to change. Because saying “If only I could be like Y” is an excuse to yourself for not changing.",
-        "chinese": "的确。你现在首先应该做的是什么呢？那就是要有“摈弃现在的生活方式”的决心。"
+        "chinese": "的确。你现在首先应该做的是什么呢？那就是要有“摈弃现在的生活方式”的决心。例如，你刚才说“如果可以变成Y那样的人就能够幸福”。但像这样活在“如果怎样怎样”之类的假设之中，就根本无法改变。因为“如果可以变成Y那样的人”正是你为自己不做改变找的借口。"
       },
       {
         "speaker": "YOUTH",
@@ -1330,7 +1352,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes. I have a young friend who dreams of becoming a novelist, but he never seems to be able to complete his work. According to him, his job keeps him too busy, and he can never find enough time to write novels, and that’s why he can’t complete work and enter it for writing awards. But is that the real reason? No! It’s actually that he wants to leave the possibility of “I can do it if I try” open, by not committing to anything. He doesn’t want to expose his work to criticism, and he certainly doesn’t want to face the reality that he might produce an inferior piece of writing and face rejection. He wants to live inside that realm of possibilities, where he can say that he could do it if he only had the time, or that he could write if he just had the proper environment, and that he really does have the talent for it. In another five or ten years, he will probably start using other excuses like “I’m not young anymore” or “I’ve got a family to think about now.”",
-        "chinese": "我有一位年轻朋友，虽然梦想着成为小说家，但却总是写不出作品。他说是因为工作太忙、写小说的时间非常有限，所以才写不出来作品，也从未参加过任何比赛。"
+        "chinese": "我有一位年轻朋友，虽然梦想着成为小说家，但却总是写不出作品。他说是因为工作太忙、写小说的时间非常有限，所以才写不出来作品，也从未参加过任何比赛。但真是如此吗？实际上，他是想通过不去比赛这一方式来保留一种“如果做的话我也可以”的可能性，即不愿出去被人评价，更不愿去面对因作品拙劣而落选的现实。他只想活在“只要有时间我也可以、只要环境具备我也能写、自己有这种才能”之类的可能性中。或许再过5年或者10年，他又会开始使用“已经不再年轻”或者“也已经有了家庭”之类的借口。"
       },
       {
         "speaker": "YOUTH",
@@ -1415,12 +1437,29 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
+    "part": 2,
+    "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
+    "part_title_cn": "第二夜 一切烦恼都来自人际关系",
+    "title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
+    "title_cn": "第二夜 一切烦恼都来自人际关系",
+    "narrationOnly": true,
+    "dialogues": [
+      {
+        "speaker": "NARRATION",
+        "english": "The young man was as good as his word. Exactly one week later, he returned to the philosopher’s study. Truth be told, he’d felt the urge to rush back there only two or three days after his first visit. He had turned things over in his mind very carefully, and his doubts had turned to certainty. In short, teleology, the attributing of the purpose of a given phenomenon, rather than its cause, was a sophistry, and the existence of trauma was beyond question. People cannot simply forget the past, and neither can they become free from it. Today, the young man decided, he’d thoroughly dismantle this eccentric philosopher’s theories and settle matters once and for all.",
+        "chinese": "青年非常守约，刚好一个星期之后再次来到哲学家的书房。其实他自上次回去两三天之后就迫不及待地想要过来。但深思熟虑之后，青年的疑问变成了确信。也就是说，目的论之类的学说只是一种诡辩，精神创伤确实存在。人既不可能忘记过去，也不可能从过去中解放出来。他今天就要把那位怪异的哲学家驳得体无完肤，一切争论都将在今天结束。"
+      }
+    ]
+  },
+  {
+    "id": 13,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Why You Dislike Yourself",
     "title_cn": "为什么讨厌自己？",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1435,7 +1474,7 @@
       {
         "speaker": "YOUTH",
         "english": "Well, for instance, the other day I admitted that I dislike myself. No matter what I do, I can’t find anything but shortcomings, and I can see no reason why I’d start liking myself. But of course I still want to. You explain everything as having to do with goals, but what kind of goal could I have here? I mean, what kind of advantage could there be in my not liking myself? I can’t imagine there’d be a single thing to gain from it.",
-        "chinese": "例如，前几日我承认自己讨厌自己，无论如何都只能看到缺点，实在找不到喜欢自己的理由。但是，我也很想能够喜欢自己。"
+        "chinese": "例如，前几日我承认自己讨厌自己，无论如何都只能看到缺点，实在找不到喜欢自己的理由。但是，我也很想能够喜欢自己。先生您什么都用“目的”来进行解释，那您说说我讨厌自己究竟有什么目的、有什么利益呢？讨厌自己不会有任何好处吧？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -1500,7 +1539,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "It might be hard to understand from your own example, so I’ll use another. I use this study for simple counseling sessions. It must have been quite a few years ago, but there was a female student who came by. She sat right where you are sitting now, in the same chair. Well, her concern was her fear of blushing. She told me that she was always turning red whenever she was out in public, and that she would do anything to rid herself of this. So I asked her, “Well, if you can cure it, what will you want to do then?” And she said that there was a man she wanted. She secretly had feelings for him but wasn’t ready to divulge them. Once her fear of blushing was cured, she’d confess her desire to be with him.",
-        "chinese": "如果以你为例不好理解的话，那我就举一个别人的例子。我也曾在这个书房里进行过简单的心理辅导。那己经是多年前的事情了，那时来了一位女学生。是的，她当时就坐在你现在坐的这把椅子上。"
+        "chinese": "如果以你为例不好理解的话，那我就举一个别人的例子。我也曾在这个书房里进行过简单的心理辅导。那己经是多年前的事情了，那时来了一位女学生。是的，她当时就坐在你现在坐的这把椅子上。她的苦恼是害怕见人，一到人前就脸红，说是无论如何都想治好这种脸红恐惧症。所以我便问她：“如果这种脸红恐惧症治好了，你想做什么呢？”于是，她告诉我说自己有一个想要交往的男孩。虽然偷偷喜欢着那个男孩，但她还没能表明心意。她还说一旦治好脸红恐惧症，就马上向他告白，希望能够交往。"
       },
       {
         "speaker": "YOUTH",
@@ -1520,7 +1559,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "What do you think was the scariest thing to her, the thing she wanted to avoid most of all? It was that the man would reject her, of course. The fact that her unrequited love would negate everything for her, the very existence and possibility of “I.” This aspect is deeply present in adolescent unrequited love. But as long as she has a fear of blushing, she can go on thinking, I can’t be with him because I have this fear of blushing. It could end without her ever working up the courage to confess her feelings to him, and she could convince herself that he would reject her anyway. And finally, she can live in the possibility that If only my fear of blushing had gotten better, I could have . . .",
-        "chinese": "你认为对她来说最害怕的事情、最想逃避的事情是什么呢？当然是被自己喜欢的男孩拒绝了，是失恋可能带来的打击和自我否定。因为青春期的失恋在这方面的特征非常明显。"
+        "chinese": "你认为对她来说最害怕的事情、最想逃避的事情是什么呢？当然是被自己喜欢的男孩拒绝了，是失恋可能带来的打击和自我否定。因为青春期的失恋在这方面的特征非常明显。但是，只要有脸红恐惧症存在，她就可以用“我之所以不能和他交往都是因为这个脸红恐惧症”这样的想法来进行自我逃避，如此便可以不必鼓起告白的勇气或者即使被拒绝也可以说服自己；而且，最终也可以抱着“如果治好了脸红恐惧症我也可以……”之类的想法活在幻想之中。"
       },
       {
         "speaker": "YOUTH",
@@ -1540,12 +1579,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Well, this is what I told her: “Fear of blushing is easy to cure.” She asked, “Really?” I went on: “But I will not cure it.” She pressed me “Why?” I explained, “Look, it’s thanks to your fear of blushing that you can accept your dissatisfaction with yourself and the world around you, and with a life that isn’t going well. It’s thanks to your fear of blushing, and it’s caused by it.” She asked, “How could it be . . . ?” I went on: “If I did cure it, and nothing in your situation changed at all, what would you do? You’d probably come here again and say, ‘Give me back my fear of blushing.’ And that would be beyond my abilities.”",
-        "chinese": "所以，我跟她进行了下面的对话。"
+        "chinese": "所以，我跟她进行了下面的对话。“脸红恐惧症这样的病很好治。”“真的吗？”“但我不会给你治。”“为什么？”“因为你是靠着脸红恐惧症才能让自己接受对自我或者社会的不满以及不顺利的人生。你还要用’这都是因为脸红恐惧症‘之类的话来安慰自己呢。”“怎么……”“但是，如果我给你治好了脸红恐惧症，事态也没有任何变化的话，那你会怎么做呢？你一定会再次跑来对我说’请让我再患上脸红恐惧症‘吧。那我可就真的束手无策了。”"
       },
       {
         "speaker": "YOUTH",
         "english": "Hmm.",
-        "chinese": ""
+        "chinese": "嗯。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -1555,7 +1594,7 @@
       {
         "speaker": "YOUTH",
         "english": "Indeed.",
-        "chinese": ""
+        "chinese": "确实"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -1575,7 +1614,7 @@
       {
         "speaker": "YOUTH",
         "english": "Encouragement?",
-        "chinese": ""
+        "chinese": "鼓励？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -1600,7 +1639,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right. Now, keeping this student’s story in mind, let’s think about your problems. You say that, at present, you notice only your shortcomings, and it’s unlikely that you’ll ever come to like yourself. And then you said, “I’m sure that no one would want to get involved with a guy as warped as me.” I’m sure you understand this already. Why do you dislike yourself? Why do you focus only on your shortcomings, and why have you decided to not start liking yourself? It’s because you are overly afraid of being disliked by other people and getting hurt in your interpersonal relationships.",
-        "chinese": "是的。那么，接下来我们根据她的事情来考虑一下你的问题。你说你现在只能看到自己的缺点，根本无法喜欢自己。而且你还说过“谁都不愿意跟我这种乖僻的人交往”吧？"
+        "chinese": "是的。那么，接下来我们根据她的事情来考虑一下你的问题。你说你现在只能看到自己的缺点，根本无法喜欢自己。而且你还说过“谁都不愿意跟我这种乖僻的人交往”吧？就这些吧。你为什么讨厌自己呢？为什么只盯着缺点就是不肯去喜欢自己呢？那是因为你太害怕被他人讨厌、害怕在人际关系中受伤。"
       },
       {
         "speaker": "YOUTH",
@@ -1615,7 +1654,7 @@
       {
         "speaker": "YOUTH",
         "english": "Huh . . .",
-        "chinese": ""
+        "chinese": "嗯。。。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -1645,12 +1684,13 @@
     ]
   },
   {
-    "id": 12,
+    "id": 14,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "All Problems Are Interpersonal Relationship Problems",
     "title_cn": "一切烦恼都是人际关系的烦恼",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1725,22 +1765,23 @@
       {
         "speaker": "YOUTH",
         "english": "Yes, please do! If you’re going to tell me that you’re a philosopher, then you’ve got to really explain things, or else this makes no sense.",
-        "chinese": "是的，请您说明一下！如果先生说自己是哲学家的话，那就必须把这一点解释清楚！"
+        "chinese": "是的，请您说明一下！如果先生说自己是哲学家的话，那就必须把这一点解释清楚！哲人如是说：你由于太惧怕人际关系所以才会变得讨厌自己，你是在通过自我厌弃来逃避人际关系。这种话大大动摇了青年。这是让他不得不承认的一针见血的话。但是，在他看来，“人的一切烦恼皆源于人际关系”这种主张还是得坚决否定。阿德勒是在将人所拥有的问题缩小化。青年认为自己并不是苦恼于这种世俗性的烦恼！"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "You were so afraid of interpersonal relationships that you came to dislike yourself. You’ve avoided interpersonal relationships by disliking yourself.",
-        "chinese": ""
+        "chinese": "你曾经如此害怕人际关系，以至于开始讨厌自己。你通过讨厌自己来逃避人际关系。"
       }
     ]
   },
   {
-    "id": 13,
+    "id": 15,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Feelings of Inferiority Are Subjective Assumptions",
     "title_cn": "自卑感来自主观的臆造",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -1865,7 +1906,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Exactly. Seeing it from my friend’s point of view that I get people to relax or that I don’t intimidate them—such aspects can become strong points. Of course, this is a subjective interpretation. You could even say it’s an arbitrary assumption. However, there is one good thing about subjectivity: It allows you to make your own choice. Precisely because I am leaving it to subjectivity, the choice to view my height as either an advantage or disadvantage is left open to me.",
-        "chinese": "正是如此。我从朋友“你有让人感觉轻松的能力”这句话中得到了启发，于是就产生了这样的想法：如果从“让人感觉轻松”或者“不让人感觉太有威慑力”之类的角度来看，自己的身高也还可以成为一种优点。当然，这是一种主观性的解释。说得更确切一些，就是一种主观臆想。"
+        "chinese": "正是如此。我从朋友“你有让人感觉轻松的能力”这句话中得到了启发，于是就产生了这样的想法：如果从“让人感觉轻松”或者“不让人感觉太有威慑力”之类的角度来看，自己的身高也还可以成为一种优点。当然，这是一种主观性的解释。说得更确切一些，就是一种主观臆想。但是，主观有一个优点，那就是可以用自己的手去选择。把自己的身高看成是优点还是缺点，这全凭你自己主观决定。正因为如此，我才可以自由选择。"
       },
       {
         "speaker": "YOUTH",
@@ -1885,7 +1926,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Now, remember the German word for a feeling of inferiority, Minderwertigkeitsgefühl. As I mentioned a moment ago, “feeling of inferiority” is a term that has to do with one’s value judgment of oneself. So what on earth could this value be? Okay, take diamonds, for instance, which are traded at a high value. Or currency. We find particular values for these things and say that one carat is this much, that prices are such and such. But if you change your point of view, a diamond is nothing but a little stone.",
-        "chinese": "关于这一点请想一想德语中“自卑感”的意思。我之前说过，在德语中“自卑感”是一个关于自我价值判断的词语。那么，价值究竟是指什么呢？"
+        "chinese": "关于这一点请想一想德语中“自卑感”的意思。我之前说过，在德语中“自卑感”是一个关于自我价值判断的词语。那么，价值究竟是指什么呢？例如，价格昂贵的钻石或者货币。我们会从中发现一些价值，并会说1克拉多少钱或者物价如何如何。但是，如果换种角度来看，钻石之类的东西也只不过是石块而已。"
       },
       {
         "speaker": "YOUTH",
@@ -1895,7 +1936,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "In other words, value is something that’s based on a social context. The value given to a one-dollar bill is not an objectively attributed value, though that might be a commonsense approach. If one considers its actual cost as printed material, the value is nowhere near a dollar. If I were the only person in this world and no one else existed, I’d probably be putting those one-dollar bills in my fireplace in wintertime. Maybe I’d be using them to blow my nose. Following exactly the same logic, there should have been no reason at all for me to worry about my height.",
-        "chinese": "也就是说，价值必须建立在社会意义之上。即使1美元纸币所承载的价值是一种常识（共通感觉），那它也不是客观意义上的价值。"
+        "chinese": "也就是说，价值必须建立在社会意义之上。即使1美元纸币所承载的价值是一种常识（共通感觉），那它也不是客观意义上的价值。如果从印刷成本考虑的话，它根本不等于1美元。如果这个世界上只有我一个人存在，那我也许会把这1美元的纸币放入壁炉当燃料或者当卫生纸用。同样的道理，我自然也就不会再为自己的身高而苦恼。"
       },
       {
         "speaker": "YOUTH",
@@ -1920,12 +1961,13 @@
     ]
   },
   {
-    "id": 14,
+    "id": 16,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "An Inferiority Complex Is an Excuse",
     "title_cn": "自卑情结只是一种借口",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -1985,7 +2027,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right. One tries to get rid of one’s feeling of inferiority and keep moving forward. One’s never satisfied with one’s present situation—even if it’s just a single step, one wants to make progress. One wants to be happier. There is absolutely nothing wrong with the state of this kind of feeling of inferiority. There are, however, people who lose the courage to take a single step forward, who cannot accept the fact that the situation can be changed by making realistic efforts. People who, before even doing anything, simply give up and say things like “I’m not good enough anyway” or “Even if I tried, I wouldn’t stand a chance.”",
-        "chinese": "是的。我们应该摈弃自卑感，进一步向前；不满足于现状，不断进步；要更加幸福。如果是这样的自卑感，那就没有任何问题。"
+        "chinese": "是的。我们应该摈弃自卑感，进一步向前；不满足于现状，不断进步；要更加幸福。如果是这样的自卑感，那就没有任何问题。但是，有些人无法认清“情况可以通过现实的努力而改变”这一事实，根本没有向前迈进的勇气。他们什么都不做就断定自己不行或是现实无法改变。"
       },
       {
         "speaker": "YOUTH",
@@ -2025,7 +2067,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "There is nothing particularly wrong with the feeling of inferiority itself. You understand this point now, right? As Adler says, the feeling of inferiority can be a trigger for striving and growth. For instance, if one had a feeling of inferiority with regard to one’s education, and resolved to oneself, I’m not well educated, so I’ll just have to try harder than anyone else , that would be a desirable direction. The inferiority complex, on the other hand, refers to a condition of having begun to use one’s feeling of inferiority as a kind of excuse. So one thinks to oneself, I’m not well educated, so I can’t succeed , or I’m not good-looking, so I can’t get married. When someone is insisting on the logic of “A is the situation, so B cannot be done” in such a way in everyday life, that is not something that fits in the feeling of inferiority category. It is an inferiority complex.",
-        "chinese": "自卑感本身并不是坏事。这一点你能够理解吧？就像阿德勒说过的那样，自卑感也可以成为促成努力和进步的契机。例如，虽然对学历抱有自卑感，但若是正因为如此，才下定“我学历低所以更要付出加倍的努力”之类的决心，那反而成了好事。"
+        "chinese": "自卑感本身并不是坏事。这一点你能够理解吧？就像阿德勒说过的那样，自卑感也可以成为促成努力和进步的契机。例如，虽然对学历抱有自卑感，但若是正因为如此，才下定“我学历低所以更要付出加倍的努力”之类的决心，那反而成了好事。而另一方面，自卑情结是指把自己的自卑感当作某种借口使用的状态。具体就像“我因为学历低所以无法成功”或者“我因为长得不漂亮所以结不了婚”之类的想法。像这样在日常生活中大肆宣扬“因为有A所以才做不到B”这样的理论，这已经超出了自卑感的范畴，它是一种自卑情结。"
       },
       {
         "speaker": "YOUTH",
@@ -2035,7 +2077,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "No, you are wrong.",
-        "chinese": ""
+        "chinese": "不，你错了。"
       },
       {
         "speaker": "YOUTH",
@@ -2045,7 +2087,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "What you are calling a causal relationship is something that Adler explains as “apparent cause and effect.” That is to say, you convince yourself that there is some serious causal relationship where there is none whatsoever. The other day, someone told me, “The reason I can’t get married easily is that my parents got divorced when I was a child.” From the viewpoint of Freudian etiology (the attributing of causes), the parents’ divorce was a great trauma, which connects in a clear causal relationship with one’s views on marriage. Adler, however, with his stance of teleology (the attributing of purpose), rejects such arguments as “apparent cause and effect.”",
-        "chinese": "关于你所说的因果关系，阿德勒用“外部因果律”一词来进行说明。意思就是：将原本没有任何因果关系的事情解释成似乎有重大"
+        "chinese": "关于你所说的因果关系，阿德勒用“外部因果律”一词来进行说明。意思就是：将原本没有任何因果关系的事情解释成似乎有重大因果关系一样。例如，前几天就有人说：“自己之所以始终无法结婚，就是因为幼时父母离婚的缘故。”从弗洛伊德的原因论来看，父母离婚对其造成了极大的精神创伤，与自己的婚姻观有着很大的因果关系。但是，阿德勒从目的论的角度出发把这种论调称为“外部因果律”。"
       },
       {
         "speaker": "YOUTH",
@@ -2070,12 +2112,13 @@
     ]
   },
   {
-    "id": 15,
+    "id": 17,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Braggarts Have Feelings of Inferiority",
     "title_cn": "越自负的人越自卑",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -2125,7 +2168,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Exactly. How to compensate for the part that is lacking. The healthiest way is to try to compensate through striving and growth. For instance, it could be by applying oneself to one’s studies, engaging in constant training, or being diligent in one’s work. However, people who aren’t equipped with that courage end up stepping into an inferiority complex. Again, it’s thinking, I’m not well educated, so I can’t succeed. And it’s implying your capability by saying, “If only I were well educated, I could be really successful.” That “the real me,” which just happens to be obscured right now by the matter of education, is superior.",
-        "chinese": "正是如此。如何去弥补自己欠缺的部分呢？最健全的姿态应该是想要通过努力和成长去弥补欠缺部分，例如刻苦学习、勤奋练习、努力工作等。"
+        "chinese": "正是如此。如何去弥补自己欠缺的部分呢？最健全的姿态应该是想要通过努力和成长去弥补欠缺部分，例如刻苦学习、勤奋练习、努力工作等。但是，没有这种勇气的人就会陷入自卑情结。拿刚才的例子来讲，就会产生“我因为学历低所以无法成功”之类的想法，并且还会进一步通过“如果有高学历自己也很容易成功”之类的话来暗示自己的能力。意思就是“现在只不过是被学历低这个因素所埋没，’真正的我‘其实非常优秀”。"
       },
       {
         "speaker": "YOUTH",
@@ -2265,7 +2308,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Such people try to make themselves “special” by way of their experience of misfortune, and with the single fact of their misfortune try to place themselves above others. Take the fact that I am short, for instance. Let’s say that kind-hearted people come up to me and say, “It’s nothing to worry about,” or “Such things have nothing to do with human values.” Now, if I were to reject them and say, “You think you know what short people go through, huh?” no one would say a thing to me anymore. I’m sure that everyone around me would start treating me just as if I were a boil about to burst and would handle me very carefully—or, I should say, circumspectly.",
-        "chinese": "这种人其实是想要借助不幸来显示自己“特别”，他们想要用不幸这一点来压住别人。"
+        "chinese": "这种人其实是想要借助不幸来显示自己“特别”，他们想要用不幸这一点来压住别人。例如，我的身高很矮。对此，心善的人会用“没必要在意”或者“人的价值并不由身高决定”之类的话来安慰我。但是，此时我如果甩出“你怎么能够理解矮子的烦恼呢！”之类的话加以拒绝的话，那谁都会再无话可说。如此一来，恐怕周围的人一定会小心翼翼地来对待我吧。"
       },
       {
         "speaker": "YOUTH",
@@ -2305,17 +2348,18 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Of course, the words of the person who has been hurt—“You don’t understand how I feel”—are likely to contain a certain degree of truth. Completely understanding the feelings of the person who is suffering is something that no one is capable of. But as long as one continues to use one’s misfortune to one’s advantage in order to be “special,” one will always need that misfortune.",
-        "chinese": "当然，负伤之人所说的“你无法体会我的心情”之类的话中也包含着一定的事实。谁都无法完全理解痛苦的当事人的心情。但是，只要把自己的不幸当作保持“特别”的武器来用，那人就会永远需要不幸。"
+        "chinese": "当然，负伤之人所说的“你无法体会我的心情”之类的话中也包含着一定的事实。谁都无法完全理解痛苦的当事人的心情。但是，只要把自己的不幸当作保持“特别”的武器来用，那人就会永远需要不幸。开始于自卑感的一系列辩论。自卑情结再加上优越情结，这些虽然是心理学上的重要词汇，但其内涵与青年原来的想法存在着太大的反差。他自己在一时之间依然感觉好像还有哪里想不通。到底是哪里无法接受呢？对啦，我对导入部分的前提条件还存有疑惑。这样想着，青年不紧不慢地开口说话了。"
       }
     ]
   },
   {
-    "id": 16,
+    "id": 18,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Life Is Not a Competition",
     "title_cn": "人生不是与他人的比赛",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -2345,7 +2389,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right. It’s enough to just keep moving in a forward direction, without competing with anyone. And, of course, there is no need to compare oneself with others.",
-        "chinese": "是的。不与任何人竞争。只要自己不断前进即可。当然，也"
+        "chinese": "是的。不与任何人竞争。只要自己不断前进即可。当然，也没有必要把自己和别人相比较。"
       },
       {
         "speaker": "YOUTH",
@@ -2445,12 +2489,13 @@
     ]
   },
   {
-    "id": 17,
+    "id": 19,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "You're the Only One Worrying About Your Appearance",
     "title_cn": "在意你长相的，只有你自己",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -2510,7 +2555,7 @@
       {
         "speaker": "YOUTH",
         "english": "My enemy?",
-        "chinese": ""
+        "chinese": "我的敌人？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2535,12 +2580,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "But do other people actually look at you so much? Are they really watching you around the clock and lying in wait for the perfect moment to attack? It seems rather unlikely. A young friend of mine, when he was a teenager, used to spend a lot of time in front of the mirror arranging his hair. And once, when he was doing that, his grandmother said, “You’re the only one who’s worried how you look.” He says that it got a bit easier for him to deal with life after that.",
-        "chinese": "但实际上，别人真的会那么关注你吗？会24小时监视着你，虎视眈眈地寻找攻击你的机会吗？恐怕并非如此。"
+        "chinese": "但实际上，别人真的会那么关注你吗？会24小时监视着你，虎视眈眈地寻找攻击你的机会吗？恐怕并非如此。我有一位年轻的朋友，据说他少年时代总是长时间对着镜子整理头发。于是，他祖母对他说：“在意你的脸的只有你自己。”那之后，他便活得轻松了一些。"
       },
       {
         "speaker": "YOUTH",
         "english": "Hey, that’s a dig at me, isn’t it? Sure, maybe I do see the people around me as enemies. I’m constantly in fear of being attacked, of the arrows that could come flying at me at any moment. I always think that I’m being watched by others, that I’m being subjected to harsh judgment, and that I’m going to be attacked. And it’s probably true that this is a self-conscious reaction, just like the mirror-obsessed teenager. The people of the world aren’t paying attention to me. Even if I were to go walking on my hands down the street, they’d take no notice! But I don’t know. Are you saying, after all, that my feeling of inferiority is something that I chose, that has some sort of goal? That just doesn’t make any sense to me.",
-        "chinese": "哈哈，您可真讨厌呀！您这是在讽刺我吧？也许我真的把周围的人看成了敌人，总是担心随时会受到暗箭攻击，认为总是被他人监视、挑剔甚至攻击。"
+        "chinese": "哈哈，您可真讨厌呀！您这是在讽刺我吧？也许我真的把周围的人看成了敌人，总是担心随时会受到暗箭攻击，认为总是被他人监视、挑剔甚至攻击。而且，就像热衷于照镜子的少年一样，这实际上也是自我意识过剩的反应。世上的人其实并不关注我。即使我在大街上倒立也不会有人留意！但是，怎么样呢，先生？您依然会说我的自卑感是我自己的“选择”，是有某种“目的”的吗？说实话，我无论如何也不能那样认为。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2580,17 +2625,17 @@
       {
         "speaker": "YOUTH",
         "english": "Comrades?",
-        "chinese": ""
+        "chinese": "伙伴？"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "Earlier, didn’t you say, “I can’t celebrate other people’s happiness with all my heart”? You think of interpersonal relationships as competition; you perceive other people’s happiness as “my defeat,” and that is why you can’t celebrate it. However, once one is released from the schema of competition, the need to triumph over someone disappears. One is also released from the fear that says, Maybe I will lose. And one becomes able to celebrate other people’s happiness with all one’s heart. One may become able to contribute actively to other people’s happiness. The person who always has the will to help another in times of need—that is someone who may properly be called your comrade.",
-        "chinese": "你刚刚也说过吧？“无法真心祝福过得幸福的他人”，那就是因为站在竞争的角度来考虑人际关系，把他人的幸福看作“我的失败”，所以才无法给予祝福。"
+        "chinese": "你刚刚也说过吧？“无法真心祝福过得幸福的他人”，那就是因为站在竞争的角度来考虑人际关系，把他人的幸福看作“我的失败”，所以才无法给予祝福。但是，一旦从竞争的怪圈中解放出来，就再没有必要战胜任何人了，也就能够摆脱“或许会输”的恐惧心理了，变得能够真心祝福他人的幸福并能够为他人的幸福作出积极的贡献。当某人陷入困难的时候你随时愿意伸出援手，那他对你来说就是可以称为伙伴的存在。"
       },
       {
         "speaker": "YOUTH",
         "english": "Hmm.",
-        "chinese": ""
+        "chinese": "嗯。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2610,22 +2655,23 @@
       {
         "speaker": "YOUTH",
         "english": "Oh, yes, I sure am!",
-        "chinese": "是的，的确如此！"
+        "chinese": "是的，的确如此！由严厉父母养大的青年自幼便一直被拿来与哥哥进行比较，并受到不公正的待遇；任何意见都不被采纳，还被骂作是差劲的弟弟；在学校也交不到朋友，休息时间也一直闷在图书室里，只有图书室是自己的安身之所。经历过这种少年时代的青年彻底成了原因论的信徒。他认为，如果没有那样的父母和哥哥、没有在那样的学校上学的话，自己也会有一个更加光明的人生。原本想要尽可能地冷静辩论的青年积累了多年的情绪，在此时一下子爆发了。"
       }
     ]
   },
   {
-    "id": 18,
+    "id": 20,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "From Power Struggle to Revenge",
     "title_cn": "人际关系中的\"权力斗争\"与复仇",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
         "english": "Okay, all this talk about teleology and such is pure sophistry, and trauma definitely does exist. And people cannot break free from the past. Surely you realize that? We cannot go back to the past in a time machine. As long as the past exists as the past, we live within contexts from the past. If one were to treat the past as something that does not exist, that would be the same as negating the entire life one has led. Are you suggesting I choose such an irresponsible life?",
-        "chinese": "好啦，先生。目的论只是一种诡辩，精神创伤确实存在！而且，人根本无法摆脱过去！先生您也承认我们无法乘坐时光机器回到过去吧？"
+        "chinese": "好啦，先生。目的论只是一种诡辩，精神创伤确实存在！而且，人根本无法摆脱过去！先生您也承认我们无法乘坐时光机器回到过去吧？只要过去作为过去存在着，我们就得生活在过去所造成的影响之中。如果当过去不存在，那就等于是在否定自己走过的人生！先生您是说要让我选择那种不负责任的生活吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2635,7 +2681,7 @@
       {
         "speaker": "YOUTH",
         "english": "All right, so let’s talk about “now.” Last time, you said that people fabricate the emotion of anger, right? And that that is the standpoint of teleology. I still cannot accept that statement. For example, how would you explain instances of anger toward society, or anger toward government? Would you say that these, too, are emotions fabricated in order to push one’s opinions?",
-        "chinese": "那么，我来问问您“现在”这个话题吧。上一次，先生您说“人是在捏造愤怒的感情”，是吧？还说站在目的论的角度考虑，事情就是这样。我现在依然无法接受这种说法。"
+        "chinese": "那么，我来问问您“现在”这个话题吧。上一次，先生您说“人是在捏造愤怒的感情”，是吧？还说站在目的论的角度考虑，事情就是这样。我现在依然无法接受这种说法。例如，对社会的不满、对政治的愤怒之类的情况该怎么解释呢？这也可以说是为了坚持自己的主张而捏造的感情吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2740,7 +2786,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "The child oppressed by his parents will turn to delinquency. He’ll stop going to school. He’ll cut his wrists or engage in other acts of self-harm. In Freudian etiology, this is regarded as simple cause and effect: The parents raised the child in this way, and that is why the child grew up to be like this. It’s just like pointing out that a plant wasn’t watered, so it withered. It’s an interpretation that is certainly easy to understand. But Adlerian teleology does not turn a blind eye to the goal that the child is hiding. That is to say, the goal of revenge on the parents. If he becomes a delinquent, stops going to school, cuts his wrists, or things like that, the parents will be upset. They’ll panic and worry themselves sick over him. It is in the knowledge that this will happen that the child engages in problem behavior. So that the current goal (revenge on the parents) can be realized, not because he is motivated by past causes (home environment).",
-        "chinese": "遭受过父母虐待的孩子有些会误入歧途、逃学，甚至会出现割腕等自残行为。如果按照弗洛伊德的原因论，肯定会从简单的因果律角度归结为：“因为父母用这样的方法教育，所以孩子才变成这样。”就像因为不给植物浇水，所以它们才会干枯一样。这的确是简单易懂的解释。"
+        "chinese": "遭受过父母虐待的孩子有些会误入歧途、逃学，甚至会出现割腕等自残行为。如果按照弗洛伊德的原因论，肯定会从简单的因果律角度归结为：“因为父母用这样的方法教育，所以孩子才变成这样。”就像因为不给植物浇水，所以它们才会干枯一样。这的确是简单易懂的解释。但是，阿德勒式的目的论不会忽视孩子隐藏的目的——也就是“报复父母如果自己出现不良行为、逃学，甚至是割腕，那么父母就会烦恼不己，父母还会惊慌失措、痛不欲生。孩子正是因为知道这一点，所以才会出现问题行为。孩子并不是受过去原因（家庭环境）的影响，而是为了达到现在的目的（报复父母）。"
       },
       {
         "speaker": "YOUTH",
@@ -2750,7 +2796,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right. There are probably a lot of people who feel mystified by seeing a child who cuts his wrists, and they think, Why would he do such a thing? But try to think how the people around the child—the parents, for instance—will feel as a result of the behavior of wrist cutting. If you do, the goal behind the behavior should come into view of its own accord.",
-        "chinese": "是的。例如，看到割腕的孩子很多人会不可思议地想：”为什么要做那种事情呢？“"
+        "chinese": "是的。例如，看到割腕的孩子很多人会不可思议地想：”为什么要做那种事情呢？“但是，请想想孩子的割腕行为会对周围的人——比如父母——带来什么影响。如此一来，行为背后的”目的“就不言而喻了。"
       },
       {
         "speaker": "YOUTH",
@@ -2765,12 +2811,13 @@
     ]
   },
   {
-    "id": 19,
+    "id": 21,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Admitting Fault Is Not Defeat",
     "title_cn": "承认错误，不代表你失败了",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -2810,7 +2857,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "You don’t seem to understand yet. It’s not that you mustn’t get angry, but that there is no need to rely on the tool of anger. Irascible people do not have short tempers—it is only that they do not know that there are effective communication tools other than anger. That is why people end up saying things like “I just snapped” or, “He flew into a rage.” We end up relying on anger to communicate.",
-        "chinese": "你似乎还没有真正理解。不是不能发怒，而是”没必要依赖发怒这一工具“。"
+        "chinese": "你似乎还没有真正理解。不是不能发怒，而是”没必要依赖发怒这一工具“。易怒的人并不是性情急躁，而是不了解发怒以外的有效交流工具。所以才会说”不由得发火“之类的话。这其实是在借助发怒来进行交流。"
       },
       {
         "speaker": "YOUTH",
@@ -2855,7 +2902,7 @@
       {
         "speaker": "YOUTH",
         "english": "Hmm.",
-        "chinese": ""
+        "chinese": "嗯。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2870,7 +2917,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Because of one’s mind-set of not wanting to lose, one is unable to admit one’s mistake, the result being that one ends up choosing the wrong path. Admitting mistakes, conveying words of apology, and stepping down from power struggles—none of these things is defeat. The pursuit of superiority is not something that is carried out through competition with other people.",
-        "chinese": "因为不想失败，所以就不愿承认自己的错误，结果就会选择错误的道路。承认错误、赔礼道歉、退出权力之争，这些都不是”失败“。"
+        "chinese": "因为不想失败，所以就不愿承认自己的错误，结果就会选择错误的道路。承认错误、赔礼道歉、退出权力之争，这些都不是”失败“。追求优越性并不是通过与他人的竞争来完成的。"
       },
       {
         "speaker": "YOUTH",
@@ -2885,17 +2932,18 @@
     ]
   },
   {
-    "id": 20,
+    "id": 22,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Overcoming the Tasks That Face You in Life",
     "title_cn": "人生的三大课题：交友课题、工作课题以及爱的课题",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
         "english": "Okay, but there’s still a problem. It’s the statement “All problems are interpersonal relationship problems.” I can see that the feeling of inferiority is an interpersonal relationship worry, and that it has certain effects on us. And I accept as logical the idea that life is not a competition. I cannot see other people as comrades, and somewhere inside me I think of them as enemies. This is clearly the case. But the thing I find puzzling is, why does Adler place so much importance on interpersonal relationships? Why does he go so far as to say “all” of them?",
-        "chinese": "嗯。但还是有问题，就是”一切烦恼皆源于人际关系“那句话。的确，自卑感是人际关系的烦恼，而且我也非常明白自卑感给我们造成的影响；对”人生不是竞争“这一点从道理上也承认。我无法把他人看成”伙伴“，总是在心里的某个角落把别人想成是”敌人“。这一点也的确如此。"
+        "chinese": "嗯。但还是有问题，就是”一切烦恼皆源于人际关系“那句话。的确，自卑感是人际关系的烦恼，而且我也非常明白自卑感给我们造成的影响；对”人生不是竞争“这一点从道理上也承认。我无法把他人看成”伙伴“，总是在心里的某个角落把别人想成是”敌人“。这一点也的确如此。但不可思议的是，为什么阿德勒那么重视人际关系，甚至都用”一切“这样的词来形容？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2935,7 +2983,7 @@
       {
         "speaker": "YOUTH",
         "english": "Just a moment. I’m writing this down . . . There are the following two objectives for behavior: to be self-reliant and to live in harmony with society. And there are the following two objectives for the psychology that supports these behaviors: the consciousness that I have the ability and the consciousness that people are my comrades . . . Okay, I can see that it is a crucial subject: to be self-reliant as an individual while living in harmony with people and society. It seems to tie in with everything we’ve been discussing.",
-        "chinese": "请您等等。我得做一下笔记。"
+        "chinese": "请您等等。我得做一下笔记。行为方面的目标有以下两点：①自立。②与社会和谐共处。而且，支撑这种行为的心理方面的目标也有以下两点：①”我有能力“的意识。②”人人都是我的伙伴“的意识。哎呀，我能明白其重要性。作为个体自立，同时能够与他人及社会和谐共处，这好像与我们之前的辩论内容也紧密相关。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -2950,7 +2998,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Let’s think of the word “life” as tracing back to childhood. During childhood, we are protected by our parents and can live without needing to work. But eventually, the time comes when one has to be self-reliant. One cannot be dependent on one’s parents forever, and one has to be self-reliant mentally, of course, and self-reliant in a social sense as well, and one has to engage in some form of work—which is not limited to the narrow definition of working at a company. Furthermore, in the process of growing up, one begins to have all kinds of friend relationships. Of course, one may form a love relationship with someone that may even lead to marriage. If it does, one will start a marital relationship, and if one has children, a parent-child relationship will begin. Adler made three categories of the interpersonal relationships that arise out of these processes. He referred to them as “tasks of work,” “tasks of friendship,” and “tasks of love,” and all together as “life tasks.”",
-        "chinese": "请从孩提时代开始考虑人生这个词。孩提时代，我们在父母的守护下生活，即使不怎么劳动也可以生存下去。但是，很快就到了”自立“之时，不能继续依赖父母而必须争取精神性的自立这一点自不必说，即使在社会意义上也要自立，必须从事某些工作——这里不是指在企业上班之类狭义上的工作。"
+        "chinese": "请从孩提时代开始考虑人生这个词。孩提时代，我们在父母的守护下生活，即使不怎么劳动也可以生存下去。但是，很快就到了”自立“之时，不能继续依赖父母而必须争取精神性的自立这一点自不必说，即使在社会意义上也要自立，必须从事某些工作——这里不是指在企业上班之类狭义上的工作。此外，在成长过程中会遇到各种各样的朋友关系。当然，也会与某人结成恋爱关系甚至还有可能发展到结婚。如果是那样的话，就又会产生夫妻关系，一旦有了孩子还会出现亲子关系。阿德勒把这些过程中产生的人际关系分为”工作课题“”交友课题“和”爱的课题“这三类，又统称为”人生课题“。"
       },
       {
         "speaker": "YOUTH",
@@ -3015,12 +3063,13 @@
     ]
   },
   {
-    "id": 21,
+    "id": 23,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Red String and Rigid Chains",
     "title_cn": "浪漫的红线和坚固的锁链",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3060,7 +3109,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "I did have one friend. He said, “There’s nothing really worth learning at a university,” and in the end he actually did not enter university. He went into seclusion up in the mountains for several years, and these days I hear he’s working in journalism in Southeast Asia. I haven’t seen him in decades, but I have the feeling that if we got together again, we’d be able to hang out just as we did back then. A lot of people think that the more friends you have the better, but I’m not so sure about that. There’s no value at all in the number of friends or acquaintances you have. And this is a subject that connects with the task of love, but what we should be thinking about is the distance and depth of the relationship.",
-        "chinese": "不，只有一个朋友，他说”没有任何应该在大学里学习的东西“，结果就没有上大学。听说他在山上隐居几年之后，目前在东南亚从事新闻报道工作。我们已经几十年没见过面了，不过，我感觉我们现在再次见到，也能够像那个时候一样交往。"
+        "chinese": "不，只有一个朋友，他说”没有任何应该在大学里学习的东西“，结果就没有上大学。听说他在山上隐居几年之后，目前在东南亚从事新闻报道工作。我们已经几十年没见过面了，不过，我感觉我们现在再次见到，也能够像那个时候一样交往。很多人认为朋友越多越好，但果真如此吗？朋友或熟人的数量没有任何价值。这是与爱之主题有关的话题，我们应该考虑的是关系的距离和深度。"
       },
       {
         "speaker": "YOUTH",
@@ -3075,7 +3124,7 @@
       {
         "speaker": "YOUTH",
         "english": "Hmm . . .",
-        "chinese": ""
+        "chinese": "嗯。。。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -3100,7 +3149,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Think of it as divided into two stages: one, what are known as love relationships; and two, relationships with family, in particular parent-child relationships. We have discussed work and friendship, but of the three tasks, most likely it is the task of love that is the most difficult. When a friend relationship has turned into love, speech and conduct that were permitted between friends may no longer be permitted the moment they become lovers. Specifically, that would mean not permitting socializing with friends of the opposite sex, and in some cases just speaking on the telephone to someone of the opposite sex is enough to arouse jealousy. The distance is that close, and the relationship that deep.",
-        "chinese": "这一点可以分成两个阶段：一个就是所谓的恋爱关系，而另一个就是与家人的关系，特别是亲子关系。在工作、交友和爱这三大课题中，爱之课题恐怕是最难的课题。"
+        "chinese": "这一点可以分成两个阶段：一个就是所谓的恋爱关系，而另一个就是与家人的关系，特别是亲子关系。在工作、交友和爱这三大课题中，爱之课题恐怕是最难的课题。例如，当由朋友关系发展成恋爱关系的时候，一些在朋友之间被允许的言行就不再被允许了。具体说来，例如不可以跟异性朋友一起玩儿，有时候甚至仅仅因为跟异性朋友打电话，恋人就会吃醋。像这样，距离近了，关系也深了。"
       },
       {
         "speaker": "YOUTH",
@@ -3120,12 +3169,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "No, I am not affirming someone having an affair. Think about it this way: The kind of relationship that feels somehow oppressive and strained when the two people are together cannot be called love, even if there is passion. When one can think, Whenever I am with this person, I can behave very freely , one can really feel love. One can be in a calm and quite natural state, without having feelings of inferiority or being beset with the need to flaunt one’s superiority. That is what real love is like. Restriction, on the other hand, is a manifestation of the mind-set of attempting to control one’s partner, and also an idea founded on a sense of distrust. Being in the same space with someone who distrusts you isn’t a natural situation that one can put up with, is it? As Adler says, “If two people want to live together on good terms, they must treat each other as equal personalities.”",
-        "chinese": "并不是积极地去肯定花心。请你这样想，如果在一起感到苦闷或者紧张，那即使是恋爱关系也不能称之为爱。当人能够感觉到”与这个人在一起可以无拘无束“的时候，才能够体会到爱。既没有自卑感也不必炫耀优越性，能够保持一种平静而自然的状态。真正的爱应该是这样的。"
+        "chinese": "并不是积极地去肯定花心。请你这样想，如果在一起感到苦闷或者紧张，那即使是恋爱关系也不能称之为爱。当人能够感觉到”与这个人在一起可以无拘无束“的时候，才能够体会到爱。既没有自卑感也不必炫耀优越性，能够保持一种平静而自然的状态。真正的爱应该是这样的。另一方面，束缚是想要支配对方的表现，也是一种基于不信任感的想法。与一个不信任自己的人处在同一个空间里，那就根本不可能保持一种自然状态。阿德勒说：”如果想要和谐地生活在一起，那就必须把对方当成平等的人。“"
       },
       {
         "speaker": "YOUTH",
         "english": "Okay.",
-        "chinese": ""
+        "chinese": "OK"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -3140,17 +3189,18 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "What I can say at this stage is: You must not run away. No matter how distressful the relationship, you must not avoid or put off dealing with it. Even if in the end you’re going to cut it with scissors, first you have to face it. The worst thing to do is to just stand still with the situation as it is. It is fundamentally impossible for a person to live life completely alone, and it is only in social contexts that the person becomes an “individual.” That is why in Adlerian psychology, self-reliance as an individual and cooperation within society are put forth as overarching objectives. Then, how can one achieve these objectives? On this point, Adler speaks of surmounting the three tasks of work, friendship, and love, the tasks of the interpersonal relationships that a living person has no choice but to confront.",
-        "chinese": "现阶段能说的就是不能够逃避。无论多么困难的关系都不可以选择逃避，必须勇敢去面对。即使最终发展成用剪刀剪断，也要首先选择面对。最不可取的就是在”这样“的状态下止步不前。"
+        "chinese": "现阶段能说的就是不能够逃避。无论多么困难的关系都不可以选择逃避，必须勇敢去面对。即使最终发展成用剪刀剪断，也要首先选择面对。最不可取的就是在”这样“的状态下止步不前。人根本不可能一个人活着，只有在社会性的环境之下才能成为”个人“。因此，阿德勒心理学把作为个人的”自立“和在社会中的”和谐“作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：”在这里必须要克服’工作，‘交友’和‘爱’这三大课题。“但是，青年依然很难领会人活着必须面对的人际关系课题的真正含义。"
       }
     ]
   },
   {
-    "id": 22,
+    "id": 24,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "Don't Fall for the \"Life-Lie\"",
     "title_cn": "\"人生谎言\"教我们学会逃避",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3190,7 +3240,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "No, you are wrong. It’s easy to see if you think back on the example of separating from a person whom one has been in a love relationship with. In relationships between lovers or married couples, there are times when, after a certain point, one becomes exasperated with everything one’s partner says or does. For instance, she doesn’t care for the way he eats; his slovenly appearance at home fills her with revulsion, and even his snoring sets her off. Even though until a few months ago, none of it had ever bothered her before.",
-        "chinese": "不，不是这样的。如果想一想与处于恋爱关系的人分手时候的情况就会容易理解了。"
+        "chinese": "不，不是这样的。如果想一想与处于恋爱关系的人分手时候的情况就会容易理解了。在恋爱或夫妻关系中，过了某个时期之后，有时候对方的任何言行都会让你生气。吃饭的方式让你不满意，在房间里的散漫姿态令你生厌，甚至就连对方睡眠时的呼吸声都让你生气，尽管几个月前还不是这样。"
       },
       {
         "speaker": "YOUTH",
@@ -3245,7 +3295,7 @@
       {
         "speaker": "YOUTH",
         "english": "Argh!",
-        "chinese": ""
+        "chinese": "啊！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -3275,12 +3325,13 @@
     ]
   },
   {
-    "id": 23,
+    "id": 25,
     "part": 2,
     "part_title_en": "THE SECOND NIGHT: All Problems Are Interpersonal Relationship Problems",
     "part_title_cn": "第二夜 一切烦恼都来自人际关系",
     "title_en": "From the Psychology of Possession to the Psychology of Practice",
     "title_cn": "阿德勒心理学是\"勇气的心理学\"",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3370,12 +3421,29 @@
     ]
   },
   {
-    "id": 24,
+    "id": 26,
+    "part": 3,
+    "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
+    "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
+    "title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
+    "title_cn": "第三夜 让干涉你生活的人见鬼去",
+    "narrationOnly": true,
+    "dialogues": [
+      {
+        "speaker": "NARRATION",
+        "english": "Two anguished weeks later, the youth paid another visit to the philosopher’s study. What is freedom? Why can’t people be free? Why can’t Ibe free? What is the true nature of whatever it is that is constraining me? The assignment he had been given was weighing heavily on him, but it seemed impossible to find a convincing answer. The more he thought about it, the more the youth began to notice his own lack of freedom.",
+        "chinese": "苦苦思索两周之后，青年再次来到哲人的书房。自由是什么？我为什么不能获得自由？真正束缚我的究竟是什么？青年被布置的作业实在是太沉重，根本无法找出合适的答案。青年越想越感觉自己缺少自由。"
+      }
+    ]
+  },
+  {
+    "id": 27,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "Deny the Desire for Recognition",
     "title_cn": "自由就是不再寻求认可？",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3420,7 +3488,7 @@
       {
         "speaker": "YOUTH",
         "english": "It would be the interpersonal relationships you have been mentioning. I have thought deeply about this matter. For instance, you might be blessed by great wealth but not have anyone who loves you; you have no comrades whom you could call friends, and you are not liked by anyone. This is a great misfortune. Another thing I can’t get out of my head is the word “bonds.” Every one of us is tangled up and writhing in these strings that we call bonds. Having to be attached to a person you don’t even care for, for example, or to always watch out for your awful boss’s mood swings. Imagine, if you could be released from such petty interpersonal relationships, how easy things would be! But no one can really do such a thing. Wherever we go, we are surrounded by other people, and we are social individuals, who exist in our relations to other people. No matter what we do, we cannot escape the strong rope of our interpersonal relationships. I see now that Adler’s statement “All problems are interpersonal relationship problems” is a great insight.",
-        "chinese": "那就是先生再三提到的人际关系了。这一点我也仔细想过了。例如，尽管拥有巨额财富，但却找不到爱的人；没有能够称得上是知己的朋友，甚至被大家所厌恶。这都是极大的不幸。"
+        "chinese": "那就是先生再三提到的人际关系了。这一点我也仔细想过了。例如，尽管拥有巨额财富，但却找不到爱的人；没有能够称得上是知己的朋友，甚至被大家所厌恶。这都是极大的不幸。另一个一直萦绕在我脑海里的就是“羁绊”这个词语。我们其实都挣扎般地活在各种各样的“羁绊”之中——不得不和讨厌的人交往，不得不忍受讨厌的上司的嘴脸等。请您想象一下，如果能够从烦琐的人际关系中解放出来的话，那会有多么轻松啊！但是，这种事任何人都做不到。无论我们走到哪里都被他人包围着，都是活在与他人的关系之中的社会性的“个人”，无论如何都逃不出人际关系这张坚固的大网。阿德勒所说的“一切烦恼皆源于人际关系”这句话真可谓是真知灼见啊。一切的事情最终都会归结到这一点上。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -3440,7 +3508,7 @@
       {
         "speaker": "YOUTH",
         "english": "The most obvious one is the existence of parents. I could never think of parents as enemies. During my childhood, especially, they were my greatest guardians who raised and protected me. In that regard, I am sincerely grateful. Still, my parents were strict people. I told you about this last time, that they always compared me to my older brother and refused to recognize me. And they have constantly made comments about my life, saying I should study more, not make friends with people like this or that, get into this university at the very least, get this kind of job, and so on. Their demands put a lot of pressure on me and were certainly bonds.",
-        "chinese": "最简单易懂的就是父母的存在。对于我来说，无论怎么想“父母”都不是“敌人”，特别是在孩童时代，他们作为最大的庇护者养育和守护了我。关于这一点，我真心实意地满怀感激。"
+        "chinese": "最简单易懂的就是父母的存在。对于我来说，无论怎么想“父母”都不是“敌人”，特别是在孩童时代，他们作为最大的庇护者养育和守护了我。关于这一点，我真心实意地满怀感激。不过，我父母是非常严厉的人。上一次我也说过，父母常常拿我和哥哥比，并且毫不认可我。同时，对于我的人生，他们也总是指手画脚。比如常常说些“要好好学习”“不要跟那样的朋友来往”“至少得上这个大学”或者“必须选择这样的工作”之类的话。这种要求是一种极大的压力，也是一种羁绊。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -3460,7 +3528,7 @@
       {
         "speaker": "YOUTH",
         "english": "I’m now working as a librarian at a university library. My parents wanted me to take on my father’s printing plant, like my brother did. Because of this, ever since I started my current job, our relationship has been somewhat strained. If they weren’t my parents, and instead were enemy-like presences in my life, I probably wouldn’t have minded at all. Because no matter how much they might have tried to interfere, I could always just ignore them. But as I’ve said, parents to me are not enemies. Whether or not they are comrades is another matter, but, at the very least, they are not what I would call enemies. It’s a relationship that is much too close to be able to just ignore their intentions.",
-        "chinese": "我现在是大学图书馆的管理员，而我的父母则希望我像哥哥一样继承父亲的印刷工厂。因此，自从我就职以来，与父母的关系就多少有些不愉快。"
+        "chinese": "我现在是大学图书馆的管理员，而我的父母则希望我像哥哥一样继承父亲的印刷工厂。因此，自从我就职以来，与父母的关系就多少有些不愉快。如果对方不是自己的父母而是“敌人”一样的存在，那我就根本不会苦恼吧。因为无论对方怎么干涉，只要无视就可以了。但对我来说，父母不是“敌人”。是不是伙伴暂且不论，但至少不是应该称为“敌人”的存在。因为关系实在是太亲近了，所以根本不能无视其意愿。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -3505,12 +3573,13 @@
     ]
   },
   {
-    "id": 25,
+    "id": 28,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "Do Not Live to Satisfy the Expectations of Others",
     "title_cn": "要不要活在别人的期待中？",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3620,7 +3689,7 @@
       {
         "speaker": "YOUTH",
         "english": "I don’t care for all this talk about God. Think more straightforwardly and more plainly about the mentality of real, everyday people. What about the desire to be recognized socially, for example? Why does a person want to climb the corporate ladder? Why does a person seek status and fame? It’s the wish to be recognized as somebody important by society as a whole—it’s the desire for recognition.",
-        "chinese": "这和神的事情根本没关系！请您更加认真、更加直接地考虑一下活在俗世中的人们的心！"
+        "chinese": "这和神的事情根本没关系！请您更加认真、更加直接地考虑一下活在俗世中的人们的心！例如，希望获得社会性认可的认可欲求又会怎么样呢？为什么人想要在工作中出人头地呢？为什么人要追求地位和名誉呢？这是一种希望被社会整体认可的认可欲求吧！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -3650,17 +3719,18 @@
       {
         "speaker": "YOUTH",
         "english": "Separation of tasks? That’s a new term. Let’s hear about it.",
-        "chinese": "……课题分离？这可是个新词啊。那我就听听吧。"
+        "chinese": "……课题分离？这可是个新词啊。那我就听听吧。青年的焦躁情绪达到了顶点。要否定认可欲求？不要满足别人的期待？要为自己活着？这位哲学家究竟在说什么呢？认可欲求不正是人与他人交往形成社会的最大动机吗？青年心里默默地想：如果这个“课题分离”的主张不能说服我的话，我这一生都不可能再接受眼前的这个男人和阿德勒了！"
       }
     ]
   },
   {
-    "id": 26,
+    "id": 29,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "How to Separate Tasks",
     "title_cn": "把自己和别人的\"人生课题\"分开来",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -3810,12 +3880,13 @@
     ]
   },
   {
-    "id": 27,
+    "id": 30,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "Discard Other People's Tasks",
     "title_cn": "即使父母也得放下孩子的课题",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3865,7 +3936,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Look, the act of believing is also the separation of tasks. You believe in your partner; that is your task. But how that person acts with regard to your expectations and trust is other people’s tasks. When you push your wishes without having drawn that line, before you know it you’re engaging in stalker-like intervention. Suppose your partner did not act as you had wished. Would you still be able to believe in that person? Would you still be able to love that person? The task of love that Adler speaks of is composed of such questions.",
-        "chinese": "信任这一行为也需要进行课题分离。信任别人，这是你的课题。但是，如何对待你的信任，那就是对方的课题了。如果不分清界限而是把自己的希望强加给别人的话，那就变成粗暴的“干涉”了。"
+        "chinese": "信任这一行为也需要进行课题分离。信任别人，这是你的课题。但是，如何对待你的信任，那就是对方的课题了。如果不分清界限而是把自己的希望强加给别人的话，那就变成粗暴的“干涉”了。即使对方不如自己所愿也依然能够信任和爱吗？阿德勒所说的“爱的课题”就包括这种追问。"
       },
       {
         "speaker": "YOUTH",
@@ -3880,12 +3951,13 @@
     ]
   },
   {
-    "id": 28,
+    "id": 31,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "How to Rid Yourself of Interpersonal Relationship Problems",
     "title_cn": "放下别人的课题，烦恼轻轻飞走",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -3995,7 +4067,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "We are all suffering in interpersonal relationships. It might be the relationship with one’s parents or one’s elder brother, and it might be the interpersonal relationships at one’s workplace. Now, last time, you were saying that you wanted some specific steps. This is what I propose. First, one should ask, “Whose task is this?” Then do the separation of tasks. Calmly delineate up to what point one’s own tasks go, and from what point they become another person’s tasks. And do not intervene in other people’s tasks, or allow even a single person to intervene in one’s own tasks. This is a specific and revolutionary viewpoint that is unique to Adlerian psychology and contains the potential to utterly change one’s interpersonal relationship problems.",
-        "chinese": "我们都苦恼于人际关系。那也许是你与父母或哥哥之间的关系又或许是工作上的人际关系。而且，上一次你也说过吧？希望获得更加具体的方法。"
+        "chinese": "我们都苦恼于人际关系。那也许是你与父母或哥哥之间的关系又或许是工作上的人际关系。而且，上一次你也说过吧？希望获得更加具体的方法。我的建议是这样。首先要思考一下“这是谁的课题”。然后进行课题分离——哪些是自己的课题，哪些是别人的课题，要冷静地划清界限。而且，不去干涉别人的课题也不让别人干涉自己的课题这就是阿德勒心理学给出的具体而且有可能彻底改变人际关系烦恼的具有划时代意义的观点。"
       },
       {
         "speaker": "YOUTH",
@@ -4010,12 +4082,13 @@
     ]
   },
   {
-    "id": 29,
+    "id": 32,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "Cut the Gordian Knot",
     "title_cn": "砍断\"格尔迪奥斯绳结\"",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4030,7 +4103,7 @@
       {
         "speaker": "YOUTH",
         "english": "I think that, in theory, the separation of tasks is entirely right. What other people think of me, or what sort of judgment they pass on me, is the task of other people, and is not something I can do anything about. And I should just do what I have to do in my life without lying. I’d have no problem if you said this is a life truth—that’s how right I think it is. But consider this: From an ethical or moral point of view, could it be said to be the right thing to do? That is to say, a way of living that draws boundaries between oneself and others. Because wouldn’t you be brushing other people away and saying, “That’s intervention!” whenever they were worried about you and asked how you’re doing? It seems to me that this is something that treads on the goodwill of others.",
-        "chinese": "课题分离作为道理来讲完全正确。别人怎么看我怎么评价我，这是别人的课题，我无法左右。我只需要诚实面对自己的人生，做自己应该做的事情。这简直可以称为“人生的真理'"
+        "chinese": "课题分离作为道理来讲完全正确。别人怎么看我怎么评价我，这是别人的课题，我无法左右。我只需要诚实面对自己的人生，做自己应该做的事情。这简直可以称为“人生的真理'但请您想一想，这种在自己和别人之间严格划清界限的生存方式在伦理上或者道德上能讲得通吗？别人因担心自己而伸出的手也粗暴地推开并说：不要干涉我！”这不是践踏别人的好意吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4080,12 +4153,12 @@
       {
         "speaker": "YOUTH",
         "english": "The gateway?",
-        "chinese": ""
+        "chinese": "入口？"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "For instance, when reading a book, if one brings one’s face too close to it, one cannot see anything. In the same way, forming good interpersonal relationships requires a certain degree of distance. When the distance gets too small and people become stuck together, it becomes impossible to even speak to each other. But the distance must not be too great, either. Parents who scold their children too much become mentally very distant. When this happens, the child can no longer even consult the parents, and the parents can no longer give the proper assistance. One should be ready to lend a hand when needed but not encroach on the person’s territory. It is important to maintain this kind of moderate distance.",
-        "chinese": "例如，读书的时候如果离得太近就会什么都看不见。同样，要想构筑良好的人际关系也需要保持一定的距离。如果距离太近，贴在一起，那就无法与对方正面对话。"
+        "chinese": "例如，读书的时候如果离得太近就会什么都看不见。同样，要想构筑良好的人际关系也需要保持一定的距离。如果距离太近，贴在一起，那就无法与对方正面对话。虽说如此，但距离也不可以太远。父母如果一味训斥孩子，心就会疏远。如果这样的话，孩子甚至都不愿与父母商量，父母也不能提供适当的援助。伸伸手即可触及，但又不踏入对方领域，保持这种适度距离非常重要。"
       },
       {
         "speaker": "YOUTH",
@@ -4110,7 +4183,7 @@
       {
         "speaker": "YOUTH",
         "english": "Hmm.",
-        "chinese": ""
+        "chinese": "嗯。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4135,22 +4208,23 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Why?",
-        "chinese": "为什么？"
+        "chinese": "为什么？哲人刚开始谈到的“课题分离”的内容太具冲击性。的确，当认为一切烦恼皆源于人际关系的时候，课题分离的确有用。只要拥有这个观点，世界就会变得简单。但是，这只是一种冷冰冰的说教，根本感觉不到一丝人性的温暖。怎么能够接受这种哲学呢？青年从椅子上站起来大声控诉。"
       }
     ]
   },
   {
-    "id": 30,
+    "id": 33,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "Desire for Recognition Makes You Unfree",
     "title_cn": "对认可的追求，扼杀了自由",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
         "english": "Look, I have been dissatisfied for ages. The adults of the world tell the young people, “Do something you like to do.” And they say it with smiles on their faces as if they might actually be understanding people, as if they were on the side of the young. But it’s all lip service, which comes out only because those young people are complete strangers to them, and the relationship is one that is completely without any kind of responsibility. Then parents and teachers tell us, “Get into that school,” or “Look for a stable occupation,” and this concrete and uninteresting instruction is not merely an intervention. It’s actually that they are trying to fulfill their responsibilities. It’s precisely because we are closely connected to them and they are seriously concerned about our future that they can’t say irresponsible things like, “Do something you like.” I’m sure you’d put on that understanding face too, and say to me, “Please do something you like.” But I won’t believe such a comment from another person! It’s an extremely irresponsible comment, as if one were just brushing a caterpillar off one’s shoulder. And if the world crushed that caterpillar, you would say, “It’s not my task,” and walk away nonchalantly. What separation of tasks, you monster!",
-        "chinese": "我一直都心怀不满！世上的长者们常常会对年轻人说：“做自己喜欢做的事！”而且说这话的时候脸上还带着像理解者或者是朋友般的笑。但是，这样的话恐怕也就对那些跟自己没有什么关系也不必负责任的陌生年轻人说说而己吧！"
+        "chinese": "我一直都心怀不满！世上的长者们常常会对年轻人说：“做自己喜欢做的事！”而且说这话的时候脸上还带着像理解者或者是朋友般的笑。但是，这样的话恐怕也就对那些跟自己没有什么关系也不必负责任的陌生年轻人说说而己吧！另一方面，父母或老师会给出一些“要上那个学校”或者“得找一份安定的工作”之类的无趣指示，这其实并不仅仅是一种干涉，反而是一种负责任的表现。正因为关系亲近才会认真地为对方的将来考虑，所以才说不出“做自己喜欢的事”之类的不负责任的话！先生您也一定会像理解者一样对我说“去做自己喜欢的事情”吧。但是，我并不相信别人的这种话！这是一种就像轻轻拂去落在肩上的毛毛虫一样极其不负责任的话！假如有人将那只毛毛虫踩死了，先生一定会冷冷地说一句“那不是我的课题”便扬长而去吧！什么课题分离呀？太没人性啦！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4175,7 +4249,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Does one choose recognition from others, or does one choose a path of freedom without recognition? It’s an important question—let’s think about it together. To live one’s life trying to gauge other people’s feelings and being worried about how they look at you. To live in such a way that others’ wishes are granted. There may indeed be signposts to guide you this way, but it is a very unfree way to live. Now, why are you choosing such an unfree way to live? You are using the term “desire for recognition,” but what you are really saying is that you don’t want to be disliked by anyone.",
-        "chinese": "是选择别人的认可还是选择得不到认可的自由之路，这是非常重要的问题。咱们一起来思考一下，在意别人的视线、看着别人的脸色生活、为了满足别人的期望而活着，这或许的确能够成为一种人生路标，但这却是极其不自由的生活方式。"
+        "chinese": "是选择别人的认可还是选择得不到认可的自由之路，这是非常重要的问题。咱们一起来思考一下，在意别人的视线、看着别人的脸色生活、为了满足别人的期望而活着，这或许的确能够成为一种人生路标，但这却是极其不自由的生活方式。那么，为什么要选择这种不自由的生活方式呢？你用了“认可欲求”这个词，总而言之就是不想被任何人讨厌。"
       },
       {
         "speaker": "YOUTH",
@@ -4185,7 +4259,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Exactly. It is true that there is no person who wishes to be disliked. But look at it this way: What should one do to not be disliked by anyone? There is only one answer: It is to constantly gauge other people’s feelings while swearing loyalty to all of them. If there are ten people, one must swear loyalty to all ten. When one does that, for the time being one will have succeeded in not being disliked by anyone. But at this point, there is a great contradiction looming. One swears loyalty to all ten people out of the single-minded desire to not be disliked. This is like a politician who has fallen into populism and begun to make impossible promises and accept responsibilities that are beyond him. Naturally, his lies will come to light before long. He will lose people’s trust and turn his own life into one of greater suffering. And, of course, the stress of continual lying has all kinds of consequences. Please grasp this point. If one is living in a such a way as to satisfy other people’s expectations, and one is entrusting one’s own life to others, that is a way of living in which one is lying to oneself and continuing that lying to include the people around one.",
-        "chinese": "是的。的确没有希望惹人厌的人。但是，请你这样想：为了不被任何人厌恶需要怎么做呢？答案只有一个。那就是时常看着别人的脸色并发誓忠诚于任何人。如果周围有10个人，那就发誓忠诚于10个人。如果这样的话，暂时就可以不招任何人讨厌了。"
+        "chinese": "是的。的确没有希望惹人厌的人。但是，请你这样想：为了不被任何人厌恶需要怎么做呢？答案只有一个。那就是时常看着别人的脸色并发誓忠诚于任何人。如果周围有10个人，那就发誓忠诚于10个人。如果这样的话，暂时就可以不招任何人讨厌了。但是，此时有一个大矛盾在等着你。因为一心不想招人讨厌，所以就发誓忠诚于全部10个人，这就像陷入民粹主义的政治家一样，做不到的事情也承诺“能做到”，负不起的责任也一起包揽。当然，这种谎言不久后就会被拆穿，然后就会失去信用使自己的人生更加痛苦。自然，继续撒谎的压力也超出想象。这一点请你一定好好理解。为了满足别人的期望而活以及把自己的人生托付给别人，这是一种对自己撒谎也不断对周围人撒谎的生活方式。"
       },
       {
         "speaker": "YOUTH",
@@ -4225,12 +4299,13 @@
     ]
   },
   {
-    "id": 31,
+    "id": 34,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "What Real Freedom Is",
     "title_cn": "自由就是被别人讨厌",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -4240,7 +4315,7 @@
       {
         "speaker": "YOUTH",
         "english": "Right.",
-        "chinese": ""
+        "chinese": "是的。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4325,7 +4400,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "It is certainly distressful to be disliked. If possible, one would like to live without being disliked by anyone. One wants to satisfy one’s desire for recognition. But conducting oneself in such a way as to not be disliked by anyone is an extremely unfree way of living, and is also impossible. There is a cost incurred when one wants to exercise one’s freedom. And the cost of freedom in interpersonal relationships is that one is disliked by other people.",
-        "chinese": "的确，招人讨厌是件痛苦的事情。如果可能的话，我们都想毫不讨人嫌地活着，想要尽力满足自己的认可欲求。但是，八面玲珑地讨好所有人的生活方式是一种极其不自由的生活方式，同时也是不可能实现的事情。"
+        "chinese": "的确，招人讨厌是件痛苦的事情。如果可能的话，我们都想毫不讨人嫌地活着，想要尽力满足自己的认可欲求。但是，八面玲珑地讨好所有人的生活方式是一种极其不自由的生活方式，同时也是不可能实现的事情。如果想要行使自由，那就需要付出代价。而在人际关系中，自由的代价就是被别人讨厌。"
       },
       {
         "speaker": "YOUTH",
@@ -4400,12 +4475,13 @@
     ]
   },
   {
-    "id": 32,
+    "id": 35,
     "part": 3,
     "part_title_en": "THE THIRD NIGHT: Discard Other People's Tasks",
     "part_title_cn": "第三夜 让干涉你生活的人见鬼去",
     "title_en": "You Hold the Cards to Interpersonal Relationships",
     "title_cn": "人际关系\"王牌\"，握在你自己手里",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4420,7 +4496,7 @@
       {
         "speaker": "YOUTH",
         "english": "All right.",
-        "chinese": ""
+        "chinese": "好的。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4475,7 +4551,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Of course.",
-        "chinese": ""
+        "chinese": "当然。"
       },
       {
         "speaker": "YOUTH",
@@ -4485,7 +4561,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Then it’s the separation of tasks. It’s true that my father and I had a complicated relationship. He was a stubborn person, and I could never imagine his feelings being able to change easily. Moreover, there was a strong possibility that he had even forgotten ever raising his hands against me. However, at the time of making my resolution to repair relations, it did not matter to me what sort of lifestyle my father had, or what he thought of me, or the kind of attitude he might adopt in response to my approach—such things didn’t matter at all. Even if there were no intention to repair relations on his side, I would not mind in the least. The issue was whether or not I would resolve to do it, and I was always holding the interpersonal relationship cards.",
-        "chinese": "还是课题分离。的确，父亲和我的关系很复杂。实际上，父亲是个非常固执的人，他的心不会轻易发生变化；不止如此，很可能就连对我动过手的事情都忘记了。"
+        "chinese": "还是课题分离。的确，父亲和我的关系很复杂。实际上，父亲是个非常固执的人，他的心不会轻易发生变化；不止如此，很可能就连对我动过手的事情都忘记了。但是，当我下定修复关系之“决心”的时候，父亲拥有什么样的生活方式、怎么看我、对我主动靠近他这件事持什么态度等，这些与我都毫无关系了。即使对方根本不想修复关系也无所谓。问题是我有没有下定决心，“人际关系之卡”总是掌握在自己手中。"
       },
       {
         "speaker": "YOUTH",
@@ -4505,7 +4581,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "I did not change in order to change my father. That is an erroneous notion of trying to manipulate another person. Even if I change, it is only “I” who changes. I do not know what will happen to the other person as a result, and that is not an aspect I can take part in. This too is the separation of tasks. Of course, there are times when, in tandem with my change—not due to my change—the other person changes too. In many cases, that person will have no choice but to change. But that is not the goal, and it is certainly possible that the other person will not change. In any case, changing one’s own speech and conduct as a way of manipulating other people is clearly a mistaken way of thinking.",
-        "chinese": "我的变化不是“为了改变父亲”。那是一种想要操纵别人的错误想法。"
+        "chinese": "我的变化不是“为了改变父亲”。那是一种想要操纵别人的错误想法。我改变了，发生变化的只是“我”。作为结果，对方会怎样我不知道，也无法左右，这也是课题分离。当然，随着我的变化——不是通过我的变化——对方也会发生改变。也许很多情况下对方不得不改变，但那不是目的，而且也可能不会发生。总之，把改变自己当成操纵他人的手段是一种极其错误的想法。"
       },
       {
         "speaker": "YOUTH",
@@ -4535,7 +4611,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "What is it?",
-        "chinese": ""
+        "chinese": "什么？"
       },
       {
         "speaker": "YOUTH",
@@ -4545,7 +4621,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes, of course. I think so. My father fell ill, and in the last few years of his life, it was necessary for me and my family to take care of him. Then one day, when I was taking care of him as usual, my father said, “Thank you.” I had not known my father possessed such a word in his vocabulary, and I was astonished and felt grateful for all the days that had passed. Through the long years of my caregiving life, I had tried to do whatever I could, that is to say, I had done my best to lead my father to water. And in the end, he drank. I think he did.",
-        "chinese": "是的，当然，至少我是这么认为的。父亲晚年患了病，最后几年需要我和家人的照顾。"
+        "chinese": "是的，当然，至少我是这么认为的。父亲晚年患了病，最后几年需要我和家人的照顾。有一天，父亲对像往常一样照顾他的我说“谢谢”。从不知道父亲的词典里还会有这个词的我非常震惊，同时也对之前的日子满怀感激。我认为通过长期的看护生活，自己做到了能做的事情，也就是把父亲带到水边。而且，最终父亲喝了水。我是这么认为的。"
       },
       {
         "speaker": "YOUTH",
@@ -4560,12 +4636,29 @@
     ]
   },
   {
-    "id": 33,
+    "id": 36,
+    "part": 4,
+    "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
+    "part_title_cn": "第四夜 要有被讨厌的勇气",
+    "title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
+    "title_cn": "第四夜 要有被讨厌的勇气",
+    "narrationOnly": true,
+    "dialogues": [
+      {
+        "speaker": "NARRATION",
+        "english": "That was close—Ialmost fell for it! The following week, the young man called on the philosopher again, and, with an indignant expression, knocked on the door. The idea of separating tasks is certainly a useful one. You had me completely convinced last time. But it seems like such a lonely way to live. Separating the tasks and lightening the load of one’s interpersonal relations is just the same as cutting one’s connection to other people. And, to top it off, you’re telling me to be disliked by other people? If that’s what you call freedom, then I’ll choose not to be free!",
+        "chinese": "差点就被骗了！第二周，青年愤然叩响了哲人的门。课题分离想法的确有用，上一次也确实接受了。但是，那岂不是一种非常孤独的生活方式吗？分离课题、减轻人际关系负担，不也就意味着要失去与他人的联系吗？最后岂不是要落得遭人厌弃？如果这叫做自由，那我宁可选择不自由。"
+      }
+    ]
+  },
+  {
+    "id": 37,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "Individual Psychology and Holism",
     "title_cn": "个体心理学和整体论",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -4630,7 +4723,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Certainly it is true that the mind and the body are separate things, that reason and emotion are different, and that both the conscious mind and the unconscious mind exist. That said, however, when one flies into a rage and shouts at another person, it is “I as a whole” who is choosing to shout. One would never think of emotions that somehow exist independently—unrelated to one’s intentions, as it were—as having produced that shouting voice. When one separates the “I” from “emotion” and thinks, It was the emotion that made me do it, or The emotion got the best of me, and I couldn’t help it , such thinking quickly becomes a life-lie.",
-        "chinese": "当然，心灵和身体是不一样的存在，理性和感情也各有不同，而且还有有意识和无意识之分，这些都是事实。"
+        "chinese": "当然，心灵和身体是不一样的存在，理性和感情也各有不同，而且还有有意识和无意识之分，这些都是事实。但是，当对他人大发雷霆的时候，那是”作为整体的我“选择了勃然大怒，绝对不是感情这一独立存在——可以说与我的意志无关——发出了怒吼。在这里，如果把”我“和”感情“分离开来认为”感情让我那么做或者受感情驱使“，那就容易陷入人生谎言。"
       },
       {
         "speaker": "YOUTH",
@@ -4685,12 +4778,13 @@
     ]
   },
   {
-    "id": 34,
+    "id": 38,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "The Goal of Interpersonal Relationships Is a Feeling of Community",
     "title_cn": "人际关系的终极目标",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -4720,7 +4814,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "It was the time before last, I believe, that I brought up the matter of how one sees others, that is, as enemies or as comrades. Now, take that a step deeper. If other people are our comrades, and we live surrounded by them, we should be able to find in that life our own place of “refuge.” Moreover, in doing so, we should begin to have the desire to share with our comrades, to contribute to the community. This sense of others as comrades, this awareness of “having one’s own refuge,” is called “community feeling.”",
-        "chinese": "上上次说到过”是把别人看成‘敌人’还是看成‘伙伴’“这个话题吧？"
+        "chinese": "上上次说到过”是把别人看成‘敌人’还是看成‘伙伴’“这个话题吧？在这里我们再深入考虑一下。如果他人是伙伴，我们生活在伙伴中间，那就能够从中找到自己的”位置“，而且还可以认为自己在为伙伴们一一也就是共同体——做着贡献。像这样把他人看作伙伴并能够从中感到”自己有位置“的状态，就叫共同体感觉。"
       },
       {
         "speaker": "YOUTH",
@@ -4745,7 +4839,7 @@
       {
         "speaker": "YOUTH",
         "english": "Huh?",
-        "chinese": ""
+        "chinese": "啊？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4775,7 +4869,7 @@
       {
         "speaker": "YOUTH",
         "english": "Okay then!",
-        "chinese": ""
+        "chinese": "然后呢？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4785,7 +4879,7 @@
       {
         "speaker": "YOUTH",
         "english": "Indeed.",
-        "chinese": ""
+        "chinese": "确实"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -4830,12 +4924,13 @@
     ]
   },
   {
-    "id": 35,
+    "id": 39,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "Why Am I Only Interested In Myself?",
     "title_cn": "\"拼命寻求认可\"反而是以自我为中心？",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -4910,17 +5005,18 @@
     ]
   },
   {
-    "id": 36,
+    "id": 40,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "You Are Not the Center of the World",
     "title_cn": "你不是世界的中心，只是世界地图的中心",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
         "english": "Let’s go over things in order. First of all, each of us is a member of a community, and that is where we belong. Feeling that one has one’s own place of refuge within the community, feeling that “it’s okay to be here,” and having a sense of belonging—these are basic human desires. Whether it is one’s studies, work, or friendships, or one’s love or marriage, all these things are connected to one’s search for places and relationships in which one can feel “it’s okay to be here.” Wouldn’t you agree?",
-        "chinese": "请按顺序想一想。我们首先是作为共同体的一员从属于共同体，能够感觉到在共同体中有自己的位置并能体会到“可以在这里”，也就是拥有归属感，这是人的基本欲求。"
+        "chinese": "请按顺序想一想。我们首先是作为共同体的一员从属于共同体，能够感觉到在共同体中有自己的位置并能体会到“可以在这里”，也就是拥有归属感，这是人的基本欲求。例如，学业、工作、交友，还有恋爱和结婚等，这一切都与寻求归属感紧密相关的。你不这么认为吗？"
       },
       {
         "speaker": "YOUTH",
@@ -4950,12 +5046,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes, exactly. They make a leap from being “life’s protagonist” to becoming “the world’s protagonist.” For this reason, whenever they come into contact with another person, all they can think is, What will this person give me? However—and this is something that does not hold true for princes and princesses—this expectation is not going to be satisfied on every occasion. Because other people are not living to satisfy your expectations.",
-        "chinese": "是的，正是如此。他们超越了“人生的主人公”，进而越位到“世界的主人公”。因此，在与他人接触的时候总是会想：“这个人给了我什么？”"
+        "chinese": "是的，正是如此。他们超越了“人生的主人公”，进而越位到“世界的主人公”。因此，在与他人接触的时候总是会想：“这个人给了我什么？”但是，这一点恐怕就是跟王子或公主不同的地方吧——这种期待并不会每次都能被满足，因为“别人并不是为了满足你的期待而活”。"
       },
       {
         "speaker": "YOUTH",
         "english": "Indeed.",
-        "chinese": ""
+        "chinese": "确实。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5020,7 +5116,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "One faces one’s life tasks. In other words, one takes steps forward on one’s own, without avoiding the tasks of the interpersonal relations of work, friendship, and love. If you are “the center of the world,” you will have no thoughts whatsoever regarding commitment to the community; because everyone else is “someone who will do something for me,” and there is no need for you to do things yourself. But you are not the center of the world, and neither am I. One has to stand on one’s own two feet, and take one’s own steps forward with the tasks of interpersonal relations. One needs to think not, What will this person give me? but rather, What can I give to this person? That is commitment to the community.",
-        "chinese": "就是直面”人生课题“。也就是不回避工作、交友、爱之类的人际关系课题，要积极主动地去面对。如果你认为自己就是世界的中心，那就丝毫不会主动融入共同体中，因为一切他人都是”为我服务的人“，根本没必要由自己采取行动。"
+        "chinese": "就是直面”人生课题“。也就是不回避工作、交友、爱之类的人际关系课题，要积极主动地去面对。如果你认为自己就是世界的中心，那就丝毫不会主动融入共同体中，因为一切他人都是”为我服务的人“，根本没必要由自己采取行动。但是，无论是你还是我，我们都不是世界的中心，必须用自己的脚主动迈出一步去面对人际关系课题；不是考虑”这个人会给我什么“，而是要必须思考一下”我能给这个人什么“。这就是对共同体的参与和融入。"
       },
       {
         "speaker": "YOUTH",
@@ -5030,22 +5126,23 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right. A sense of belonging is something that one acquires through one’s own efforts—it is not something one is endowed with at birth. Community feeling is the much-debated key concept of Adlerian psychology.",
-        "chinese": "是的。归属感不是生来就有的东西，要靠自己的手去获得。"
+        "chinese": "是的。归属感不是生来就有的东西，要靠自己的手去获得。共同体感觉是阿德勒心理学的关键概念，也是最具争议的观点。的确，这种观点对青年来说很难马上接受。而且，对于被指出”你是以自我为中心“这件事，他也是心怀不满。但是，最接受不了的还是甚至包括宇宙或非生物在内的共同体范围问题。阿德勒还有哲人究竟在说什么呢？青年一脸困惑地开口说话了。"
       }
     ]
   },
   {
-    "id": 37,
+    "id": 41,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "Listen to the Voice of a Larger Community",
     "title_cn": "在更广阔的天地寻找自己的位置",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
         "english": "I must admit, you’re starting to lose me. Let me try to straighten things out a bit. First, at the gateway of interpersonal relations, we’ve got the separation of tasks, and as the goal, there’s community feeling. And you’re saying that community feeling is having “a sense of others as comrades” and “an awareness of having one’s own refuge” within the community. Up to this point, it is something I can understand and accept. But the details still seem a bit far-fetched. For one thing, what do you mean by expanding this thing you call “community” to include the entire universe, and then even the past and the future, and everything from living things to inanimate objects?",
-        "chinese": "哎呀，越来越不明白了。请让我整理一下。首先，人际关系的起点是”课题分离“，终点是”共同体感觉“。而且，共同体感觉是指”把他人看成朋友，并在其中能够感受到有自己的位置“。这些都还容易理解，也能够接受。"
+        "chinese": "哎呀，越来越不明白了。请让我整理一下。首先，人际关系的起点是”课题分离“，终点是”共同体感觉“。而且，共同体感觉是指”把他人看成朋友，并在其中能够感受到有自己的位置“。这些都还容易理解，也能够接受。但是，细节部分还是无法接受。例如，其中的”共同体“扩展到了宇宙整体，还包括了过去和未来，甚至从生物到非生物，这是什么意思呢？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5060,7 +5157,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Take, for example, a man who, on reaching retirement age and stopping work, quickly loses his vitality and becomes depressed. Abruptly cut off from the company that was his community and bereft of title or profession, he becomes an “ordinary nobody.” As he is unable to accept the fact that he is now “normal,” he becomes old practically overnight. But all that really happened to the man is that he was cut off from the small community that is his company. Each person belongs to a separate community. And when it comes down to it, all of us belong to the community of the earth, and the community of the universe.",
-        "chinese": "例如，有人一旦退休便立即没了精神。被从公司这个共同体中分离出来，失去了头衔、失去了名片，成了无名的”平凡人“，也就是变得普通了，有人接受不了这一变化就会一下子衰老。"
+        "chinese": "例如，有人一旦退休便立即没了精神。被从公司这个共同体中分离出来，失去了头衔、失去了名片，成了无名的”平凡人“，也就是变得普通了，有人接受不了这一变化就会一下子衰老。但是，这只不过是从公司这个小的共同体中被分离出来而己，任何人都还属于别的共同体。因为，无论怎样，我们的一切都属于地球这个共同体，属于宇宙这个共同体。"
       },
       {
         "speaker": "YOUTH",
@@ -5095,22 +5192,22 @@
       {
         "speaker": "YOUTH",
         "english": "Excuse me for saying so, but you’re escaping into abstract theory. The issue we should be addressing here is the sense of belonging, that “it’s okay to be here.” And then, with regard to the meaning of this sense of belonging, it is the community we can see that is stronger. You will agree with that, won’t you? For example, if we compare the “company” community with the “earth” community, the sense of belonging of someone who says “I am a member of this company” would be stronger. To borrow your terminology, the distance and depth of the interpersonal relations are completely different. It’s only natural that when we search for a sense of belonging, we will be attracted to the smaller community.",
-        "chinese": "先生您正逃避在抽象论中。现在的重点问题是”可以在这里“这样的归属感。而在归属感这一意义上，也多为能够看得见的共同体。这一点您承认吧？"
+        "chinese": "先生您正逃避在抽象论中。现在的重点问题是”可以在这里“这样的归属感。而在归属感这一意义上，也多为能够看得见的共同体。这一点您承认吧？例如，在拿”公司“这个共同体和”地球“这个共同体相比较的时候，”我是这个公司的一员“这种归属感会更强。用先生的话说就是，人际关系的距离和深度完全不一样。我们在寻求归属感的时候，理所当然地会去关注更小的共同体。"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "That is a perceptive observation. So let’s start thinking about why we should be aware of multiple and larger communities. As I stated earlier, all of us belong to multiple communities. We belong to our households, our schools, our workplaces, and the local societies and the countries in which we live. This far you agree, yes?",
-        "chinese": "你说得很深刻。那么，请你想一想，为什么我们应该意识到更多更大的共同体。"
+        "chinese": "你说得很深刻。那么，请你想一想，为什么我们应该意识到更多更大的共同体。我还要重复一下，我们都属于多个共同体。属于家庭、属于学校、属于企业、属于地域社会、属于国家等。这一点你同意吧？"
       },
       {
         "speaker": "YOUTH",
         "english": "Yes, I do.",
-        "chinese": ""
+        "chinese": "我同意。"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "Well, suppose that you, as a student, regarded the community that is “school” as absolute. In other words, school is everything to you, your “I” exists because of school, and no other “I” is possible without it. But naturally, there will be occasions within that community when you run into adversity. It could be getting bullied, or not being able to make friends, or not keeping up with your schoolwork, or not adapting to the system of the school in the first place. That is to say, it’s possible that with regard to the community that is your school, you won’t have that “It’s okay to be here” sense of belonging.",
-        "chinese": "那么，假设你是学生只看到”学校“这个共同体。也就是说，学校就是一切，我正因为有了学校才是”我“，这之外的”我“根本不可能存在。"
+        "chinese": "那么，假设你是学生只看到”学校“这个共同体。也就是说，学校就是一切，我正因为有了学校才是”我“，这之外的”我“根本不可能存在。但是，在这个共同体中自然也会遇到某些麻烦——受欺负、交不到朋友、功课不好或者是根本无法适应学校这个系统。也就是，”我“有可能对于学校这个共同体不能产生”可以在这里“的归属感。"
       },
       {
         "speaker": "YOUTH",
@@ -5120,7 +5217,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "When that happens, if you are thinking of school as being everything to you, you will end up without a sense of belonging to anything. And then, you will escape within a smaller community, such as your home. You will shut yourself in, and maybe even turn to violence against members of your own family. And by doing such things, you will be attempting to gain a sense of belonging somehow. What I would like you to focus on here, though, is that there is “a more separate community” and, moreover, that there is “a larger community.”",
-        "chinese": "这种时候，如果认为学校就是一切，那你就会没有任何归属感。然后就会逃避到更小的共同体，例如家庭之中，并且还会躲在里面不愿出去，有时候甚至会陷入家庭暴力等不良状况，想要通过这样做来获得某种归属感。"
+        "chinese": "这种时候，如果认为学校就是一切，那你就会没有任何归属感。然后就会逃避到更小的共同体，例如家庭之中，并且还会躲在里面不愿出去，有时候甚至会陷入家庭暴力等不良状况，想要通过这样做来获得某种归属感。但是，在这里希望你能关注的是”还有更多别的共同体“，特别是”还有更大的共同体“。"
       },
       {
         "speaker": "YOUTH",
@@ -5130,7 +5227,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That there is a larger world that extends far beyond the confines of the school. And every one of us is a member of that world. If there is no place of refuge in your school, you should find a different refuge outside the walls of the school. You can change schools, and it’s fine to withdraw from school, too. A community that you can break relations with by simply submitting a withdrawal notice is one that you can have only so much connection to, in any case. Once you know how big the world is, you will see that all the hardship you went through in school was a storm in a teacup. The moment you leave the teacup, that raging storm will be gone, and a gentle breeze will greet you in its place.",
-        "chinese": "在学校之外，还有更加广阔的世界。而且，我们都是那个世界的一员。如果学校中没有自己位置的话，还可以从学校”外面“找到别的位置，可以转学，甚至可以退学。一张退学申请就可以切断联系的共同体终归也就只是那种程度的联系。"
+        "chinese": "在学校之外，还有更加广阔的世界。而且，我们都是那个世界的一员。如果学校中没有自己位置的话，还可以从学校”外面“找到别的位置，可以转学，甚至可以退学。一张退学申请就可以切断联系的共同体终归也就只是那种程度的联系。如果了解了世界之大，就会明白自己在学校中所受的苦只不过是”杯中风暴“而己。只要跳出杯子，猛烈的风暴也会变成微风。"
       },
       {
         "speaker": "YOUTH",
@@ -5160,7 +5257,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "If it is a school, one does not judge things with the common sense of the community that is the school, but instead follows the common sense of a larger community. Now, let’s say it’s your school, and your teacher has been behaving in an authoritarian manner. But the power or authority your teacher wields are nothing more than an aspect of the common sense that operates only within the small community that is the school. From the standpoint of the community that is “human society,” both you and your teacher are equal humans. If unreasonable demands are being thrust on you, it is fine to object to them directly.",
-        "chinese": "如果是学校，那就不要用学校这个共同体的常识（共通感觉）来判断事物，而要遵从更大共同体的常识。"
+        "chinese": "如果是学校，那就不要用学校这个共同体的常识（共通感觉）来判断事物，而要遵从更大共同体的常识。假设在你的学校教师是绝对的权力主导者，但那种权力或权威只是通用于学校这个小的共同体的一种常识，其他什么都不是。如果按照”人的社会“这个共同体来考虑的话，你和教师都是平等的”人“。如果被提出不合理的要求，那就可以正面拒绝。"
       },
       {
         "speaker": "YOUTH",
@@ -5185,17 +5282,18 @@
     ]
   },
   {
-    "id": 38,
+    "id": 42,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "Do Not Rebuke or Praise",
     "title_cn": "批评不好……表扬也不行？",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
         "english": "Well, all right. But don’t you see? You haven’t touched on the essential point, that is, the course of progression from the separation of tasks to community feeling. So first, I separate the tasks. I think of my tasks as being up to this point, and everything beyond that is other people’s tasks. I don’t intervene in other people’s tasks, and I draw a line so that other people won’t intervene in mine. But how can one build interpersonal relations with this separation of tasks and arrive in the end at the community feeling that “it’s okay to be here”? How does Adlerian psychology advise us to overcome the life tasks of work, friendship, and love? It seems like you’re just trying to confuse me with abstract words, without going into any concrete explanation.",
-        "chinese": "哎呀，好吧。但是，您注意到了吗？先生您并没有说到关键问题，也就是从”课题分离“到”共同体感觉“发展的路线。"
+        "chinese": "哎呀，好吧。但是，您注意到了吗？先生您并没有说到关键问题，也就是从”课题分离“到”共同体感觉“发展的路线。首先是分离课题。我的课题就到这里，从这里开始属于他人的课题。划清界限，我不去干涉别人的课题，也不让别人干涉我的课题。那么，如何从这种”课题分离“中建立人际关系，最终形成”可以在这里“的共同体感觉呢？阿德勒心理学认为该如何去完成工作、交友、爱之类的人生课题呢？这些问题您始终没有具体谈，只是用抽象的语言蒙混过去了。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5235,7 +5333,7 @@
       {
         "speaker": "YOUTH",
         "english": "Take animal training, for example. When teaching animals to do tricks, you can make them obey with a whip. This is the typical “raising by rebuke” way. On the other hand, it’s also possible to get animals to learn tricks by holding up rewards of food or saying kind words. This is “raising by praise.” Both ways can lead to the same results—they learn new tricks. But the motivation for moving toward the objective is completely different if the animal is doing it because it will be rebuked or doing it because it wants to be praised. In the latter instance, it will come with a feeling of joy. Rebuke only makes the animal wither. But raising with praise naturally allows it to grow strong and healthy. This seems like an obvious conclusion.",
-        "chinese": "想想动物训练就能够明白。训练动物耍技艺的时候可以挥舞着鞭子让其顺从，这是典型的”批评教育“的做法。另一方面，也可以一个手拿着食物并通过语言的赞美让其记住所教技艺。这就是”表扬教育“。"
+        "chinese": "想想动物训练就能够明白。训练动物耍技艺的时候可以挥舞着鞭子让其顺从，这是典型的”批评教育“的做法。另一方面，也可以一个手拿着食物并通过语言的赞美让其记住所教技艺。这就是”表扬教育“。这两种方法在”掌握技艺“这个结果上也许一样。但是，在”因为被批评而做“和”想要被表扬而做“这两种情况中，行动对象的动机完全不同，后者中含有喜悦的成分。因为批评会让对方萎缩，所以只有在表扬教育下才能茁壮成长。这是理所当然的结论吧。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5340,7 +5438,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "So it seems. In the first place, the feeling of inferiority is an awareness that arises within vertical relationships. If one can build horizontal relationships that are “equal but not the same” for all people, there will no longer be any room for inferiority complexes to emerge.",
-        "chinese": "是这样的。自卑感原本就是从纵向关系中产生的一种意识。"
+        "chinese": "是这样的。自卑感原本就是从纵向关系中产生的一种意识。只要能够对所有人都建立起”虽不同但平等“的横向关系，那就根本不会产生自卑情结。"
       },
       {
         "speaker": "YOUTH",
@@ -5360,17 +5458,18 @@
     ]
   },
   {
-    "id": 39,
+    "id": 43,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "The Encouragement Approach",
     "title_cn": "有鼓励才有勇气",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
         "english": "As you may recall from our discussion on the separation of tasks, I brought up the subject of intervention. This is the act of intruding on other people’s tasks. So why does a person intervene? Here, too, in the background, vertical relationships are at play. It is precisely because one perceives interpersonal relations as vertical, and sees the other party as beneath one, that one intervenes. Through intervention, one tries to lead the other party in the desired direction. One has convinced oneself that one is right and that the other party is wrong. Of course, the intervention here is manipulation, pure and simple. Parents commanding a child to study is a typical example of this. They might be acting out of the best of intentions from their points of view, but when it comes down to it, the parents are intruding and attempting to manipulate the child to go in their desired direction.",
-        "chinese": "在说明课题分离的时候我说过”干涉“这个词。也就是一种对他人的课题妄加干涉的行为。"
+        "chinese": "在说明课题分离的时候我说过”干涉“这个词。也就是一种对他人的课题妄加干涉的行为。那么，人为什么会去干涉别人呢？其背后实际上也是一种纵向关系。正因为把人际关系看成纵向关系、把对方看得比自己低，所以才会去干涉。希望通过干涉行为把对方导向自己希望的方向。这是坚信自己正确而对方错误。当然，这里的干涉就是操纵。命令孩子”好好学习“的父母就是一个典型例子。也许本人是出于善意，但结果却是妄加干涉，因为这是想按照自己的意思去操纵对方。"
       },
       {
         "speaker": "YOUTH",
@@ -5400,7 +5499,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Think back to our discussion of the separation of tasks, to the subject of a child’s schoolwork. As I stated then, this is a task that the child has to resolve himself, not something that parents or teachers can do for him. So intervention is this kind of intruding on other people’s tasks and directing them by saying things like “You have to study” or “Get into that university.” Whereas assistance, on the other hand, presupposes the separation of tasks, and also horizontal relationships. Having understood that studying is the child’s task, one considers what one can do for him. Concretely speaking, instead of commanding from above that the child must study, one acts on him in such a way that he can gain the confidence to take care of his own studies and face his tasks on his own.",
-        "chinese": "请你想一下关于课题分离的讨论。孩子学习的事情，这是应该由孩子自己解决的课题，父母或老师无法代替。而干涉就是对别人的课题妄加干预，做出”要好好学习“或者”得上那个大学“之类的指示。"
+        "chinese": "请你想一下关于课题分离的讨论。孩子学习的事情，这是应该由孩子自己解决的课题，父母或老师无法代替。而干涉就是对别人的课题妄加干预，做出”要好好学习“或者”得上那个大学“之类的指示。另一方面，援助的大前提是课题分离和横向关系。在理解了学习是孩子的课题这个基础上再去考虑能做的事情，具体就是不去居高临下地命令其学习，而是努力地帮助他本人建立”自己能够学习“的自信以及提高其独立应对课题的能力。"
       },
       {
         "speaker": "YOUTH",
@@ -5495,12 +5594,13 @@
     ]
   },
   {
-    "id": 40,
+    "id": 44,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "How to Feel You Have Value",
     "title_cn": "有价值就有勇气",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5615,17 +5715,18 @@
       {
         "speaker": "YOUTH",
         "english": "Yes, please.",
-        "chinese": "好的，谢谢。"
+        "chinese": "好的，谢谢。有关共同体感觉的讨论进一步加深了混乱程度。不能够表扬，也不可以批评。评价别人的话全都出于”纵向关系“，而我们必须建立起”横向关系“。还有，我们只有能够感觉自己对别人有用的时候才能体会到自己的价值……青年感觉这种论调中隐藏着一个大大的漏洞。喝着咖啡，他想起了自己祖父的事情。"
       }
     ]
   },
   {
-    "id": 41,
+    "id": 45,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "Exist in the Present",
     "title_cn": "只要存在着，就有价值",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -5645,7 +5746,7 @@
       {
         "speaker": "YOUTH",
         "english": "It’s the idea that being of use to someone is what gives one a true awareness of one’s worth. If you put it the other way around, a person who isn’t of any use to others has no worth at all. That’s what you are saying, isn’t it? If one takes that to its logical conclusion, then the lives of newborn babies and of invalids and old people who are bedridden aren’t worth living either. How could this be? Let’s talk about my grandfather. He spends his days bedridden at an old people’s home. Since he has dementia, he doesn’t recognize any of his children or grandchildren, and his condition is such that he would not be able to go on living without constant care. One simply couldn’t think of him as being of use to someone. Don’t you see? Your opinion is basically the same thing as saying to my grandfather, “People like you aren’t qualified to live!”",
-        "chinese": "只有对别人有用才能体会到自己的价值，反过来说就是，对别人没用的人就没有价值。您是这样说吧？如果按照这种说法往深处想的话，刚出生不久的婴儿以及卧床不起的老人或病人他们就连活着的价值也没有了。"
+        "chinese": "只有对别人有用才能体会到自己的价值，反过来说就是，对别人没用的人就没有价值。您是这样说吧？如果按照这种说法往深处想的话，刚出生不久的婴儿以及卧床不起的老人或病人他们就连活着的价值也没有了。为什么呢？接下来我要说一说我祖父的事情。我祖父现在在养老院里过着卧病在床的生活，因为认知障碍就连儿孙都不认识了，如果没人照顾就根本活不下去。不管怎么想都好像对别人没什么用。您明白吗先生？您的理论就等于对我祖父说”像你这样的人根本没有活着的资格“。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5700,7 +5801,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s what it means to be grateful on the level of being. Your mother might not be able to do anything in her critical condition that would be considered an act, but just by being alive, she would be supporting the psychological state of you and your family, and would therefore be of use. The same could be said for you, too. If your life were in danger, and you were hanging on by a thread, the people around you would probably feel very gladdened just by the very fact of your existing. They would simply feel thankful that you are safe in the here and now, and would not be wanting you to perform some direct act. At the very least, there is no reason they would have to think that way. So instead of thinking of oneself on the level of acts, first of all one accepts oneself on the level of being.",
-        "chinese": "存在标准上的感谢就是这么回事。病危状态的母亲尽管什么都做不了，但仅仅她活着这件事本身就可以支撑你和家人的心，发挥巨大的作用。"
+        "chinese": "存在标准上的感谢就是这么回事。病危状态的母亲尽管什么都做不了，但仅仅她活着这件事本身就可以支撑你和家人的心，发挥巨大的作用。你也是一样。如果你危在旦夕的时候，周围的人也会因为”你还存在着“这件事本身而感到无比高兴，也就是并不要求什么直接行为，仅仅是平安无事地存在着就非常难能可贵。至少没有不可以这样想的理由。对于自己，不要用”行为“标准去考虑，而要首先从”存在“标准上去接纳。"
       },
       {
         "speaker": "YOUTH",
@@ -5720,7 +5821,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "All right. When we look at other people, we are prone to construct our own ideal images of ourselves, which we then detract from and judge. Imagine, for example, a child who never talks back to his parents, excels in both schoolwork and sports, attends a good university, and joins a large company. There are parents who will compare their child to such an image of an ideal child—which is an impossible fiction—and then be filled with complaints and dissatisfaction. They treat the idealized image as one hundred points, and they gradually subtract from that. This is truly a “judgment” way of thinking. Instead, the parents could refrain from comparing their child to anyone else, see him for who he actually is, and be glad and grateful for his being there. Instead of taking away points from some idealized image, they could start from zero. And if they do that, they should be able to call out to his existence itself.",
-        "chinese": "明白了。我们在看待他人的时候，往往会先任意虚构一个”对自己来说理想的形象“，然后再像做减法一样地去评价。"
+        "chinese": "明白了。我们在看待他人的时候，往往会先任意虚构一个”对自己来说理想的形象“，然后再像做减法一样地去评价。例如，父母全都希望自己的孩子学习、运动样样满分，然后上好大学、进大公司。如果跟这种——根本不存在的——理想的孩子形象相比，就会对自己的孩子产生种种不满。从理想形象的100分中一点一点地扣分。这正是”评价“的想法。不要这样，而应不将自己的孩子跟任何人相比，就把他看作他自己，对他的存在心怀喜悦与感激，不要按照理想形象去扣分，而是从零起点出发。如果是这样的话，那就能够对”存在“本身表示感谢了。"
       },
       {
         "speaker": "YOUTH",
@@ -5730,7 +5831,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Of course. Suppose your shut-in child helped you wash the dishes after a meal. If you were to say then, “Enough of that already—just go to school,” you would be using the words of such parents who detract from an image of an ideal child. If you were to take such an approach, the child would probably end up even more discouraged. However, if you can say a straightforward thank you, the child just might feel his own worth and take a new step forward.",
-        "chinese": "当然。例如，假设闲居在家的孩子吃完饭之后帮忙洗碗。如果说”这种事就算了，快去上学吧“，那就是按照理想的孩子的形象做减法运算的父母的话。如果这样做，那就会更加挫伤孩子的勇气。"
+        "chinese": "当然。例如，假设闲居在家的孩子吃完饭之后帮忙洗碗。如果说”这种事就算了，快去上学吧“，那就是按照理想的孩子的形象做减法运算的父母的话。如果这样做，那就会更加挫伤孩子的勇气。但是，如果能够真诚地说声”谢谢“的话，孩子也许就可以体会到自己的价值，进而迈出新的一步。"
       },
       {
         "speaker": "YOUTH",
@@ -5745,12 +5846,13 @@
     ]
   },
   {
-    "id": 42,
+    "id": 46,
     "part": 4,
     "part_title_en": "THE FOURTH NIGHT: Where the Center of the World Is",
     "part_title_cn": "第四夜 要有被讨厌的勇气",
     "title_en": "People Cannot Make Proper Use of Self",
     "title_cn": "无论在哪里，都可以有平等的关系",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -5770,7 +5872,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes.",
-        "chinese": ""
+        "chinese": "对。"
       },
       {
         "speaker": "YOUTH",
@@ -5785,7 +5887,7 @@
       {
         "speaker": "YOUTH",
         "english": "I suppose it’s what you’ve been referring to as interpersonal relations. From childhood up to the present, I have always been belittled by people around me, especially my parents, as a poor excuse for a little brother. They have never really tried to recognize me for who I am. You say that worth is something one gives to oneself. But that’s just an impracticable theory. For example, at the library where I work, for the most part my job is just sorting the returned books and putting them back on the shelves. It’s routine work that anyone could do once they’ve been taught. If I stopped going to work, my boss would have no trouble finding someone to replace me. I am needed only for the unskilled labor I provide, and it doesn’t actually matter at all if it is “I” who is working there or someone else, or a machine, for that matter. No one is requiring “this me” in particular. In such circumstances, would you have confidence in yourself? Would you be able to have a true sense of worth?",
-        "chinese": "还是先生所说的人际关系吧。从孩子时代到现在，我周围的人，特别是父母，常常把我说成是没出息的弟弟，根本不认可我。先生您说价值是自己赋予自己的东西。但是，这种话只是纸上谈兵式的空论。"
+        "chinese": "还是先生所说的人际关系吧。从孩子时代到现在，我周围的人，特别是父母，常常把我说成是没出息的弟弟，根本不认可我。先生您说价值是自己赋予自己的东西。但是，这种话只是纸上谈兵式的空论。例如，我在图书馆做的工作，也就是把还回来的书分类归架之类的事情，这是只要熟悉了就谁都能做的杂务。假如没有了我，还有很多人可以做。我只不过是被要求提供简单的劳动力，劳动的无论是”我“还是”其他什么人“抑或是”机器“，这都没关系。没有一个人需要”这个我“。在这种状态下也可以对自己拥有自信吗？也能够感觉到自己是有价值的吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5835,7 +5937,7 @@
       {
         "speaker": "YOUTH",
         "english": "Hmm!",
-        "chinese": ""
+        "chinese": "是的！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5915,7 +6017,7 @@
       {
         "speaker": "YOUTH",
         "english": ". . .",
-        "chinese": ""
+        "chinese": "。。。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -5985,12 +6087,29 @@
     ]
   },
   {
-    "id": 43,
+    "id": 47,
+    "part": 5,
+    "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
+    "part_title_cn": "第五夜 认真的人生\"活在当下\"",
+    "title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
+    "title_cn": "第五夜 认真的人生\"活在当下\"",
+    "narrationOnly": true,
+    "dialogues": [
+      {
+        "speaker": "NARRATION",
+        "english": "The young man thought to himself, Adlerian psychology is engaged in a thorough inquiry into interpersonal relationships. And the final goal of these interpersonal relationships is community feeling. But is this really enough? Isn’t there something else that Iwas brought into this world to achieve? What is the meaning of life? Where am Iheaded, and what sort of life am Itrying to lead? The more the young man thought, the more it seemed to him that his own existence had been tiny and insignificant.",
+        "chinese": "青年认真地思考过了。阿德勒心理学彻底追问了人际关系，而且认为人际关系的最终目的是共同体感觉。但是，真的仅仅如此就可以吗？我难道不是为了完成更多不同的事情才来到这个世界的吗？人生的意义是什么？我想要过怎样的人生？青年越想越觉得自己渺小。"
+      }
+    ]
+  },
+  {
+    "id": 48,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Excessive Self-Consciousness Stifles the Self",
     "title_cn": "过多的自我意识，反而会束缚自己",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -6030,7 +6149,7 @@
       {
         "speaker": "YOUTH",
         "english": "So in my own way, I tried to figure out why I couldn’t understand what you were talking about, and I’m thinking that the order of things might be the problem. You’re starting off with the universe and inanimate objects, and the past and the future and so on, so I lose track of things. Instead, one should get a firm grasp of the “I.” Next, one should contemplate one-on-one relationships. That is to say, the interpersonal relationships of “you and I.” And once one has done that, the larger community should come into view.",
-        "chinese": "所以，我自己也认真思考了一下为什么会不明白这个问题，结果我认为也许是顺序问题。如果突然考虑宇宙、非生物、过去或未来之类的事情，根本就摸不着头脑。"
+        "chinese": "所以，我自己也认真思考了一下为什么会不明白这个问题，结果我认为也许是顺序问题。如果突然考虑宇宙、非生物、过去或未来之类的事情，根本就摸不着头脑。不应该这样，而应首先好好理解”我“，接下来考虑一对一的关系，也就是”我和你“的人际关系，然后再慢慢扩展到大的共同体。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6060,7 +6179,7 @@
       {
         "speaker": "YOUTH",
         "english": "Well, at meetings, for example, I have a hard time raising my hand and making myself heard. I think needless things, like If I ask this question, they’ll probably laugh at me, or If the point I want to make is irrelevant, I’ll get ridiculed , and so on, and I just clam up. Truthfully, I falter even when it comes to telling silly jokes in front of people. Every time, my self-consciousness kicks in and puts the brakes on, and it’s as if I’ve been straitjacketed. My self-consciousness won’t allow me to behave in an innocent way. But I don’t even have to ask for your answer. I’m sure it’ll be the same as always: Have courage. But you know, such words are of no use to me. Because this isn’t just a matter of courage.",
-        "chinese": "例如在开会的时候根本不敢举手发言，总是会因为担心”如果提这样的问题也许会被人笑话“或者”如果发表离题的意见也许会被人瞧不起“之类的问题而犹豫不决。哎呀，还不止如此，我甚至都不敢在人前开个小小的玩笑。自我意识总是牵绊着自己、严重束缚着自己的言行。我的自我意识根本不允许自己无拘无束地行动。"
+        "chinese": "例如在开会的时候根本不敢举手发言，总是会因为担心”如果提这样的问题也许会被人笑话“或者”如果发表离题的意见也许会被人瞧不起“之类的问题而犹豫不决。哎呀，还不止如此，我甚至都不敢在人前开个小小的玩笑。自我意识总是牵绊着自己、严重束缚着自己的言行。我的自我意识根本不允许自己无拘无束地行动。先生的答案根本不需要问，肯定又是一贯的那句”要拿出勇气“。但是，那种话对我没有任何作用，因为我这是勇气之前的问题。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6095,12 +6214,13 @@
     ]
   },
   {
-    "id": 44,
+    "id": 49,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Not Self-Affirmation—Self-Acceptance",
     "title_cn": "不是肯定自我，而是接纳自我",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -6150,7 +6270,7 @@
       {
         "speaker": "YOUTH",
         "english": "Yes, of course.",
-        "chinese": ""
+        "chinese": "是的，当然。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6175,7 +6295,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right. There is a clear difference. Self-affirmation is making suggestions to oneself, such as “I can do it” or “I am strong,” even when something is simply beyond one’s ability. It is a notion that can bring about a superiority complex, and may even be termed a way of living in which one lies to oneself. With self-acceptance, on the other hand, if one cannot do something, one is simply accepting “one’s incapable self” as is and moving forward so that one can do whatever one can. It is not a way of lying to oneself. To put it more simply, say you’ve got a score of 60 percent, but you tell yourself, I just happened to get unlucky this time around, and the real me is 100 percent. That is self-affirmation. By contrast, if one accepts oneself as one is, as 60 percent, and thinks to oneself, How should I go about getting closer to 100 percent? —that is self-acceptance.",
-        "chinese": "是的，这两者有明显差异。自我肯定是明明做不到但还是暗示自己说”我能行“或者”我很强“，也可以说是一种容易导致优越情结的想法，是对自己撒谎的生活方式。"
+        "chinese": "是的，这两者有明显差异。自我肯定是明明做不到但还是暗示自己说”我能行“或者”我很强“，也可以说是一种容易导致优越情结的想法，是对自己撒谎的生活方式。而另一方面，自我接纳是指假如做不到就诚实地接受这个”做不到的自己“，然后尽量朝着能够做到的方向去努力，不对自己撒谎。说得更明白一些就是，对得了60分的自己说”这次只是运气不好，真正的自己能得100分“，这就是自我肯定；与此相对，在诚实地接受60分的自己的基础上努力思考”如何才能接近100分“，这就是自我接纳。"
       },
       {
         "speaker": "YOUTH",
@@ -6185,7 +6305,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Of course not. No one is perfect. Do you recall what I said when I was explaining the pursuit of superiority? That all people are in this condition of wanting to improve? Put the other way around, there is no such thing as a 100 percent person. This is something we should actively acknowledge.",
-        "chinese": "当然，毫无缺点的人根本没有，这在说明优越性追求的时候已经说过了吧？人都处于”想要进步的状态“。"
+        "chinese": "当然，毫无缺点的人根本没有，这在说明优越性追求的时候已经说过了吧？人都处于”想要进步的状态“。反过来说也就是，根本没有满分的人。这一点必须积极地承认。"
       },
       {
         "speaker": "YOUTH",
@@ -6205,7 +6325,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "This is also the case with the separation of tasks—one ascertains the things one can change and the things one cannot change. One cannot change what one is born with. But one can, under one’s own power, go about changing what use one makes of that equipment. So in that case, one simply has to focus on what one can change, rather than on what one cannot. This is what I call self-acceptance.",
-        "chinese": "课题分离也是如此，要分清”能够改变的“和”不能改变的“。"
+        "chinese": "课题分离也是如此，要分清”能够改变的“和”不能改变的“。我们无法改变”被给予了什么“。但是，关于”如何去利用被给予的东西“，我们却可以用自己的力量去改变。这就是不去关注”无法改变的“，而是去关注”可以改变的‘这就是我所说的自我接纳。"
       },
       {
         "speaker": "YOUTH",
@@ -6240,12 +6360,13 @@
     ]
   },
   {
-    "id": 45,
+    "id": 50,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "The Difference Between Trust and Confidence",
     "title_cn": "信用和信赖有何区别？",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6295,7 +6416,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "It is doing without any set conditions whatsoever when believing in others. Even if one does not have sufficient objective grounds for trusting someone, one believes. One believes unconditionally without concerning oneself with such things as security. That is confidence.",
-        "chinese": "在相信他人的时候不附加任何条件。即使没有足以构成信用"
+        "chinese": "在相信他人的时候不附加任何条件。即使没有足以构成信用的客观依据也依然相信，不考虑抵押之类的事情，无条件地相信。这就是信赖。"
       },
       {
         "speaker": "YOUTH",
@@ -6345,12 +6466,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "It is doubt. Suppose you have placed “doubt” at the foundation of your interpersonal relations. That you live your life doubting other people—doubting your friends and even your family and those you love. What sort of relationship could possibly arise from that? The other person will detect the doubt in your eyes in an instant. He or she will have an instinctive understanding that “this person does not have confidence in me.” Do you think one would be able to build some kind of positive relationship from that point? It is precisely because we lay a foundation of unconditional confidence that it is possible for us to build a deep relationship.",
-        "chinese": "是怀疑。假设你把人际关系的基础建立在“怀疑”之上。怀疑他人、怀疑朋友、甚至怀疑家人或恋人，生活中处处充满怀疑。"
+        "chinese": "是怀疑。假设你把人际关系的基础建立在“怀疑”之上。怀疑他人、怀疑朋友、甚至怀疑家人或恋人，生活中处处充满怀疑。那么，这样究竟会产生什么样的关系呢？对方也能够瞬时感觉到你怀疑的目光，会凭直觉认为“这个人不信赖我”。你认为这样还能建立起什么积极的关系吗？只有我们选择了无条件的信赖，才可以构筑更加深厚的关系。"
       },
       {
         "speaker": "YOUTH",
         "english": "Okay, I guess.",
-        "chinese": ""
+        "chinese": "好吧，我想是这样。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6375,7 +6496,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "I reject that definitively. Adlerian psychology is not saying “have confidence in others unconditionally” on the basis of a moralistic system of values. Unconditional confidence is a means for making your interpersonal relationship with a person better and for building a horizontal relationship. If you do not have the desire to make your relationship with that person better, then go ahead and sever it. Because carrying out the severing is your task.",
-        "chinese": "这一点我要明确否定。阿德勒心理学并没有基于道德价值观去主张“要无条件地信赖他人”。无条件的信赖是搞好人际关系和构建横向关系的一种“手段”。"
+        "chinese": "这一点我要明确否定。阿德勒心理学并没有基于道德价值观去主张“要无条件地信赖他人”。无条件的信赖是搞好人际关系和构建横向关系的一种“手段”。如果你并不想与那个人搞好关系的话，也可以用手中的剪刀彻底剪断关系，因为剪断关系是你自己的课题。"
       },
       {
         "speaker": "YOUTH",
@@ -6410,7 +6531,7 @@
       {
         "speaker": "YOUTH",
         "english": "Hmm.",
-        "chinese": ""
+        "chinese": "嗯。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6445,17 +6566,18 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "When one is sad, one should be sad to one’s heart’s content. It is precisely when one tries to escape the pain and sadness that one gets stuck and ceases to be able to build deep relationships with anyone. Think about it this way. We can believe. And we can doubt. But we are aspiring to see others as our comrades. To believe or to doubt—the choice should be clear.",
-        "chinese": "悲伤的时候尽管悲伤就可以。因为，正是想要逃避痛苦或悲伤才不敢付渚行动，以至于与任何人都无法建立起深厚的关系。"
+        "chinese": "悲伤的时候尽管悲伤就可以。因为，正是想要逃避痛苦或悲伤才不敢付渚行动，以至于与任何人都无法建立起深厚的关系。请你这样想。我们可以相信也可以怀疑；并且，我们的目标是把别人当作朋友。如此一来，是该选择信任还是怀疑，答案就非常明显了。"
       }
     ]
   },
   {
-    "id": 46,
+    "id": 51,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "The Essence of Work Is a Contribution to the Common Good",
     "title_cn": "工作的本质是对他人的贡献",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6465,7 +6587,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "First, one accepts one’s irreplaceable “this me” just as it is. That is self-acceptance. Then, one places unconditional confidence in other people. That is confidence in others. You can accept yourself, and you can have confidence in others. So what are other people to you now?",
-        "chinese": "首先，真诚地接受不能交换的“这个我”，这就是自我接纳。同时，对他人寄予无条件的信赖即他者信赖。"
+        "chinese": "首先，真诚地接受不能交换的“这个我”，这就是自我接纳。同时，对他人寄予无条件的信赖即他者信赖。既能接纳自己又能信赖他人，这种情况下，对你来说的他人会是怎样的存在呢？"
       },
       {
         "speaker": "YOUTH",
@@ -6475,7 +6597,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Exactly. In effect, placing confidence in others is connected to seeing others as comrades. It is because they are one’s comrades that one can have confidence in them. If they were not one’s comrades, one would not be able to reach the level of confidence. And then, having other people as one’s comrades connects to finding refuge in the community one belongs to. So one can gain the sense of belonging, that “it’s okay to be here.”",
-        "chinese": "正是如此。对他人寄予信赖也就是把他人看成伙伴。正因为是伙伴，所以才能够信赖。如果不是伙伴，也就做不到信赖。"
+        "chinese": "正是如此。对他人寄予信赖也就是把他人看成伙伴。正因为是伙伴，所以才能够信赖。如果不是伙伴，也就做不到信赖。并且，如果把他人看作伙伴，那你也就能够在所属的共同体中找到自己的位置，继而也就能够获得“可以在这里”的归属感。"
       },
       {
         "speaker": "YOUTH",
@@ -6490,7 +6612,7 @@
       {
         "speaker": "YOUTH",
         "english": "All right. It is true that people seek the sense of belonging, that “it’s okay to be here.” And to get that they need self-acceptance and confidence in others. I have no objection to that. But I don’t know. Can one really gain a sense of belonging just by seeing others as comrades and having confidence in them?",
-        "chinese": "好吧。人的确都在寻找一种“可以在这里”的归属感，因此就需要自我接纳和他者信赖。这一点我没有异议。"
+        "chinese": "好吧。人的确都在寻找一种“可以在这里”的归属感，因此就需要自我接纳和他者信赖。这一点我没有异议。但是，仅凭把他人看作伙伴并给予信赖就可以获得归属感吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6515,7 +6637,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Contribution to others does not connote self-sacrifice. Adler goes so far as to warn that those who sacrifice their own lives for others are people who have conformed to society too much. And please do not forget: We are truly aware of our own worth only when we feel that our existence and behavior are beneficial to the community, that is to say, when one feels “I am of use to someone.” Do you remember this? In other words, contribution to others, rather than being about getting rid of the “I” and being of service to someone, is actually something one does in order to be truly aware of the worth of the “I.”",
-        "chinese": "他者贡献的意思并不是自我牺牲。相反，阿德勒把为他人牺牲自己人生的人称作“过度适应社会的人”，并对此给予警示。"
+        "chinese": "他者贡献的意思并不是自我牺牲。相反，阿德勒把为他人牺牲自己人生的人称作“过度适应社会的人”，并对此给予警示。并且，请你想一想。我们只有在感觉到自己的存在或行为对共同体有益的时候，也就是体会到“我对他人有用”的时候，才能切实感受到自己的价值。是这样吧？也就是说，他者贡献并不是舍弃“我”而为他人效劳，它反而是为了能够体会到“我”的价值而采取的一种手段。"
       },
       {
         "speaker": "YOUTH",
@@ -6565,17 +6687,23 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "But what?",
-        "chinese": ""
+        "chinese": "但是什么？"
+      },
+      {
+        "speaker": "NARRATION",
+        "english": "accepting one’s irreplaceable 'this me' just as it is. Confidence in others: to place unconditional confidence at the base of one’s interpersonal relations rather than seeding doubt. The young man found these two concepts sufficiently convincing. Contribution to others, however, was something he could not quite grasp. If that contribution is supposed to be 'for other people,' then it would have to be one of bitter self-sacrifice. On the other hand, if that contribution is actually 'for oneself,' then it’s the height of hypocrisy. This point has to be made utterly clear. In a resolute tone of voice, the young man continued.",
+        "chinese": "真诚接受不可交换的“这个我”的自我接纳；主张应该毫不怀疑人际关系基础，从而做到无条件的他者信赖。对于青年来说，这两条都还可以接受。但是，他对于他者贡献却不大明白。如果这种贡献是“为了他人”，那就势必会是充满痛苦的自我牺牲。另一方面，如果这种贡献是“为了自己”，那就是一种彻底的伪善。这一点必须得弄清楚。青年以坚定的口吻开始辩论。"
       }
     ]
   },
   {
-    "id": 47,
+    "id": 52,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Young People Walk Ahead of Adults",
     "title_cn": "年轻人也有胜过长者之处",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6585,7 +6713,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Imagine the following kind of scene. It’s after dinner at home, and there are still dishes left on the table. The children have gone off to their rooms, and the husband is sitting on the sofa watching television. It’s been left to the wife (me) to do the dishes and clear everything up. To make matters worse, the family takes that for granted, and they don’t make the slightest effort to help. In such a situation, normally one would think, Why won’t they give me a hand? or Why do I have to do all the work? Even if I do not hear the words “thank you” from my family while I am cleaning up, I want them to think that I am of use to the family. Instead of thinking about what others can do for me, I want to think about, and put into practice, what I can do for other people. Just by having that feeling of contribution, the reality right in front of me will take on a completely different hue. In fact, if I am grumbling to myself as I wash the dishes, I am probably not much fun to be around, so everyone just wants to keep their distance. On the other hand, if I’m humming away to myself and washing the dishes in good spirits, the children might come and give me a hand. At the very least, I’d be creating an atmosphere in which it is easier for them to offer their help.",
-        "chinese": "请你想象一下这种情况。在某个家庭里，晚饭结束之后，餐桌上满是餐具。孩子们回了自己的房间里，丈夫坐在沙发上看电视。只有妻子（我）在收拾。而且，家人都认为这是理所当然的，没有一个人打算帮忙。如果按照常理考虑，这种情况下，妻子（我）就会产生“为什么不来帮我？”或者“为什么只有我干？”之类的怨言。"
+        "chinese": "请你想象一下这种情况。在某个家庭里，晚饭结束之后，餐桌上满是餐具。孩子们回了自己的房间里，丈夫坐在沙发上看电视。只有妻子（我）在收拾。而且，家人都认为这是理所当然的，没有一个人打算帮忙。如果按照常理考虑，这种情况下，妻子（我）就会产生“为什么不来帮我？”或者“为什么只有我干？”之类的怨言。但是，这吋候即使听不到家人的“谢谢”，也应该一边收拾餐具一边想“我对家人有用”。我们应该思考的不是他人为我做了什么，而是我能为他人做什么，并积极地加以实践。只要拥有了这种奉献精神，眼前的现实就会带有截然不同的色彩。事实上，此时如果非常焦躁地洗餐具，不仅自己不会觉得有趣，就连家人也不愿靠近。另一方面，如果是一边愉快地哼着歌一边洗餐具，孩子们也许会过来帮忙，或至少营造出一种容易帮忙的氛围。"
       },
       {
         "speaker": "YOUTH",
@@ -6595,27 +6723,27 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Now, how come I have a feeling of contribution in that setting? I have it because I am able to think of the members of my family as comrades. If I cannot do that, inevitably there will be thoughts running through my head like, Why am I the only one doing this? and Why won’t anyone give me a hand? Contribution that is carried out while one is seeing other people as enemies may indeed lead to hypocrisy. But if other people are one’s comrades, that should never happen, regardless of the contributions one makes. You have been fixating on the word “hypocrisy” because you do not understand community feeling yet.",
-        "chinese": "那么，这里为什么会有奉献精神呢？这是因为能够把家人视为“伙伴”。若非如此，肯定会产生“为什么只有我干？”或者“为什么大家都不帮我？”之类的想法。"
+        "chinese": "那么，这里为什么会有奉献精神呢？这是因为能够把家人视为“伙伴”。若非如此，肯定会产生“为什么只有我干？”或者“为什么大家都不帮我？”之类的想法。在视他人为“敌人”的状态下所作出的贡献也许是伪善的。但是，如果他人是“伙伴”，所有的贡献也就不会是伪善了。你之所以一直纠结于伪善这个词，那是因为还没能理解共同体感觉。"
       },
       {
         "speaker": "YOUTH",
         "english": "Okay . . .",
-        "chinese": ""
+        "chinese": "OK..."
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "For the sake of convenience, up to this point I have discussed self-acceptance, confidence in others, and contribution to others, in that order. However, these three are linked as an indispensable whole, in a sort of circular structure. It is because one accepts oneself just as one is—one self-accepts—that one can have “confidence in others” without the fear of being taken advantage of. And it is because one can place unconditional confidence in others, and feel that people are one’s comrades, that one can engage in “contribution to others.” Further, it is because one contributes to others that one can have the deep awareness that “I am of use to someone” and accept oneself just as one is. One can self-accept. The notes you took down the other day, do you have them with you?",
-        "chinese": "为了方便起见，前面我一直按照自我接纳、他者信赖、他者贡献这种顺序来进行说明。但是，这三者是缺一不可的整体。"
+        "chinese": "为了方便起见，前面我一直按照自我接纳、他者信赖、他者贡献这种顺序来进行说明。但是，这三者是缺一不可的整体。正因为接受了真实的自我——也就是“自我接纳”——才能够不惧背叛地做到“他者信赖”；而且，正因为对他人给予无条件的信赖并能够视他人为自己的伙伴，才能够做到“他者贡献”；同时，正因为对他人有所贡献，才能够体会到“我对他人有用”进而接受真实的自己，做到“自我接纳”。你前些天做的笔记还带着吗？"
       },
       {
         "speaker": "YOUTH",
         "english": "Oh, you mean that note on the objectives put forward by Adlerian psychology? I’ve kept it on me ever since that day, of course. Here it is: “The two objectives for behavior: to be self-reliant and to live in harmony with society. The two objectives for the psychology that supports these behaviors: the consciousness that I have the ability and the consciousness that people are my comrades. ”",
-        "chinese": "啊，是那个关于阿德勒心理学所提出的目标的笔记吧。自那天之后我就一直随身携带。在这里。"
+        "chinese": "啊，是那个关于阿德勒心理学所提出的目标的笔记吧。自那天之后我就一直随身携带。在这里。行为方面的目标：①自立。②与社会和谐共处。支撑这种行为的心理方面的目标：①“我有能力”的意识。②“人人都是我的伙伴”的意识。"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "If you overlap the content of this note with what we have just been discussing, you should be able to gain a deeper understanding. In other words, “to be self-reliant” and “the consciousness that I have the ability ” correspond to our discussion of self-acceptance. And then “to live in harmony with society” and “the consciousness that people are my comrades ” connect to confidence in others and then to contribution to others.",
-        "chinese": "如果把这个笔记与刚才的话结合起来看，应该能够理解得更加深刻。"
+        "chinese": "如果把这个笔记与刚才的话结合起来看，应该能够理解得更加深刻。也就是说，①所说的“自立”与“我有能力的意识”是关于自我接纳的话题。另一方面，②所说的“与社会和谐共处”和“人人都是我的伙伴的意识”则与他者信赖和他者贡献有关。"
       },
       {
         "speaker": "YOUTH",
@@ -6635,7 +6763,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "It is even said that to truly understand Adlerian psychology and apply it to actually changing one’s way of living, one needs “half the number of years one has lived.” In other words, if you were to start studying it at the age of forty, it would take another twenty years, until you turned sixty. If you were to start studying at the age of twenty, it would take ten years, until you turned thirty. You are still young. Starting at such an early stage in life means that you might be able to change more quickly. In the sense that you can change quickly, you are walking ahead of the adults of the world. To go about changing yourself and making a new world, in a way you are ahead of me, too. It is okay to lose your way or lose focus. Do not be dependent on vertical relationships or be afraid of being disliked, and just make your way forward freely. If all the adults could see that young people were walking ahead of them, I am sure the world would change dramatically.",
-        "chinese": "甚至也有人说要想真正理解阿德勒心理学直至改变生活方式，需要“相当于自身岁数一半的时间”。也就是说，如果40岁开始学的话，需要20年也就是到60岁才能学会。20岁开始学的话，加上10年，得到30岁才能学会。"
+        "chinese": "甚至也有人说要想真正理解阿德勒心理学直至改变生活方式，需要“相当于自身岁数一半的时间”。也就是说，如果40岁开始学的话，需要20年也就是到60岁才能学会。20岁开始学的话，加上10年，得到30岁才能学会。你还年轻，学得越早就越有可能早日改变。在能够早日改变这个意义上，你比世上的长者们都要超前一步。为了改变自己创造一个新的世界，在某种意义上你比我更超前。可以迷路也可以走偏，只要不再从属于纵向关系，不畏惧惹人讨厌地自由前行就可以。如果所有人都能够认为“年轻人更超前”的话，世界就会发生重大改变。"
       },
       {
         "speaker": "YOUTH",
@@ -6660,12 +6788,13 @@
     ]
   },
   {
-    "id": 48,
+    "id": 53,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Workaholism Is a Life-Lie",
     "title_cn": "\"工作狂\"是人生谎言",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6675,7 +6804,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "To be sure, not everyone in the world is a good and virtuous person. One goes through any number of unpleasant experiences in one’s interpersonal relations. But there is something one must not get wrong at this juncture: the fact that, in every instance, it is “that person” who attacks you who has the problem, and it is certainly not the case that everyone is bad. People with neurotic lifestyles tend to sprinkle their speech with such words as “everyone” and “always” and “everything.” “Everyone hates me,” they will say, or “It’s always me who takes a loss,” or “Everything is wrong.” If you think you might be in the habit of using such generalizing statements, you should be careful.",
-        "chinese": "的确，世上并非全是好人，人际关系中也会遭遇到诸多不愉快的事情。但是，在这里绝对不可以搞错这样一个事实：任何情况下都只是攻击我的“那个人”有问题，而绝不是“大家”的错。"
+        "chinese": "的确，世上并非全是好人，人际关系中也会遭遇到诸多不愉快的事情。但是，在这里绝对不可以搞错这样一个事实：任何情况下都只是攻击我的“那个人”有问题，而绝不是“大家”的错。具有神经质生活方式的人常常使用“大家”“总是”或者“一切”之类的词语。“大家都讨厌自己”“总是只有自己受损失”或者“一切都不对”等。如果你常常说这种一般化的词语，那就需要注意了。"
       },
       {
         "speaker": "YOUTH",
@@ -6695,12 +6824,12 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "In the teachings of Judaism, one finds the following anecdote: “If there are ten people, one will be someone who criticizes you no matter what you do. This person will come to dislike you, and you will not learn to like him either. Then, there will be two others who accept everything about you and whom you accept too, and you will become close friends with them. The remaining seven people will be neither of these types.” Now, do you focus on the one person who dislikes you? Do you pay more attention to the two who love you? Or would you focus on the crowd, the other seven? A person who is lacking in harmony of life will see only the one person he dislikes and will make a judgment of the world from that.",
-        "chinese": "犹太教教义中有这么一段话：“假如有10个人，其中势必会有1个人无论遇到什么事都会批判你。他讨厌你，你也不喜欢他。而且，10个人中也会有2个人能够成为与你互相接纳一切的好朋友。剩下的7个人则两者都不是。”"
+        "chinese": "犹太教教义中有这么一段话：“假如有10个人，其中势必会有1个人无论遇到什么事都会批判你。他讨厌你，你也不喜欢他。而且，10个人中也会有2个人能够成为与你互相接纳一切的好朋友。剩下的7个人则两者都不是。”这种时候，是关注讨厌你的那个人呢？还是聚焦于非常喜欢你的那2个人？抑或是关注其他作为大多数的7个人？缺乏人生和谐的人就会只关注讨厌自己的那个人来判断“世界”。"
       },
       {
         "speaker": "YOUTH",
         "english": "Intriguing.",
-        "chinese": ""
+        "chinese": "真有意思。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6735,7 +6864,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "I have a reading group that meets on a regular basis, and one of the participants has a stammer. It comes out sometimes when it’s his turn to read. But not a single person there is the sort who would laugh at him for that. Everyone just sits quietly and waits in a quite natural way for the next words to come out. I am sure this is not a phenomenon that is isolated to my reading group. When one’s interpersonal relations do not go well, it cannot be blamed on a stammer or a fear of blushing or anything of the sort. Even though the problem is really that one has not attained self-acceptance or confidence in others, or contribution to others, for that matter, one is focusing on only one tiny part of things that simply should not matter and from that trying to form judgments with regard to the entire world. This is a misguided lifestyle that is lacking in harmony of life.",
-        "chinese": "我定期举办读书会，参加者中也有口吃者。他在朗读的时候，语言有时会顿住。但没有一个人因此嘲笑他，大家都安静地、自然地等着。这应该并不是只有在我的读书会上才能看到的光景。"
+        "chinese": "我定期举办读书会，参加者中也有口吃者。他在朗读的时候，语言有时会顿住。但没有一个人因此嘲笑他，大家都安静地、自然地等着。这应该并不是只有在我的读书会上才能看到的光景。人际关系不顺利既不是因为口吃也不是因为脸红恐惧症，真正的问题在于无法做到自我接纳、他者信赖和他者贡献，却将焦点聚集到微不足道的一个方面并企图以此来评价整个世界。这就是缺乏人生和谐的错误生活方式。"
       },
       {
         "speaker": "YOUTH",
@@ -6765,7 +6894,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "People who suffer from stammering are looking at only a part of things but judging the whole. With workaholics, the focus is solely on one specific aspect of life.",
-        "chinese": "口吃者是只看事物的一部分便来判断其整体。与此相对，工作狂则是只关注人生特定的侧面。"
+        "chinese": "口吃者是只看事物的一部分便来判断其整体。与此相对，工作狂则是只关注人生特定的侧面。也许他们会辩解说：“因为工作忙，所以无暇顾及家庭。”但是，这其实是人生的谎言。只不过是以工作为借口来逃避其他责任。本来家务、育儿、交友或兴趣应该全都给予关心，阿德勒不认可任何一方面突出的生活方式。"
       },
       {
         "speaker": "YOUTH",
@@ -6785,7 +6914,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Such a father has probably been able to recognize his own worth only on the level of acts. He works all those hours, brings in enough money to support a family, and is recognized by society—and, on that basis, he views himself as having greater worth than the other members of his family. For each and every one of us, however, there comes a time when one can no longer serve as the provider. When one gets older and reaches retirement age, for example, one may have no choice but to live off one’s pension or support from one’s children. Even when one is young, injury or poor health can lead to being unable work any longer. On such occasions, those who can accept themselves only on the level of acts are severely damaged.",
-        "chinese": "也许这样的父亲只能靠“行为标准”来认可自己的价值。认"
+        "chinese": "也许这样的父亲只能靠“行为标准”来认可自己的价值。认为自己工作了这些时间、挣了足以养活家人的钱、也得到了社会的认可，所以自己就是家里最有价值的人。但是，任何人都有自己不再是生产者的时候。例如，上了年纪退休之后不得不靠退休金或孩子们的赡养生活；或者虽然年轻但因为受伤或生病而无法劳动。这种时候，只能用“行为标准”来接受自己的人总会受到非常严重的打击。"
       },
       {
         "speaker": "YOUTH",
@@ -6810,12 +6939,13 @@
     ]
   },
   {
-    "id": 49,
+    "id": 54,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "You Can Be Happy Now",
     "title_cn": "从这一刻起，就能变得幸福",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -6830,7 +6960,7 @@
       {
         "speaker": "YOUTH",
         "english": "You say that all problems are interpersonal relationship problems. And then you turn that around and say that our happiness is to be found in our interpersonal relations, too. But I still find these aspects hard to accept. Is what human beings call happiness merely something within our good interpersonal relations? That is to say, do our lives exist for such minuscule repose and joy?",
-        "chinese": "先生您说“一切烦恼皆是人际关系的烦恼”。反过来说就是，我们的幸福也在人际关系之中。但是，我还无法理解这一点。"
+        "chinese": "先生您说“一切烦恼皆是人际关系的烦恼”。反过来说就是，我们的幸福也在人际关系之中。但是，我还无法理解这一点。对人而言的幸福不过就是“良好的人际关系”吗？也就是说，我们的生命就为了这么渺小的港湾或喜悦而存在吗？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -6845,7 +6975,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "What is happiness to human beings? This is a subject that has been one of the consistent threads of philosophy since ancient times. I had always regarded psychology as nothing more than a field of philosophy, and as such had very little interest in psychology as a whole. So it was as a student of philosophy that I had concerned myself, in my own way, with the question: What is happiness? I would be remiss if I did not admit to having felt some reluctance on hearing Christensen’s words. However, at the same time that I experienced that reluctance, I realized something. I had given much deep thought to the true character of happiness. I had searched for answers. But I had not always given deep thought to the question: How can one be happy? It occurred to me then that even though I was a student of philosophy, maybe I wasn’t happy.",
-        "chinese": "对人而言的幸福是什么？这是哲学一直探讨的主题之一。在那之前，我以心理学只不过是哲学的一个领域为理由，几乎从未关心过心理学整体。并且，作为哲学的门徒，关于“幸福是什么”这个问题，我有着自己的见解。因此，不得不承认，听到克里斯汀的话时我产生了—些排斥感。"
+        "chinese": "对人而言的幸福是什么？这是哲学一直探讨的主题之一。在那之前，我以心理学只不过是哲学的一个领域为理由，几乎从未关心过心理学整体。并且，作为哲学的门徒，关于“幸福是什么”这个问题，我有着自己的见解。因此，不得不承认，听到克里斯汀的话时我产生了—些排斥感。但是，排斥的同时也有所思考。的确，我也曾深入考虑过幸福的本质，而且一直在寻找答案。但是，关于“自己如何能够获得幸福”这个问题，却未必认真思考过。我虽是哲学的门徒，但也许并不幸福。"
       },
       {
         "speaker": "YOUTH",
@@ -6855,7 +6985,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right.",
-        "chinese": ""
+        "chinese": "是的。"
       },
       {
         "speaker": "YOUTH",
@@ -6865,7 +6995,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Of course.",
-        "chinese": ""
+        "chinese": "当然。"
       },
       {
         "speaker": "YOUTH",
@@ -6875,7 +7005,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "For a human being, the greatest unhappiness is not being able to like oneself. Adler came up with an extremely simple answer to address this reality. Namely, that the feeling of “I am beneficial to the community” or “I am of use to someone” is the only thing that can give one a true awareness that one has worth.",
-        "chinese": "对人而言，最大的不幸就是不喜欢自己。对于这种现实，阿"
+        "chinese": "对人而言，最大的不幸就是不喜欢自己。对于这种现实，阿德勒准备了极其简单的回答——“我对共同体有益”或者“我对他人有用”这种想法就足以让人体会到自己的价值。"
       },
       {
         "speaker": "YOUTH",
@@ -6935,7 +7065,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That is correct.",
-        "chinese": ""
+        "chinese": "是的。"
       },
       {
         "speaker": "YOUTH",
@@ -7005,22 +7135,23 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes, it will disappear. There is no need for recognition from others.",
-        "chinese": "会消失。不再需要他人的认可。"
+        "chinese": "会消失。不再需要他人的认可。总结一下哲人的主张，就是这样：人只有在能够感觉到“我对别人有用”的时候才能体会到自己的价值。但是，这种贡献也可以通过看不见的形式实现。只要有“对别人有用”的主观感觉，即“贡献感”就可以。并且，哲人还得出了这样的结论：幸福就是“贡献感”。的确，这也是真理的一面。但是，幸福就仅止于此吗？我所期待的幸福并不是这样的！"
       }
     ]
   },
   {
-    "id": 50,
+    "id": 55,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Two Paths Traveled by Those Wanting to Be \"Special Beings\"",
     "title_cn": "追求理想者面前的两条路",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
         "english": "You still have not answered my question. Maybe I could actually learn to like myself through contribution to others. Maybe I could come to feel that I have worth, that I am not a worthless being. But is that all a person needs to be happy? Having come into this world, I think that unless I am able to accomplish the sort of grand undertaking that future generations will remember me for, unless I can prove myself as “I, who am no one else but me,” I will never find true happiness. You are trying to frame everything within interpersonal relations without saying a thing about self-realizing happiness. If you ask me, that’s nothing but evasion!",
-        "chinese": "但是，先生还没有回答我的问题。也许我的确可以通过他者贡献喜欢上自己，也可以感受到自己的价值或者体会到自己并非是无价值的存在。"
+        "chinese": "但是，先生还没有回答我的问题。也许我的确可以通过他者贡献喜欢上自己，也可以感受到自己的价值或者体会到自己并非是无价值的存在。但是，仅凭这一点人就会幸福吗？既然来到这个世上，如果不成就一番名垂后世的大事业或者不证明我是“独一无二的我”的话，那就不可能得到真正的幸福。先生把一切都归于人际关系之中，根本不想提及自我实现式的幸福！如果让我说的话，这就是一种逃避！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -7040,7 +7171,7 @@
       {
         "speaker": "YOUTH",
         "english": "I still don’t really know what I am looking for or what I’ll want to do in the future. But I know that I’ve got to do something. There’s no way I’m going to spend the rest of my days working in a university library. When I find a dream that I can devote my life to, and I attain self-realization, that’s when I’ll experience true happiness. My father was someone who buried himself in his work from day to night, and I have no idea if that was happiness to him or not. To my eyes, at least, he seemed forever busy and never happy. That is not the kind of life I want to lead.",
-        "chinese": "我还不太清楚自己在寻找什么以及将来想要干什么。但是，我知道必须得做些事情。也不可以一直在大学图书馆里工作。只有在找到值得自己毕生追逐的梦想并能够达成自我实现的时候，我才能体会到真正的幸福。"
+        "chinese": "我还不太清楚自己在寻找什么以及将来想要干什么。但是，我知道必须得做些事情。也不可以一直在大学图书馆里工作。只有在找到值得自己毕生追逐的梦想并能够达成自我实现的时候，我才能体会到真正的幸福。实际上，我的父亲就一直埋头于工作，我也不知道这对他而言是不是幸福，但至少在我的眼里，整天忙于工作的父亲并不幸福。我不想过这样的生活。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -7065,7 +7196,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "There are many children who, in their early stages, try to be especially good. In particular, they obey their parents, comport themselves in a socially acceptable manner, apply themselves assiduously to their studies and in sports, and excel in extracurricular activities as well. In this way, they try to get their parents to acknowledge them. However, when being especially good does not work out—their studies or sports don’t go well, for example—they do an about-face and try to be especially bad.",
-        "chinese": "并且，大多数孩子在最初的阶段都是“希望特别优秀”。具体说就是，听从父母的教导、行为中规中矩并竭尽全力地去学习、运动和掌握技能。他们想要通过这样做来获得父母的认可。"
+        "chinese": "并且，大多数孩子在最初的阶段都是“希望特别优秀”。具体说就是，听从父母的教导、行为中规中矩并竭尽全力地去学习、运动和掌握技能。他们想要通过这样做来获得父母的认可。但是，希望特别优秀的愿望无法实现的时候——例如学习或运动进展不顺利的时候——就会转而“希望特别差劲”。"
       },
       {
         "speaker": "YOUTH",
@@ -7085,7 +7216,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "In any case, whether it is one’s studies or one’s participation in sports, either way one needs to make a constant effort if one is to produce any kind of significant results. But the children who try to be especially bad—that is to say, the ones who engage in problem behavior—are endeavoring to attract the attention of other people even as they continue to avoid any such healthy effort. In Adlerian psychology, this is referred to as the “pursuit of easy superiority.” Take, for example, the problem child who disrupts lessons by throwing erasers or speaking in a loud voice. He is certain to get the attention of his friends and teachers. Even if it is something that is limited to that place, he will probably succeed in becoming a special being. But that is a pursuit of easy superiority, and it is an unhealthy attitude.",
-        "chinese": "本来，无论是学习还是运动，为了取得某些成果就需要付出一定的努力。但是，“希望特别差劲”的孩子，也就是陷入问题行为的孩子却可以在不付出这种健全努力的情况下也获得他人的关注。阿德勒心理学称之为“廉价的优越性追求”。"
+        "chinese": "本来，无论是学习还是运动，为了取得某些成果就需要付出一定的努力。但是，“希望特别差劲”的孩子，也就是陷入问题行为的孩子却可以在不付出这种健全努力的情况下也获得他人的关注。阿德勒心理学称之为“廉价的优越性追求”。例如，有些问题儿童在上课的时候通过扔橡皮或者是大声说话来妨碍上课，如此一来肯定会引起同学或老师的注意，此刻其就可以成为特别的存在。但这是“廉价的优越性追求”，是一种不健全的态度。"
       },
       {
         "speaker": "YOUTH",
@@ -7095,7 +7226,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes, they are. All types of problem behavior, from refusing to attend school, to wrist cutting, to underage drinking and smoking, and so on, are forms of the pursuit of easy superiority. And your shut-in friend, whom you told me about at the beginning, is engaging in it, too. When a child engages in problem behavior, his parents and other adults rebuke him. Being rebuked, more than anything else, puts stress on the child. But even if it is in the form of rebuke, the child wants his parents’ attention. He wants to be a special being, and the form that attention takes doesn’t matter. So in a sense, it is only natural that he does not stop engaging in problem behavior, no matter how harshly he is rebuked.",
-        "chinese": "是这样的。所有的问题行为，例如逃学或者割腕以及未成年人饮酒或吸烟等，一切都是“廉价的优越性追求”。你刚开始提到的那位闭门不出的朋友也是一样。"
+        "chinese": "是这样的。所有的问题行为，例如逃学或者割腕以及未成年人饮酒或吸烟等，一切都是“廉价的优越性追求”。你刚开始提到的那位闭门不出的朋友也是一样。孩子陷入问题行为的时候，父母或周围的大人们会加以训斥。被训斥这件事对孩子来说无疑是一种压力。但是，即使是以被训斥这样一种形式，孩子也还是希望得到父母的关注。无论什么形式都可以，就是想成为特别的存在；无论怎么被训斥孩子都不停止问题行为，这在某种意义上来说是理所当然的事情。"
       },
       {
         "speaker": "YOUTH",
@@ -7120,12 +7251,13 @@
     ]
   },
   {
-    "id": 51,
+    "id": 56,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "The Courage to Be Normal",
     "title_cn": "甘于平凡的勇气",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -7155,7 +7287,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Why is it necessary to be special? Probably because one cannot accept one’s normal self. And it is precisely for this reason that when being especially good becomes a lost cause, one makes the huge leap to being especially bad—the opposite extreme. But is being normal, being ordinary, really such a bad thing? Is it something inferior? Or, in truth, isn’t everybody normal? It is necessary to think this through to its logical conclusion.",
-        "chinese": "为什么非要“特别”呢？这是因为无法接受“普通的自己”。所以，在“特别优秀”的梦想受挫之后便非常极端地转为“特别差劲”。"
+        "chinese": "为什么非要“特别”呢？这是因为无法接受“普通的自己”。所以，在“特别优秀”的梦想受挫之后便非常极端地转为“特别差劲”。但是，普通和平凡真的不好吗？有什么不好呢？实际上谁都是普通人。没有必要纠结于这一点。"
       },
       {
         "speaker": "YOUTH",
@@ -7190,7 +7322,7 @@
       {
         "speaker": "YOUTH",
         "english": "No! Look, accepting what you call “normal” would lead to me having to affirm my idle self! It would just be saying, “This is all I am capable of and that’s fine.” I refuse to accept such an idle way of life. Do you think that Napoleon or Alexander the Great or Einstein or Martin Luther King accepted “normal”? And how about Socrates and Plato? Not a chance! More than likely, they all lived their lives while carrying the torch of a great ideal or objective. Another Napoleon could never emerge with your line of reasoning. You are trying to rid the world of geniuses!",
-        "chinese": "不对！先生所说的甘于“普通”其实就是肯定懒惰的自己！认为自己反正就是这样了。我坚决否定这种懒惰的生活方式！"
+        "chinese": "不对！先生所说的甘于“普通”其实就是肯定懒惰的自己！认为自己反正就是这样了。我坚决否定这种懒惰的生活方式！例如拿破仑或者亚历山大大帝，还有爱因斯坦或马丁？路德？金，以及先生非常喜欢的苏格拉底和柏拉图，您认为他们也甘于“平凡”吗？绝不可能！他们肯定是怀着远大的理想和目标在生活吧！按照先生的道理来讲，一个拿破仑也不会产生！你是在扼杀天才！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -7200,17 +7332,18 @@
       {
         "speaker": "YOUTH",
         "english": "But that’s obvious!",
-        "chinese": "那是当然！"
+        "chinese": "那是当然！甘于平凡的勇气。这是多么可怕的语言。阿德勒还有这个哲人难道要我选择那样的道路吗？难道要和大多数人一样过完庸庸碌碌的一生吗？当然，我并不是天才，也许我只能选择“普通”，也许我只能接受平庸的我、置身于平庸的日常生活。但是，我要奋斗。无论结果如何，我都要和这个男人争论到最后，也许我们的辩论现在已经接近核心。青年的心跳越来越快，紧紧握着的手心在这个季节里竟有汗水渗出。"
       }
     ]
   },
   {
-    "id": 52,
+    "id": 57,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Life Is a Series of Moments",
     "title_cn": "人生是一连串的刹那",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -7255,7 +7388,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Do not treat it as a line. Think of life as a series of dots. If you look through a magnifying glass at a solid line drawn with chalk, you will discover that what you thought was a line is actually a series of small dots. Seemingly linear existence is actually a series of dots; in other words, life is a series of moments.",
-        "chinese": "请不要把人生理解为一条线，而要理解成点的连续。"
+        "chinese": "请不要把人生理解为一条线，而要理解成点的连续。如果拿放大镜去看用粉笔画的实线，你会发现原本以为的线其实也是一些连续的小点。看似像线一样的人生其实也是点的连续，也就是说人生是连续的刹那。"
       },
       {
         "speaker": "YOUTH",
@@ -7265,7 +7398,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes. It is a series of moments called “now.” We can live only in the here and now. Our lives exist only in moments. Adults who do not know this attempt to impose “linear” lives onto young people. Their thinking is that staying on the conventional tracks—good university, big company, stable household—is a happy life. But life is not made up of lines or anything like that.",
-        "chinese": "是的，是“现在”这一刹那的连续。我们只能活在“此时此刻”，我们的人生只存在于刹那之中。"
+        "chinese": "是的，是“现在”这一刹那的连续。我们只能活在“此时此刻”，我们的人生只存在于刹那之中。不了解这一点的大人们总是想要强迫年轻人过“线”一样的人生。在他们看来，上好大学、进好企业、拥有稳定的家庭，这样的轨道才是幸福的人生。但是，人生不可能是一条线。"
       },
       {
         "speaker": "YOUTH",
@@ -7285,12 +7418,13 @@
     ]
   },
   {
-    "id": 53,
+    "id": 58,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Live Like You're Dancing",
     "title_cn": "舞动人生",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "PHILOSOPHER",
@@ -7310,12 +7444,12 @@
       {
         "speaker": "YOUTH",
         "english": "Of course!",
-        "chinese": ""
+        "chinese": "当然！"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "But is that really the case? Isn’t it that these people have lived each and every instant of their lives here and now? That is to say, rather than living lives that are “en route,” they are always living here and now. For example, the person who had dreams of becoming a violinist was always looking at pieces of music, and concentrating on each piece, and on each and every measure and note.",
-        "chinese": "果真如此吗？也许是这些人在人生的每一个瞬间都活在“此时此刻”吧。也就是说，不是活在“在路上”的人生之中，而是时常活在“此时此刻”。"
+        "chinese": "果真如此吗？也许是这些人在人生的每一个瞬间都活在“此时此刻”吧。也就是说，不是活在“在路上”的人生之中，而是时常活在“此时此刻”。例如，梦想着成为小提琴手的人也许总是只看见眼前的乐曲，将注意力集中于这一首曲子、这一个小节、这一个音上面。"
       },
       {
         "speaker": "YOUTH",
@@ -7325,7 +7459,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Think of it this way: Life is a series of moments, which one lives as if one were dancing, right now, around and around each passing instant. And when one happens to survey one’s surroundings, one realizes, I guess I’ve made it this far. Among those who have danced the dance of the violin, there are people who stay the course and become professional musicians. Among those who have danced the dance of the bar examination, there are people who become lawyers. There are people who have danced the dance of writing and become authors. Of course, it also happens that people end up in entirely different places. But none of these lives came to an end “en route.” It is enough if one finds fulfillment in the here and now one is dancing.",
-        "chinese": "请你这样想。人生就像是在每一个瞬间不停旋转起舞的连续的刹那。并且，暮然四顾时常常会惊觉：“已经来到这里了吗？”"
+        "chinese": "请你这样想。人生就像是在每一个瞬间不停旋转起舞的连续的刹那。并且，暮然四顾时常常会惊觉：“已经来到这里了吗？”在跳着小提琴之舞的人中可能有人成了专业小提琴手，在跳着司法考试之舞的人中也许有人成为律师，或许还有人跳着写作之舞成了作家。当然，也有可能有着截然不同的结果。但是，所有的人生都不是终结“在路上”，只要跳着舞的“此时此刻”充实就已经足够。"
       },
       {
         "speaker": "YOUTH",
@@ -7395,17 +7529,17 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "What kind of goal is the act of going on a journey? Suppose you are going on a journey to Egypt. Would you try to arrive at the Great Pyramid of Giza as efficiently and quickly as possible, and then head straight back home by the shortest route? One would not call that a “journey.” You should be on a journey the moment you step outside your home, and all the moments on the way to your destination should be a journey. Of course, there might be circumstances that prevent you from making it to the pyramid, but that does not mean you didn’t go on a journey. This is “energeial life.”",
-        "chinese": "旅行的目的是什么？例如你要去埃及旅行。这时候你会想尽早尽快地到达胡夫金字塔，然后再以最短的距离返回吗？"
+        "chinese": "旅行的目的是什么？例如你要去埃及旅行。这时候你会想尽早尽快地到达胡夫金字塔，然后再以最短的距离返回吗？如果是这样的话，那就不能称为旅行。跨出家门的那一瞬间，“旅行”已经开始，朝着目的地出发途中的每一个瞬间都是旅行。当然，即使因为某些事情而没能够到达金字塔，那也并非没有旅行。这就是现实性的人生。"
       },
       {
         "speaker": "YOUTH",
         "english": "I guess I’m just not getting this. Weren’t you refuting the kind of value system of aiming for the mountaintop? What happens if you liken energeial life to mountain climbing?",
-        "chinese": "哎呀，我还是不明白啊。您刚才否定了以山顶为目标的价值观吧？"
+        "chinese": "哎呀，我还是不明白啊。您刚才否定了以山顶为目标的价值观吧？那如果把这种现实性的人生比喻为登山又会如何呢？"
       },
       {
         "speaker": "PHILOSOPHER",
         "english": "If the goal of climbing a mountain were to get to the top, that would be a kinetic act. To take it to the extreme, it wouldn’t matter if you went to the mountaintop in a helicopter, stayed there for five minutes or so, and then headed back in the helicopter again. Of course, if you didn’t make it to the mountaintop, that would mean the mountain-climbing expedition was a failure. However, if the goal is mountain climbing itself, and not just getting to the top, one could say it is energeial. In this case, in the end it doesn’t matter whether one makes it to the mountaintop or not.",
-        "chinese": "如果登山的目的是登上山顶，那它就是潜在性的行为。说得极端点儿，乘坐电梯登上山顶，逗留5分钟，然后再乘电梯回来也可以。当然，如果没能到达山顶的话，其登山活动就等于失败。"
+        "chinese": "如果登山的目的是登上山顶，那它就是潜在性的行为。说得极端点儿，乘坐电梯登上山顶，逗留5分钟，然后再乘电梯回来也可以。当然，如果没能到达山顶的话，其登山活动就等于失败。但是，如果登山的目的不是登顶而是登山本身，那就可以说是现实性的活动。最终能不能登上山顶都没有关系。"
       },
       {
         "speaker": "YOUTH",
@@ -7420,17 +7554,18 @@
     ]
   },
   {
-    "id": 54,
+    "id": 59,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Shine a Light on the Here and Now",
     "title_cn": "最重要的是\"此时此刻\"",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
         "english": "Look, in your refutation of etiology, you rejected focusing on the past. You said that the past does not exist, and that it has no meaning. I acknowledge those points. It is true that one cannot change the past. If there is something that can be changed, it is the future. But now, by advocating this energeial way of living, you are refuting planning; that is to say, you are rejecting even changing one’s future of one’s own volition. So while you reject looking back, you are rejecting looking forward, too. It’s like you’re telling me to just walk blindfolded along a pathless path.",
-        "chinese": "先生在否定原因论的时候也否定了关注过去。您说过去并不存在，过去没有意义。这一点我同意。过去的确无法改变，能改变的只有未来。"
+        "chinese": "先生在否定原因论的时候也否定了关注过去。您说过去并不存在，过去没有意义。这一点我同意。过去的确无法改变，能改变的只有未来。但是，现在通过说明现实性生活方式又否定了计划性，也就是否定了按照自己的意思改变未来。您既否定往后看，同时也否定朝前看。这简直就是说要在没路的地方盲目前行呀！"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -7455,7 +7590,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Imagine that you are standing on a theater stage. If the house lights are on, you’ll probably be able to see all the way to the back of the hall. But if you’re under a bright spotlight, you won’t be able to make out even the front row. That’s exactly how it is with our lives. It’s because we cast a dim light on our entire lives that we are able to see the past and the future. Or at least we imagine we can. But if one is shining a bright spotlight on here and now, one cannot see the past or the future anymore.",
-        "chinese": "请你想象一下自己站在剧场舞台上的样子。此时，如果整个会场都开着灯，那就可以看到观众席的最里边。但是，如果强烈的聚光灯打向自己，那就连最前排也看不见。"
+        "chinese": "请你想象一下自己站在剧场舞台上的样子。此时，如果整个会场都开着灯，那就可以看到观众席的最里边。但是，如果强烈的聚光灯打向自己，那就连最前排也看不见。我们的人生也完全一样。正因为把模糊而微弱的光打向人生整体，所以才能够看到过去和未来；不，是感觉能够看得到。但是，如果把强烈的聚光灯对准“此时此刻”，那就会既看不到过去也看不到未来。"
       },
       {
         "speaker": "YOUTH",
@@ -7465,7 +7600,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Yes. We should live more earnestly only here and now. The fact that you think you can see the past, or predict the future, is proof that rather than living earnestly here and now, you are living in a dim twilight. Life is a series of moments, and neither the past nor the future exists. You are trying to give yourself a way out by focusing on the past and the future. What happened in the past has nothing whatsoever to do with your here and now, and what the future may hold is not a matter to think about here and now. If you are living earnestly here and now, you will not be concerned with such things.",
-        "chinese": "是的。我们应该更加认真地过好“此时此刻”。如果感觉能够看得到过去也能预测到未来，那就证明你没有认真地活在“此时此刻”，而是生活在模糊而微弱的光中。"
+        "chinese": "是的。我们应该更加认真地过好“此时此刻”。如果感觉能够看得到过去也能预测到未来，那就证明你没有认真地活在“此时此刻”，而是生活在模糊而微弱的光中。人生是连续的刹那，根本不存在过去和未来。你是想要通过关注过去或未来为自己寻找免罪符。过去发生了什么与你的“此时此刻”没有任何关系，未来会如何也不是“此时此刻”要考虑的问题。假如认真地活在“此时此刻”，那就根木不会说出那样的话。"
       },
       {
         "speaker": "YOUTH",
@@ -7475,7 +7610,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "When one adopts the point of view of Freudian etiology, one sees life as a kind of great big story based on cause and effect. So then it’s all about where and when I was born, what my childhood was like, the school I attended and the company where I got a job. And that decides who I am now and who I will become. To be sure, likening one’s life to a story is probably an entertaining job. The problem is, one can see the dimness that lies ahead at the end of the story. Moreover, one will try to lead a life that is in line with that story. And then one says, “My life is such-and-such, so I have no choice but to live this way, and it’s not because of me—it’s my past, it’s the environment,” and so on. But bringing up the past here is nothing but a way out, a life-lie. However, life is a series of dots, a series of moments. If you can grasp that, you will not need a story any longer.",
-        "chinese": "如果站在弗洛伊德式原因论的立场上，那就会把人生理解为基于因果律的一个长故事。何时何地出生、度过了什么样的童年时代、从什么样的学校毕业、进了什么样的公司，正是这些因素决定了现在的我和将来的我。"
+        "chinese": "如果站在弗洛伊德式原因论的立场上，那就会把人生理解为基于因果律的一个长故事。何时何地出生、度过了什么样的童年时代、从什么样的学校毕业、进了什么样的公司，正是这些因素决定了现在的我和将来的我。的确，把人生当作故事是很有趣的事情。但是，在故事的前面部分就能看到“模糊的将来”；并且，人们还会想要按照这个故事去生活。我的人生就是这样，所以我只能照此生活，错不在我而在于过去和环境。这里搬出来的过去无非是一种免罪符，是人生的谎言。但是，人生是点的连续、是连续的刹那。如果能够理解这一点，那就不再需要故事。"
       },
       {
         "speaker": "YOUTH",
@@ -7500,12 +7635,13 @@
     ]
   },
   {
-    "id": 55,
+    "id": 60,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "The Greatest Life-Lie",
     "title_cn": "对决\"人生最大的谎言\"",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -7515,7 +7651,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "For example, one wants to get into a university but makes no attempt to study. This an attitude of not living earnestly here and now. Of course, maybe the entrance examination is still far off. Maybe one is not sure what needs to be studied or how thoroughly, and one finds it troublesome. However, it is enough to do it little by little—every day one can work out some mathematical formulas, one can memorize some words. In short, one can dance the dance. By doing so, one is sure to have a sense of “this is what I did today”; this is what today, this single day, was for. Clearly, today is not for an entrance examination in the distant future. And the same thing would hold true for your father, too—he was likely dancing earnestly the dance of his everyday work. He lived earnestly here and now, without having a grand objective or the need to achieve that objective. And, if that was the case, it would seem that your father’s life was a happy one.",
-        "chinese": "例如，虽然想上大学但却不想学习，这就是没有认真过好“此时此刻”的态度。当然，考试也许是很久之后的事情，也不知道该学到什么程度，所以也许会感到麻烦。但是，每天进步一点点也可以，解开一个算式或者记住一个单词都可以。也就是要不停地跳舞。如此一来，势必会有“今天能够做到的事情”。今天这一天就为此存在，而不是为遥远的将来的考试而存在。"
+        "chinese": "例如，虽然想上大学但却不想学习，这就是没有认真过好“此时此刻”的态度。当然，考试也许是很久之后的事情，也不知道该学到什么程度，所以也许会感到麻烦。但是，每天进步一点点也可以，解开一个算式或者记住一个单词都可以。也就是要不停地跳舞。如此一来，势必会有“今天能够做到的事情”。今天这一天就为此存在，而不是为遥远的将来的考试而存在。又或者，你父亲也是在认真地做好每一天的工作，与远大目标或者那种目标的实现没有关系，只是认真地过好“此时此刻”。假若如此，你父亲的人生应该是很幸福的。"
       },
       {
         "speaker": "YOUTH",
@@ -7535,7 +7671,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "And the same may be said with regard to your own life. You set objectives for the distant future, and think of now as your preparatory period. You think, I really want to do this, and I’ll do it when the time comes. This is a way of living that postpones life. As long as we postpone life, we can never go anywhere and will pass our days only one after the next in dull monotony, because we think of here and now as just a preparatory period, as a time for patience. But a “here and now” in which one is studying for an entrance examination in the distant future, for example, is the real thing.",
-        "chinese": "你自己的人生也同样。为遥远的将来设定一个目标，并认为现在是其准备阶段。一直想着“真正想做的是这样的事情，等时机到了就去做”，是一种拖延人生的生活方式。只要在拖延人生，我们就会无所进展，只能每天过着枯燥乏味的单调生活。因为在这种情况下，人就会认为“此时此刻”只是准备阶段和忍耐阶段。"
+        "chinese": "你自己的人生也同样。为遥远的将来设定一个目标，并认为现在是其准备阶段。一直想着“真正想做的是这样的事情，等时机到了就去做”，是一种拖延人生的生活方式。只要在拖延人生，我们就会无所进展，只能每天过着枯燥乏味的单调生活。因为在这种情况下，人就会认为“此时此刻”只是准备阶段和忍耐阶段。但是，为了遥远将来的考试而努力学习的“此时此刻”却是真实的存在。"
       },
       {
         "speaker": "YOUTH",
@@ -7545,7 +7681,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Not having objectives or the like is fine. Living earnestly here and now is itself a dance. One must not get too serious. Please do not confuse being earnest with being too serious.",
-        "chinese": "没有目标也无妨。认真过好“此时此刻”，这本身就是跳舞。"
+        "chinese": "没有目标也无妨。认真过好“此时此刻”，这本身就是跳舞。不要把人生弄得太深刻。请不要把认真和深刻混为一谈。"
       },
       {
         "speaker": "YOUTH",
@@ -7555,7 +7691,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That’s right. Life is always simple, not something that one needs to get too serious about. If one is living each moment earnestly, there is no need to get too serious.",
-        "chinese": "是的。人生很简单，并不是什么深刻的事情。如果认真过好了每一个刹那，就没有什么必要令其过于深刻。"
+        "chinese": "是的。人生很简单，并不是什么深刻的事情。如果认真过好了每一个刹那，就没有什么必要令其过于深刻。并且还要记住一点。站在现实性角度的时候，人生总是处于完结状态。"
       },
       {
         "speaker": "YOUTH",
@@ -7590,7 +7726,7 @@
       {
         "speaker": "YOUTH",
         "english": "Oh, okay!",
-        "chinese": ""
+        "chinese": "哦，OK。"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -7610,12 +7746,13 @@
     ]
   },
   {
-    "id": 56,
+    "id": 61,
     "part": 5,
     "part_title_en": "THE FIFTH NIGHT: To Live in Earnest in the Here and Now",
     "part_title_cn": "第五夜 认真的人生\"活在当下\"",
     "title_en": "Give Meaning to Seemingly Meaningless Life",
     "title_cn": "人生的意义，由你自己决定",
+    "narrationOnly": false,
     "dialogues": [
       {
         "speaker": "YOUTH",
@@ -7655,7 +7792,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "The world in which we live is constantly beset by all manner of horrendous events, and we exist with the ravages of war and natural disasters all around us. When confronted by the fact of children dying in the turmoil of war, there is no way one can go on about the meaning of life. In other words, there is no meaning in using generalizations to talk about life. But being confronted by such incomprehensible tragedies without taking any action is tantamount to affirming them. Regardless of the circumstances, we must take some form of action. We must stand up to Kant’s “inclination.”",
-        "chinese": "例如战祸或天灾，我们所居住的世界充满了各种不合理的事情。我们也不可能在被卷入战祸而丧命的孩子们面前谈什么“人生意义”。也就是说，人生并不存在可以作为常识来讲的意义。"
+        "chinese": "例如战祸或天灾，我们所居住的世界充满了各种不合理的事情。我们也不可能在被卷入战祸而丧命的孩子们面前谈什么“人生意义”。也就是说，人生并不存在可以作为常识来讲的意义。但是，如果面对这种不合理的悲剧而不采取任何行动的话，那就等于是在肯定己经发生的悲剧。无论发生何种状况，我们都必须采取一些行动，必须对抗康德所说的倾向性。"
       },
       {
         "speaker": "YOUTH",
@@ -7665,7 +7802,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Now, suppose one experiences a major natural disaster, and one’s response is to look back at the past in an etiological manner and say, “What could have caused such a thing to happen?” How meaningful would that be? An experience of hardship should be an opportunity to look ahead and think, What can I do from now on?",
-        "chinese": "那么，假如遭受到了重大天灾，按照原因论的角度去回顾过去以及追问“为什么会发生这样的事情”，这又有多大意义呢？"
+        "chinese": "那么，假如遭受到了重大天灾，按照原因论的角度去回顾过去以及追问“为什么会发生这样的事情”，这又有多大意义呢？正因为这样，我们在遭遇困难的时候才更要向前看，更应该思考“今后能够做些什么？”"
       },
       {
         "speaker": "YOUTH",
@@ -7685,7 +7822,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "During the war, my grandfather was firebombed, and his face was severely burned. In every way, it was a horrendous and inhumane event. It would certainly have been within the realm of possibility for him to choose a lifestyle with the perspective of “the world is a horrible place” or “people are my enemies.” However, when my grandfather rode the train on visits to the hospital, there were always other passengers who would give up their seats for him. This is something I heard about through my mother, so I do not know how he actually felt. But this is what I believe: My grandfather chose a lifestyle with the perspective of “People are my comrades, and the world is a wonderful place.” That is exactly what Adler is pointing to when he says whatever meaning life has must be assigned to it by the individual. So life in general has no meaning whatsoever. But you can assign meaning to that life. And you are the only one who can assign meaning to your life.",
-        "chinese": "年轻时，我祖父的脸部曾受到了重创，这实在是不合理、非人道的灾难。当然，也可能有人会因此而选择“世界太残酷”或者“人们都是我的敌人”之类的生活方式。但是，我相信祖父一定是选择了“人们都是我的伙伴，世界非常美妙”这样的生活方式。"
+        "chinese": "年轻时，我祖父的脸部曾受到了重创，这实在是不合理、非人道的灾难。当然，也可能有人会因此而选择“世界太残酷”或者“人们都是我的敌人”之类的生活方式。但是，我相信祖父一定是选择了“人们都是我的伙伴，世界非常美妙”这样的生活方式。阿德勒所说的“人生的意义是由你自己赋予自己的”，就正是这个意思。人生没有普遍性的意义。但是，你可以赋予这样的人生以意义，而能够赋予你的人生以意义的只有你自己。"
       },
       {
         "speaker": "YOUTH",
@@ -7755,7 +7892,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "That is the nature of energeial life. If I look back on my own life up to now, no matter how I try, I will never arrive at a satisfactory explanation as to why I am here and now. Though, at one time, the study of Greek philosophy was my focus, before long I took up the study of Adlerian psychology in tandem with it, and here I am today, deep in conversation with you, my irreplaceable friend. It is the result of having danced the moments—that is the only way to explain it. When you have danced here and now in earnest and to the full, that is when the meaning of your life will become clear to you.",
-        "chinese": "现实性的人生就是这样。我自己无论怎样回顾之前的人生也无法解释自己为什么会走到“此时此刻”。"
+        "chinese": "现实性的人生就是这样。我自己无论怎样回顾之前的人生也无法解释自己为什么会走到“此时此刻”。本以为在学习希腊哲学，但不知不觉间同时学习了阿德勒心理学，又像现在这样与你这位不可替代的朋友热烈交谈。这正是跳好每一个刹那的结果。对你而言的人生意义在认真跳好“此时此刻”的时候就会逐渐明确。"
       },
       {
         "speaker": "YOUTH",
@@ -7770,7 +7907,7 @@
       {
         "speaker": "YOUTH",
         "english": "And that is?",
-        "chinese": ""
+        "chinese": "什么？"
       },
       {
         "speaker": "PHILOSOPHER",
@@ -7845,7 +7982,7 @@
       {
         "speaker": "PHILOSOPHER",
         "english": "Ha-ha! At last, you have shown me a young person’s smile. Well, it’s quite late already. Let’s pass our own nights, and greet the new morning.",
-        "chinese": "哈哈哈，你终于露出年轻人应有的笑容啦！好吧，已经很晚了。让我们度过各自的夜晚，然后迎来新的早晨吧！"
+        "chinese": "哈哈哈，你终于露出年轻人应有的笑容啦！好吧，已经很晚了。让我们度过各自的夜晚，然后迎来新的早晨吧！青年慢慢系上鞋带，离开了哲人的家。什么时候开始下雪的呢？门外一片雪景。天空中的满月柔和地照着脚下的雪。多么清新的空气！多么夺目的光芒！我踏着新下的雪，迈出了一步。青年深深吸了一口气，摸了摸短短的胡须，清楚地自语道：“世界很简单，人生也是一样！”"
       }
     ]
   }

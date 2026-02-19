@@ -169,8 +169,18 @@
         }
         
         .dialogue-card.narration {
-            border-left-color: #888;
-            background: #fafafa;
+            border-left: 4px solid #b8a898;
+            background: linear-gradient(135deg, #f5f0e8 0%, #ede8dc 100%);
+            font-style: italic;
+            cursor: pointer;
+        }
+        
+        .dialogue-card.narration .english-text {
+            color: #5a4a3a;
+        }
+        
+        .dialogue-card.narration .chinese-text {
+            color: #7a6a5a;
         }
         
         .speaker {
@@ -543,24 +553,37 @@
             contentDiv.innerHTML = `
                 <div class="dialogue-container">
                     ${chapter.dialogues.map((d, i) => {
+                        const isNarration = d.speaker === 'NARRATION';
                         const speakerClass = d.speaker.toLowerCase();
-                        const speakerLabel = d.speaker === 'YOUTH' ? '青年' : 
-                                            d.speaker === 'PHILOSOPHER' ? '哲人' : '旁白';
-                        const showSpeaker = d.speaker !== 'NARRATION';
+                        const speakerLabel = d.speaker === 'YOUTH' ? '青年' : '哲人';
+                        if (isNarration) {
+                            if (d.english) {
+                                return `
+                        <div class="dialogue-card narration ${allRevealed ? 'revealed' : ''}" onclick="toggleTranslation(this)" data-index="${i}">
+                            <div class="english-text">${escapeHtml(d.english)}</div>
+                            <div class="chinese-text">${escapeHtml(d.chinese)}</div>
+                            <span class="reveal-indicator">${allRevealed ? '✓' : '···'}</span>
+                        </div>`;
+                            } else {
+                                return `
+                        <div class="dialogue-card narration revealed" data-index="${i}">
+                            <div class="chinese-text" style="margin-top:0;padding-top:0;border-top:none;">${escapeHtml(d.chinese)}</div>
+                        </div>`;
+                            }
+                        }
                         return `
                         <div class="dialogue-card ${speakerClass} ${allRevealed ? 'revealed' : ''}" 
                              onclick="toggleTranslation(this)"
                              data-index="${i}">
-                            ${showSpeaker ? `
                             <div class="speaker ${speakerClass}">
                                 <span class="speaker-icon"></span>
                                 ${speakerLabel}
-                            </div>` : ''}
+                            </div>
                             <div class="english-text">${escapeHtml(d.english)}</div>
                             <div class="chinese-text">${escapeHtml(d.chinese)}</div>
                             <span class="reveal-indicator">${allRevealed ? '✓' : '···'}</span>
-                        </div>
-                    `}).join('')}
+                        </div>`;
+                    }).join('')}
                 </div>
             `;
             
@@ -582,14 +605,14 @@
         function toggleAllTranslations() {
             allRevealed = !allRevealed;
             const btn = document.getElementById('showAllBtn');
-            const cards = document.querySelectorAll('.dialogue-card');
+            const cards = document.querySelectorAll('.dialogue-card[onclick]');
             
             btn.classList.toggle('active', allRevealed);
             
             cards.forEach(card => {
                 card.classList.toggle('revealed', allRevealed);
                 const indicator = card.querySelector('.reveal-indicator');
-                indicator.textContent = allRevealed ? '✓' : '···';
+                if (indicator) indicator.textContent = allRevealed ? '✓' : '···';
             });
         }
         
